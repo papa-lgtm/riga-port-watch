@@ -1,0 +1,13 @@
+{
+  "source_url": "https://rbp-oks.oiscloud.lv/api/v1/getShipsForRop",
+
+  "_comment_berths": "Berth-code prefixes treated as repair/dock berths. Verify against the berth catalogue the script writes to berths.md and edit this list.",
+  "repair_berth_prefixes": ["PD-", "RKR-", "MKR-", "KRS-", "VM-"],
+
+  "rules": {
+    "min_length_m": 60,
+    "min_gt": 500,
+    "long_stay_days": 10,
+    "forget_visit_after_days": 14
+  }
+}

@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-19 23:28
+# Berth codes seen — 2026-09-20 00:28
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -6,8 +6,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 |---|---|---|
 | DG-19 |  | RUBYLAND |
 | DG-20 |  | LORALAND |
-| DG-55 |  | BENABELL G, BREB TRADER |
-| DG-55A |  | BREB TRADER |
+| DG-55 |  | BENABELL G |
 | EO-09 |  | KANO REEFER |
 | EO-10 |  | SALERNO |
 | EO-12 |  | HEBO-P101 |
@@ -15,8 +14,8 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | JM-23 |  | BALTIC EXPRESS |
 | JPS-1 |  | FGS OSTE (A52) |
 | KR-25 |  | NAVA DIONYSSOS |
-| KRS-01 | YES | BREB TRADER, HUMBER SPRINTER, KEIT |
-| KRS-02 | YES | BREB TRADER, HOHE BANK, LADY ASTRID, WESTBORG |
+| KRS-01 | YES | HUMBER SPRINTER, KEIT |
+| KRS-02 | YES | HOHE BANK, LADY ASTRID, WESTBORG |
 | KRS-03 | YES | MFM NICOLE |
 | KS-29 |  | FEDERAL IMPACT |
 | KS-30 |  | FEDERAL IMPACT |
@@ -37,7 +36,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-K4 | YES | ASTRA, LADY ANNE BEAU |
 | PD-MTW | YES | BON VIVANT, VICTORIABORG |
 | RD-3 |  | HUMBER RUNNER, ICELANDICA HAV |
-| RKR-4 | YES | ASTRA, POSEIDON I |
+| RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-6 | YES | BALTIC PURPLE, HEBO-P101, LADY ANNE BEAU, VICTORIABORG |
 | RKR-7 | YES | ASTRA, BREB BALTIA, NAVA DIONYSSOS |
 | RKR-8 | YES | ICELANDICA HAV |

@@ -1,0 +1,51 @@
+name: Riga port watch
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: port-watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Read the port ship list
+        run: python port_watch.py
+
+      - name: Commit results
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          git config user.name "riga-watch"
+          git config user.email "actions@github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git commit -m "port update $(date -u +%Y-%m-%dT%H:%MZ)"
+          if git push origin "HEAD:${BRANCH}"; then
+            echo "Saved."
+            exit 0
+          fi
+          echo "Someone pushed first, rebuilding on top."
+          git fetch origin "${BRANCH}"
+          git reset --hard "origin/${BRANCH}"
+          python port_watch.py
+          git add -A
+          git diff --staged --quiet || git commit -m "port update $(date -u +%Y-%m-%dT%H:%MZ) (merged)"
+          git push origin "HEAD:${BRANCH}"

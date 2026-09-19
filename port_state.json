@@ -1,0 +1,305 @@
+{
+ "3046465": {
+  "name": "PRIMA QUEEN",
+  "imo": "9194282",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "MS-10"
+  ],
+  "last_seen": "2026-09-19 23:28",
+  "status": "BERTHED"
+ },
+ "3046455": {
+  "name": "BENABELL G",
+  "imo": "9864772",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "DG-55",
+   "MKR-1"
+  ],
+  "last_seen": "2026-09-19 23:28",
+  "status": "BERTHED"
+ },
+ "3046452": {
+  "name": "WES GESA",
+  "imo": "9504061",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KS-34"
+  ],
+  "last_seen": "2026-09-19 23:28",
+  "status": "BERTHED"
+ },
+ "3046450": {
+  "name": "WESTBORG",
+  "imo": "9196187",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KRS-02"
+  ],
+  "last_seen": "2026-09-19 23:28",
+  "status": "BERTHED"
+ },
+ "3046459": {
+  "name": "DREHOE II",
+  "imo": "",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "MS-12"
+  ],
+  "last_seen": "2026-09-19 23:28",
+  "status": "BERTHED"
+ },
+ "3046398": {
+  "name": "ELBWIND",
+  "imo": "9483334",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KS-32",
+   "ZO-01"
+  ],
+  "last_seen": "2026-09-19 23:28",
+  "status": "BERTHED"
+ },
+ "3046376": {
+  "name": "HUMBER SPRINTER",
+  "imo": "9467172",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KRS-01"
+  ],
+  "last_seen": "2026-09-19 23:28",
+  "status": "BERTHED"
+ },
+ "3046444": {
+  "name": "MFM NICOLE",
+  "imo": "1043566",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KRS-03"
+  ],
+  "last_seen": "2026-09-19 23:28",
+  "status": "BERTHED"
+ },
+ "3046456": {
+  "name": "FGS OSTE (A52)",
+  "imo": "",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "JPS-1"
+  ],
+  "last_seen": "2026-09-19 23:28",
+  "status": "BERTHED"
+ },
+ "3046439": {
+  "name": "BREB TRADER",
+  "imo": "9369526",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "DG-55",
+   "DG-55A",
+   "KRS-01",
+   "KRS-02"
+  ],
+  "last_seen": "2026-09-19 23:28",
+  "status": "MOVING"
+ },
+ "3046415": {
+  "name": "SVEALAND",
+  "imo": "9195743",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "MKR-3",
+   "ZO-10"
+  ],
+  "last_seen": "2026-09-19 23:28",
+  "status": "BERTHED"
+ },
+ "3046446": {
+  "name": "NAVA DIONYSSOS",
+  "imo": "9608673",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KR-25",
+   "MS-2",
+   "RKR-7"
+  ],
+  "last_seen": "2026-09-19 23:28",
+  "status": "BERTHED"
+ },
+ "3046416": {
+  "name": "VICTORIABORG",
+  "imo": "9234276",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "PD-MTW",
+   "RKR-6"
+  ],
+  "last_seen": "2026-09-19 23:28",
+  "status": "BERTHED"
+ },
+ "3046396": {
+  "name": "CLARA K.",
+  "imo": "9373321",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "MKR-4",
+   "PD-419"
+  ],
+  "last_seen": "2026-09-19 23:28",
+  "status": "BERTHED"
+ },
+ "3046389": {
+  "name": "LADY ANNE BEAU",
+  "imo": "9760407",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "PD-K4",
+   "RKR-6"
+  ],
+  "last_seen": "2026-09-19 23:28",
+  "status": "BERTHED"
+ },
+ "3046374": {
+  "name": "BALTIC PURPLE",
+  "imo": "9143099",
+  "flagged_repair": true,
+  "flagged_long_stay": true,
+  "berths_seen": [
+   "PD-791",
+   "RKR-6"
+  ],
+  "last_seen": "2026-09-19 23:28",
+  "status": "BERTHED"
+ },
+ "3046367": {
+  "name": "FEDERAL IMPACT",
+  "imo": "9933042",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KS-29",
+   "KS-30",
+   "MS-2",
+   "ZO-12"
+  ],
+  "last_seen": "2026-09-19 23:28",
+  "status": "BERTHED"
+ },
+ "3046336": {
+  "name": "BON VIVANT",
+  "imo": "9052692",
+  "flagged_repair": true,
+  "flagged_long_stay": true,
+  "berths_seen": [
+   "MKR-4",
+   "MKR-7",
+   "PD-MTW"
+  ],
+  "last_seen": "2026-09-19 23:28",
+  "status": "BERTHED"
+ },
+ "3046302": {
+  "name": "LADY ASTRID",
+  "imo": "9760419",
+  "flagged_repair": true,
+  "flagged_long_stay": true,
+  "berths_seen": [
+   "KRS-02",
+   "MKR-4",
+   "MKR-5",
+   "PD-419",
+   "VM-4"
+  ],
+  "last_seen": "2026-09-19 23:28",
+  "status": "BERTHED"
+ },
+ "3045995": {
+  "name": "LORALAND",
+  "imo": "9179311",
+  "flagged_repair": true,
+  "flagged_long_stay": true,
+  "berths_seen": [
+   "DG-20",
+   "PD-75"
+  ],
+  "last_seen": "2026-09-19 23:28",
+  "status": "BERTHED"
+ },
+ "3045569": {
+  "name": "SALERNO",
+  "imo": "9189873",
+  "flagged_repair": false,
+  "flagged_long_stay": true,
+  "berths_seen": [
+   "EO-10"
+  ],
+  "last_seen": "2026-09-19 23:28",
+  "status": "BERTHED"
+ },
+ "3045436": {
+  "name": "KANO REEFER",
+  "imo": "9194957",
+  "flagged_repair": false,
+  "flagged_long_stay": true,
+  "berths_seen": [
+   "EO-09"
+  ],
+  "last_seen": "2026-09-19 23:28",
+  "status": "BERTHED"
+ },
+ "3044986": {
+  "name": "HEBO-P101",
+  "imo": "",
+  "flagged_repair": true,
+  "flagged_long_stay": true,
+  "berths_seen": [
+   "EO-12",
+   "PD-791",
+   "RKR-6"
+  ],
+  "last_seen": "2026-09-19 23:28",
+  "status": "BERTHED"
+ },
+ "3034270": {
+  "name": "POSEIDON I",
+  "imo": "7330064",
+  "flagged_repair": true,
+  "flagged_long_stay": true,
+  "berths_seen": [
+   "RKR-4"
+  ],
+  "last_seen": "2026-09-19 23:28",
+  "status": "BERTHED"
+ },
+ "3032756": {
+  "name": "ASTRA",
+  "imo": "8305767",
+  "flagged_repair": true,
+  "flagged_long_stay": true,
+  "berths_seen": [
+   "MKR-5",
+   "PD-419",
+   "PD-K4",
+   "RKR-4",
+   "RKR-7"
+  ],
+  "last_seen": "2026-09-19 23:28",
+  "status": "BERTHED"
+ }
+}

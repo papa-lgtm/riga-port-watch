@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-20 18:28
+# Berth codes seen — 2026-09-20 19:29
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -13,6 +13,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-15 |  | X-PRESS AGILITY |
 | JM-23 |  | BALTIC EXPRESS |
 | JPS-1 |  | FGS OSTE (A52) |
+| JPS-2 |  | BIRKA GOTLAND |
 | KR-25 |  | NAVA DIONYSSOS |
 | KRS-01 | YES | HUMBER SPRINTER, KEIT |
 | KRS-02 | YES | HOHE BANK |

@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-20 21:31
+# Berth codes seen — 2026-09-20 22:26
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -15,7 +15,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | JPS-1 |  | FGS OSTE (A52) |
 | JPS-2 |  | BIRKA GOTLAND |
 | KR-25 |  | NAVA DIONYSSOS |
-| KRS-01 | YES | HUMBER SPRINTER, KEIT |
+| KRS-01 | YES | KEIT |
 | KRS-02 | YES | HOHE BANK |
 | KRS-03 | YES | MFM NICOLE |
 | KS-29 |  | FEDERAL IMPACT |
@@ -24,7 +24,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KS-34 |  | MSC ASLI II |
 | MK-4 |  | AIDALUNA, VASCO DA GAMA |
 | MKR-1 | YES | BENABELL G, JOMI, WECO TATI |
-| MKR-2 | YES | HUMBER SPRINTER, KEIT |
+| MKR-2 | YES | KEIT |
 | MKR-3 | YES | ICELANDICA HAV, SVEALAND |
 | MKR-4 | YES | BON VIVANT, CLARA K. |
 | MKR-5 | YES | ASTRA |

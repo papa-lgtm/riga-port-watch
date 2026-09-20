@@ -7,7 +7,7 @@
   "berths_seen": [
    "MS-10"
   ],
-  "last_seen": "2026-09-20 08:28",
+  "last_seen": "2026-09-20 09:34",
   "status": "BERTHED"
  },
  "3046455": {
@@ -19,7 +19,7 @@
    "DG-55",
    "MKR-1"
   ],
-  "last_seen": "2026-09-20 08:28",
+  "last_seen": "2026-09-20 09:34",
   "status": "BERTHED"
  },
  "3046452": {
@@ -30,7 +30,7 @@
   "berths_seen": [
    "KS-34"
   ],
-  "last_seen": "2026-09-20 08:28",
+  "last_seen": "2026-09-20 09:34",
   "status": "BERTHED"
  },
  "3046450": {
@@ -52,7 +52,7 @@
   "berths_seen": [
    "MS-12"
   ],
-  "last_seen": "2026-09-20 08:28",
+  "last_seen": "2026-09-20 09:34",
   "status": "BERTHED"
  },
  "3046398": {
@@ -73,10 +73,11 @@
   "flagged_repair": true,
   "flagged_long_stay": false,
   "berths_seen": [
-   "KRS-01"
+   "KRS-01",
+   "MKR-2"
   ],
-  "last_seen": "2026-09-20 08:28",
-  "status": "MOVING"
+  "last_seen": "2026-09-20 09:34",
+  "status": "BERTHED"
  },
  "3046444": {
   "name": "MFM NICOLE",
@@ -86,7 +87,7 @@
   "berths_seen": [
    "KRS-03"
   ],
-  "last_seen": "2026-09-20 08:28",
+  "last_seen": "2026-09-20 09:34",
   "status": "BERTHED"
  },
  "3046456": {
@@ -97,7 +98,7 @@
   "berths_seen": [
    "JPS-1"
   ],
-  "last_seen": "2026-09-20 08:28",
+  "last_seen": "2026-09-20 09:34",
   "status": "BERTHED"
  },
  "3046439": {
@@ -123,7 +124,7 @@
    "MKR-3",
    "ZO-10"
   ],
-  "last_seen": "2026-09-20 08:28",
+  "last_seen": "2026-09-20 09:34",
   "status": "BERTHED"
  },
  "3046446": {
@@ -136,7 +137,7 @@
    "MS-2",
    "RKR-7"
   ],
-  "last_seen": "2026-09-20 08:28",
+  "last_seen": "2026-09-20 09:34",
   "status": "BERTHED"
  },
  "3046416": {
@@ -148,7 +149,7 @@
    "PD-MTW",
    "RKR-6"
   ],
-  "last_seen": "2026-09-20 08:28",
+  "last_seen": "2026-09-20 09:34",
   "status": "BERTHED"
  },
  "3046396": {
@@ -160,7 +161,7 @@
    "MKR-4",
    "PD-419"
   ],
-  "last_seen": "2026-09-20 08:28",
+  "last_seen": "2026-09-20 09:34",
   "status": "BERTHED"
  },
  "3046389": {
@@ -172,7 +173,7 @@
    "PD-K4",
    "RKR-6"
   ],
-  "last_seen": "2026-09-20 08:28",
+  "last_seen": "2026-09-20 09:34",
   "status": "BERTHED"
  },
  "3046374": {
@@ -184,7 +185,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-09-20 08:28",
+  "last_seen": "2026-09-20 09:34",
   "status": "BERTHED"
  },
  "3046367": {
@@ -198,7 +199,7 @@
    "MS-2",
    "ZO-12"
   ],
-  "last_seen": "2026-09-20 08:28",
+  "last_seen": "2026-09-20 09:34",
   "status": "BERTHED"
  },
  "3046336": {
@@ -211,7 +212,7 @@
    "MKR-7",
    "PD-MTW"
   ],
-  "last_seen": "2026-09-20 08:28",
+  "last_seen": "2026-09-20 09:34",
   "status": "BERTHED"
  },
  "3046302": {
@@ -226,7 +227,7 @@
    "PD-419",
    "VM-4"
   ],
-  "last_seen": "2026-09-20 08:28",
+  "last_seen": "2026-09-20 09:34",
   "status": "BERTHED"
  },
  "3045995": {
@@ -238,7 +239,7 @@
    "DG-20",
    "PD-75"
   ],
-  "last_seen": "2026-09-20 08:28",
+  "last_seen": "2026-09-20 09:34",
   "status": "BERTHED"
  },
  "3045569": {
@@ -249,7 +250,7 @@
   "berths_seen": [
    "EO-10"
   ],
-  "last_seen": "2026-09-20 08:28",
+  "last_seen": "2026-09-20 09:34",
   "status": "BERTHED"
  },
  "3045436": {
@@ -260,7 +261,7 @@
   "berths_seen": [
    "EO-09"
   ],
-  "last_seen": "2026-09-20 08:28",
+  "last_seen": "2026-09-20 09:34",
   "status": "BERTHED"
  },
  "3044986": {
@@ -273,7 +274,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-09-20 08:28",
+  "last_seen": "2026-09-20 09:34",
   "status": "BERTHED"
  },
  "3034270": {
@@ -284,7 +285,7 @@
   "berths_seen": [
    "RKR-4"
   ],
-  "last_seen": "2026-09-20 08:28",
+  "last_seen": "2026-09-20 09:34",
   "status": "BERTHED"
  },
  "3032756": {
@@ -299,7 +300,7 @@
    "RKR-4",
    "RKR-7"
   ],
-  "last_seen": "2026-09-20 08:28",
+  "last_seen": "2026-09-20 09:34",
   "status": "BERTHED"
  },
  "3046464": {
@@ -312,7 +313,7 @@
    "RD-3",
    "RKR-8"
   ],
-  "last_seen": "2026-09-20 08:28",
+  "last_seen": "2026-09-20 09:34",
   "status": "BERTHED"
  }
 }

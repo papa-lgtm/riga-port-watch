@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-20 08:28
+# Berth codes seen — 2026-09-20 09:34
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -15,14 +15,15 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | JPS-1 |  | FGS OSTE (A52) |
 | KR-25 |  | NAVA DIONYSSOS |
 | KRS-01 | YES | HUMBER SPRINTER, KEIT |
-| KRS-02 | YES | HOHE BANK, LADY ASTRID, WESTBORG |
+| KRS-02 | YES | HOHE BANK, LADY ASTRID |
 | KRS-03 | YES | MFM NICOLE |
 | KS-29 |  | FEDERAL IMPACT |
 | KS-30 |  | FEDERAL IMPACT |
-| KS-32 |  | ELBWIND, SONDERBORG |
+| KS-32 |  | SONDERBORG |
 | KS-34 |  | MSC ASLI II, WES GESA |
 | MK-4 |  | AIDALUNA |
 | MKR-1 | YES | BENABELL G, JOMI |
+| MKR-2 | YES | HUMBER SPRINTER |
 | MKR-3 | YES | ICELANDICA HAV, SVEALAND |
 | MKR-4 | YES | BON VIVANT, CLARA K., LADY ASTRID |
 | MKR-5 | YES | ASTRA, LADY ASTRID |
@@ -41,7 +42,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-7 | YES | ASTRA, BREB BALTIA, NAVA DIONYSSOS |
 | RKR-8 | YES | ICELANDICA HAV |
 | VM-4 | YES | LADY ASTRID |
-| ZO-01 |  | CMA CGM MERMAID, ELBWIND, ESPERANCE |
+| ZO-01 |  | CMA CGM MERMAID, ESPERANCE |
 | ZO-07 |  | ELISE |
 | ZO-10 |  | SVEALAND |
 | ZO-12 |  | FEDERAL IMPACT |

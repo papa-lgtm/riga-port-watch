@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-20 15:34
+# Berth codes seen — 2026-09-20 16:28
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -41,7 +41,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-6 | YES | BALTIC PURPLE, HEBO-P101, LADY ANNE BEAU, VICTORIABORG |
 | RKR-7 | YES | ASTRA, BREB BALTIA, NAVA DIONYSSOS |
 | RKR-8 | YES | ICELANDICA HAV |
-| ZO-01 |  | CMA CGM MERMAID, ESPERANCE |
+| ZO-01 |  | CMA CGM MERMAID, ELBOCEAN, ESPERANCE |
 | ZO-07 |  | ELISE |
 | ZO-10 |  | SVEALAND |
 | ZO-12 |  | FEDERAL IMPACT |

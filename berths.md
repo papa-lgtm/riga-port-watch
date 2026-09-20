@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-21 00:28
+# Berth codes seen — 2026-09-21 01:28
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -6,7 +6,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 |---|---|---|
 | DG-19 |  | RUBYLAND |
 | DG-20 |  | LORALAND |
-| DG-55 |  | BENABELL G |
 | EO-09 |  | KANO REEFER |
 | EO-10 |  | SALERNO |
 | EO-12 |  | HEBO-P101 |
@@ -23,7 +22,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KS-32 |  | SONDERBORG |
 | KS-34 |  | MSC ASLI II |
 | MK-4 |  | AIDALUNA, VASCO DA GAMA |
-| MKR-1 | YES | BENABELL G, JOMI, WECO TATI |
+| MKR-1 | YES | JOMI, WECO TATI |
 | MKR-2 | YES | KEIT |
 | MKR-3 | YES | ICELANDICA HAV, SVEALAND |
 | MKR-4 | YES | BON VIVANT, CLARA K. |

@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-21 10:32
+# Berth codes seen — 2026-09-21 11:32
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -10,11 +10,10 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-10 |  | SALERNO |
 | EO-12 |  | HEBO-P101 |
 | EO-15 |  | X-PRESS AGILITY |
-| JM-23 |  | BALTIC EXPRESS |
-| JPS-1 |  | FGS OSTE (A52) |
+| JM-23 |  | BALTIC ARROW, BALTIC EXPRESS |
 | JPS-2 |  | BIRKA GOTLAND |
 | KR-25 |  | NAVA DIONYSSOS |
-| KRS-01 | YES | KEIT |
+| KRS-01 | YES | BENJAMAS NAREE, KEIT |
 | KRS-02 | YES | HOHE BANK |
 | KRS-03 | YES | MFM NICOLE |
 | KS-29 |  | FEDERAL IMPACT |
@@ -40,8 +39,11 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-6 | YES | BALTIC PURPLE, HEBO-P101, LADY ANNE BEAU, VICTORIABORG |
 | RKR-7 | YES | ASTRA, BREB BALTIA, NAVA DIONYSSOS |
 | RKR-8 | YES | ICELANDICA HAV |
+| SD-4 |  | BALTIC ARROW |
 | VM-4 | YES | WECO TATI |
 | ZO-01 |  | CMA CGM MERMAID, ELBOCEAN, ESPERANCE |
+| ZO-02 |  | BENJAMAS NAREE |
+| ZO-06 |  | BENJAMAS NAREE |
 | ZO-07 |  | ELISE |
 | ZO-10 |  | SVEALAND |
 | ZO-12 |  | FEDERAL IMPACT, HAMPTON SKY |

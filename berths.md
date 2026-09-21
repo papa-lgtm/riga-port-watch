@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-21 16:30
+# Berth codes seen — 2026-09-21 17:31
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -12,7 +12,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-15 |  | X-PRESS AGILITY |
 | JM-23 |  | BALTIC ARROW, BALTIC EXPRESS |
 | JM-29 |  | VALDAY |
-| JPS-2 |  | BIRKA GOTLAND |
 | KR-25 |  | NAVA DIONYSSOS |
 | KRS-01 | YES | BENJAMAS NAREE, KEIT |
 | KRS-02 | YES | ETG UBUNTU, HOHE BANK |
@@ -21,7 +20,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KS-29 |  | FEDERAL IMPACT |
 | KS-30 |  | FEDERAL IMPACT |
 | KS-32 |  | ENCOUNTER, SONDERBORG |
-| MK-4 |  | AIDALUNA, VASCO DA GAMA |
+| MK-4 |  | VASCO DA GAMA |
 | MKR-1 | YES | CELTICA HAV, JOMI, WECO TATI |
 | MKR-2 | YES | KEIT |
 | MKR-3 | YES | ICELANDICA HAV |

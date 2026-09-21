@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-21 22:29
+# Berth codes seen — 2026-09-21 23:29
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -9,6 +9,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-09 |  | KANO REEFER |
 | EO-10 |  | SALERNO |
 | EO-12 |  | HEBO-P101 |
+| EO-14 |  | CECILIE F |
 | EO-15 |  | X-PRESS AGILITY |
 | JM-23 |  | BALTIC ARROW, BALTIC EXPRESS |
 | JM-29 |  | VALDAY |
@@ -19,7 +20,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-04 | YES | ETG UBUNTU |
 | KS-29 |  | FEDERAL IMPACT |
 | KS-30 |  | FEDERAL IMPACT |
-| KS-32 |  | ENCOUNTER |
+| KS-32 |  | ENCOUNTER, X-PRESS AGILITY |
 | MK-4 |  | VASCO DA GAMA |
 | MKR-1 | YES | CELTICA HAV, JOMI, WECO TATI |
 | MKR-2 | YES | KEIT |
@@ -41,10 +42,10 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-6 | YES | BALTIC PURPLE, HEBO-P101, LADY ANNE BEAU, VICTORIABORG |
 | RKR-7 | YES | ASTRA, NAVA DIONYSSOS |
 | RKR-8 | YES | ICELANDICA HAV |
-| SD-4 |  | BALTIC ARROW |
+| SD-4 |  | BALTIC ARROW, HUMBER RUNNER |
 | VM-4 | YES | WECO TATI |
 | ZO-01 |  | CMA CGM MERMAID, ENCOUNTER, ESPERANCE |
-| ZO-02 |  | BENJAMAS NAREE |
+| ZO-02 |  | BENJAMAS NAREE, CECILIE F |
 | ZO-06 |  | BENJAMAS NAREE |
 | ZO-07 |  | ELISE |
 | ZO-12 |  | FEDERAL IMPACT, HAMPTON SKY |

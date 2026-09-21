@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-21 21:33
+# Berth codes seen — 2026-09-21 22:29
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -13,7 +13,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | JM-23 |  | BALTIC ARROW, BALTIC EXPRESS |
 | JM-29 |  | VALDAY |
 | KR-25 |  | NAVA DIONYSSOS |
-| KRS-01 | YES | BENJAMAS NAREE, KEIT |
+| KRS-01 | YES | BENJAMAS NAREE, EEMS DUISBURG, KEIT |
 | KRS-02 | YES | ETG UBUNTU, HOHE BANK |
 | KRS-03 | YES | MFM NICOLE |
 | KRS-04 | YES | ETG UBUNTU |

@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-21 11:32
+# Berth codes seen — 2026-09-21 12:31
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -11,11 +11,13 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-12 |  | HEBO-P101 |
 | EO-15 |  | X-PRESS AGILITY |
 | JM-23 |  | BALTIC ARROW, BALTIC EXPRESS |
+| JM-29 |  | VALDAY |
 | JPS-2 |  | BIRKA GOTLAND |
 | KR-25 |  | NAVA DIONYSSOS |
 | KRS-01 | YES | BENJAMAS NAREE, KEIT |
-| KRS-02 | YES | HOHE BANK |
+| KRS-02 | YES | ETG UBUNTU, HOHE BANK |
 | KRS-03 | YES | MFM NICOLE |
+| KRS-04 | YES | ETG UBUNTU |
 | KS-29 |  | FEDERAL IMPACT |
 | KS-30 |  | FEDERAL IMPACT |
 | KS-32 |  | SONDERBORG |
@@ -33,7 +35,9 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-791 | YES | BALTIC PURPLE, HEBO-P101 |
 | PD-K4 | YES | ASTRA, LADY ANNE BEAU |
 | PD-MTW | YES | BON VIVANT, VICTORIABORG |
+| PM-16 |  | KRISLIN |
 | PM-19 |  | HIIUMAA |
+| RD-2 |  | MARJATTA |
 | RD-3 |  | BALTIC MERCHANT, HUMBER RUNNER, ICELANDICA HAV |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-6 | YES | BALTIC PURPLE, HEBO-P101, LADY ANNE BEAU, VICTORIABORG |

@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-21 17:31
+# Berth codes seen — 2026-09-21 18:29
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -19,7 +19,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-04 | YES | ETG UBUNTU |
 | KS-29 |  | FEDERAL IMPACT |
 | KS-30 |  | FEDERAL IMPACT |
-| KS-32 |  | ENCOUNTER, SONDERBORG |
+| KS-32 |  | ENCOUNTER |
 | MK-4 |  | VASCO DA GAMA |
 | MKR-1 | YES | CELTICA HAV, JOMI, WECO TATI |
 | MKR-2 | YES | KEIT |

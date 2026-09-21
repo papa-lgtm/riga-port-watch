@@ -1,10 +1,10 @@
-# Berth codes seen — 2026-09-21 07:31
+# Berth codes seen — 2026-09-21 08:30
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
 | Berth | Treated as repair | Vessels seen there |
 |---|---|---|
-| DG-19 |  | RUBYLAND |
+| DG-19 |  | LORALAND, RUBYLAND |
 | DG-20 |  | LORALAND |
 | EO-09 |  | KANO REEFER |
 | EO-10 |  | SALERNO |

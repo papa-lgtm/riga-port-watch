@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-21 12:31
+# Berth codes seen — 2026-09-21 13:30
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -23,7 +23,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KS-32 |  | SONDERBORG |
 | KS-34 |  | MSC ASLI II |
 | MK-4 |  | AIDALUNA, VASCO DA GAMA |
-| MKR-1 | YES | JOMI, WECO TATI |
+| MKR-1 | YES | CELTICA HAV, JOMI, WECO TATI |
 | MKR-2 | YES | KEIT |
 | MKR-3 | YES | ICELANDICA HAV, SVEALAND |
 | MKR-4 | YES | BON VIVANT, CLARA K. |

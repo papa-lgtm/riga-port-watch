@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-21 14:31
+# Berth codes seen — 2026-09-21 15:34
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -20,7 +20,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-04 | YES | ETG UBUNTU |
 | KS-29 |  | FEDERAL IMPACT |
 | KS-30 |  | FEDERAL IMPACT |
-| KS-32 |  | SONDERBORG |
+| KS-32 |  | ENCOUNTER, SONDERBORG |
 | KS-34 |  | MSC ASLI II |
 | MK-4 |  | AIDALUNA, VASCO DA GAMA |
 | MKR-1 | YES | CELTICA HAV, JOMI, WECO TATI |
@@ -45,7 +45,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-8 | YES | ICELANDICA HAV |
 | SD-4 |  | BALTIC ARROW |
 | VM-4 | YES | WECO TATI |
-| ZO-01 |  | CMA CGM MERMAID, ELBOCEAN, ESPERANCE |
+| ZO-01 |  | CMA CGM MERMAID, ELBOCEAN, ENCOUNTER, ESPERANCE |
 | ZO-02 |  | BENJAMAS NAREE |
 | ZO-06 |  | BENJAMAS NAREE |
 | ZO-07 |  | ELISE |

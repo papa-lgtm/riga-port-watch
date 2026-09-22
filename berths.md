@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-22 10:30
+# Berth codes seen — 2026-09-22 11:31
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -11,6 +11,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | CECILIE F |
 | EO-15 |  | X-PRESS AGILITY |
+| JM-22 |  | NAVITA |
 | JM-23 |  | BALTIC ARROW |
 | JM-29 |  | VALDAY |
 | KR-25 |  | NAVA DIONYSSOS |
@@ -21,7 +22,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KS-29 |  | FEDERAL IMPACT |
 | KS-30 |  | FEDERAL IMPACT, HAMPTON SKY |
 | KS-32 |  | ENCOUNTER, X-PRESS AGILITY |
-| MK-4 |  | VASCO DA GAMA |
+| MK-4 |  | ROTTERDAM, VASCO DA GAMA |
 | MKR-1 | YES | CELTICA HAV, JOMI, WECO TATI |
 | MKR-2 | YES | KEIT |
 | MKR-4 | YES | BON VIVANT, CLARA K. |
@@ -45,5 +46,4 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | ZO-01 |  | CMA CGM MERMAID, ENCOUNTER, ESPERANCE |
 | ZO-02 |  | BENJAMAS NAREE, CECILIE F |
 | ZO-06 |  | BENJAMAS NAREE |
-| ZO-07 |  | ELISE |
 | ZO-12 |  | FEDERAL IMPACT, HAMPTON SKY |

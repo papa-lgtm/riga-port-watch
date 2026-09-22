@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-22 12:29
+# Berth codes seen — 2026-09-22 13:31
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -10,7 +10,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-10 |  | SALERNO |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | CECILIE F |
-| EO-15 |  | X-PRESS AGILITY |
+| EO-15 |  | X - PRESS AGILITY |
 | JM-22 |  | NAVITA |
 | JM-23 |  | BALTIC ARROW |
 | JM-29 |  | VALDAY |
@@ -21,7 +21,8 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-04 | YES | ETG UBUNTU |
 | KS-29 |  | FEDERAL IMPACT |
 | KS-30 |  | FEDERAL IMPACT, HAMPTON SKY |
-| KS-32 |  | ENCOUNTER, X-PRESS AGILITY |
+| KS-32 |  | ENCOUNTER, X - PRESS AGILITY |
+| KS-34 |  | X - PRESS AGILITY |
 | MK-4 |  | ROTTERDAM, VASCO DA GAMA |
 | MKR-1 | YES | CELTICA HAV, JOMI, WECO TATI |
 | MKR-2 | YES | KEIT |

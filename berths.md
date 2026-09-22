@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-22 16:31
+# Berth codes seen — 2026-09-22 17:31
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -23,7 +23,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KS-30 |  | FEDERAL IMPACT, HAMPTON SKY |
 | KS-32 |  | DINA TRADER, ENCOUNTER, X-PRESS AGILITY |
 | KS-34 |  | X-PRESS AGILITY |
-| MK-4 |  | ROTTERDAM, VASCO DA GAMA |
+| MK-4 |  | ROTTERDAM |
 | MKR-1 | YES | CELTICA HAV, JOMI, WECO TATI |
 | MKR-2 | YES | KEIT |
 | MKR-4 | YES | BON VIVANT, CLARA K. |
@@ -31,7 +31,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | MKR-7 | YES | BON VIVANT |
 | MS-2 |  | FEDERAL IMPACT, NAVA DIONYSSOS |
 | PD-419 | YES | ASTRA, CLARA K. |
-| PD-75 | YES | LORALAND |
+| PD-75 | YES | LORALAND, RUBYLAND |
 | PD-791 | YES | BALTIC PURPLE, HEBO-P101 |
 | PD-K4 | YES | ASTRA, LADY ANNE BEAU |
 | PD-MTW | YES | BON VIVANT, VICTORIABORG |

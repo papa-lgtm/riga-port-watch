@@ -87,7 +87,7 @@
   "berths_seen": [
    "KRS-03"
   ],
-  "last_seen": "2026-09-22 16:31",
+  "last_seen": "2026-09-22 17:31",
   "status": "BERTHED"
  },
  "3046456": {
@@ -137,7 +137,7 @@
    "MS-2",
    "RKR-7"
   ],
-  "last_seen": "2026-09-22 16:31",
+  "last_seen": "2026-09-22 17:31",
   "status": "BERTHED"
  },
  "3046416": {
@@ -149,7 +149,7 @@
    "PD-MTW",
    "RKR-6"
   ],
-  "last_seen": "2026-09-22 16:31",
+  "last_seen": "2026-09-22 17:31",
   "status": "BERTHED"
  },
  "3046396": {
@@ -161,7 +161,7 @@
    "MKR-4",
    "PD-419"
   ],
-  "last_seen": "2026-09-22 16:31",
+  "last_seen": "2026-09-22 17:31",
   "status": "BERTHED"
  },
  "3046389": {
@@ -173,7 +173,7 @@
    "PD-K4",
    "RKR-6"
   ],
-  "last_seen": "2026-09-22 16:31",
+  "last_seen": "2026-09-22 17:31",
   "status": "BERTHED"
  },
  "3046374": {
@@ -185,7 +185,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-09-22 16:31",
+  "last_seen": "2026-09-22 17:31",
   "status": "BERTHED"
  },
  "3046367": {
@@ -199,7 +199,7 @@
    "MS-2",
    "ZO-12"
   ],
-  "last_seen": "2026-09-22 16:31",
+  "last_seen": "2026-09-22 17:31",
   "status": "BERTHED"
  },
  "3046336": {
@@ -212,7 +212,7 @@
    "MKR-7",
    "PD-MTW"
   ],
-  "last_seen": "2026-09-22 16:31",
+  "last_seen": "2026-09-22 17:31",
   "status": "BERTHED"
  },
  "3046302": {
@@ -240,7 +240,7 @@
    "DG-20",
    "PD-75"
   ],
-  "last_seen": "2026-09-22 16:31",
+  "last_seen": "2026-09-22 17:31",
   "status": "BERTHED"
  },
  "3045569": {
@@ -251,7 +251,7 @@
   "berths_seen": [
    "EO-10"
   ],
-  "last_seen": "2026-09-22 16:31",
+  "last_seen": "2026-09-22 17:31",
   "status": "BERTHED"
  },
  "3045436": {
@@ -262,7 +262,7 @@
   "berths_seen": [
    "EO-09"
   ],
-  "last_seen": "2026-09-22 16:31",
+  "last_seen": "2026-09-22 17:31",
   "status": "BERTHED"
  },
  "3044986": {
@@ -275,7 +275,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-09-22 16:31",
+  "last_seen": "2026-09-22 17:31",
   "status": "BERTHED"
  },
  "3034270": {
@@ -286,7 +286,7 @@
   "berths_seen": [
    "RKR-4"
   ],
-  "last_seen": "2026-09-22 16:31",
+  "last_seen": "2026-09-22 17:31",
   "status": "BERTHED"
  },
  "3032756": {
@@ -301,7 +301,7 @@
    "RKR-4",
    "RKR-7"
   ],
-  "last_seen": "2026-09-22 16:31",
+  "last_seen": "2026-09-22 17:31",
   "status": "BERTHED"
  },
  "3046464": {
@@ -348,7 +348,7 @@
    "KRS-01",
    "MKR-2"
   ],
-  "last_seen": "2026-09-22 16:31",
+  "last_seen": "2026-09-22 17:31",
   "status": "BERTHED"
  },
  "3046462": {
@@ -370,7 +370,7 @@
   "berths_seen": [
    "MKR-1"
   ],
-  "last_seen": "2026-09-22 16:31",
+  "last_seen": "2026-09-22 17:31",
   "status": "BERTHED"
  },
  "3046468": {
@@ -392,7 +392,7 @@
   "berths_seen": [
    "RKR-4"
   ],
-  "last_seen": "2026-09-22 16:31",
+  "last_seen": "2026-09-22 17:31",
   "status": "BERTHED"
  },
  "3046457": {
@@ -442,13 +442,14 @@
  "3046471": {
   "name": "RUBYLAND",
   "imo": "9518995",
-  "flagged_repair": false,
+  "flagged_repair": true,
   "flagged_long_stay": false,
   "berths_seen": [
-   "DG-19"
+   "DG-19",
+   "PD-75"
   ],
-  "last_seen": "2026-09-22 16:31",
-  "status": "MOVING"
+  "last_seen": "2026-09-22 17:31",
+  "status": "BERTHED"
  },
  "3046478": {
   "name": "BIRKA GOTLAND",
@@ -470,7 +471,7 @@
    "MKR-1",
    "VM-4"
   ],
-  "last_seen": "2026-09-22 16:31",
+  "last_seen": "2026-09-22 17:31",
   "status": "BERTHED"
  },
  "3046463": {
@@ -482,8 +483,8 @@
    "RD-3",
    "SD-4"
   ],
-  "last_seen": "2026-09-22 16:31",
-  "status": "BERTHED"
+  "last_seen": "2026-09-22 17:31",
+  "status": "MOVING"
  },
  "3046480": {
   "name": "HIIUMAA",
@@ -493,7 +494,7 @@
   "berths_seen": [
    "PM-19"
   ],
-  "last_seen": "2026-09-22 16:31",
+  "last_seen": "2026-09-22 17:31",
   "status": "BERTHED"
  },
  "3046475": {
@@ -516,7 +517,7 @@
    "KS-30",
    "ZO-12"
   ],
-  "last_seen": "2026-09-22 16:31",
+  "last_seen": "2026-09-22 17:31",
   "status": "BERTHED"
  }
 }

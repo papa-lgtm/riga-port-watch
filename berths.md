@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-22 14:29
+# Berth codes seen — 2026-09-22 15:36
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -37,6 +37,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-MTW | YES | BON VIVANT, VICTORIABORG |
 | PM-16 |  | KRISLIN |
 | PM-19 |  | HIIUMAA |
+| RD-1 |  | MARJATTA |
 | RD-2 |  | MARJATTA |
 | RD-3 |  | BALTIC MERCHANT, HUMBER RUNNER |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |

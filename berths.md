@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-23 11:31
+# Berth codes seen — 2026-09-23 12:30
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -6,6 +6,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 |---|---|---|
 | DG-19 |  | LORALAND, RUBYLAND |
 | DG-20 |  | LORALAND, OSTELAND |
+| DG-55 |  | CELTIC PIONEER |
 | EO-09 |  | KANO REEFER |
 | EO-10 |  | SALERNO |
 | EO-12 |  | HEBO-P101 |
@@ -16,7 +17,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | JM-29 |  | VALDAY |
 | KR-25 |  | NAVA DIONYSSOS |
 | KRS-01 | YES | BENJAMAS NAREE, EEMS DUISBURG, KEIT |
-| KRS-02 | YES | ETG UBUNTU, SPANACO SIMPLICITY |
+| KRS-02 | YES | ETG UBUNTU, SPANACO LOYALTY, SPANACO SIMPLICITY |
 | KRS-03 | YES | MFM NICOLE |
 | KRS-04 | YES | ETG UBUNTU |
 | KS-29 |  | FEDERAL IMPACT |
@@ -42,7 +43,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-6 | YES | BALTIC PURPLE, HEBO-P101, LADY ANNE BEAU, VICTORIABORG |
 | RKR-7 | YES | ASTRA, NAVA DIONYSSOS |
-| RKR-8 | YES | HUMBER RUNNER |
+| RKR-8 | YES | CELTIC PIONEER, HUMBER RUNNER |
 | SD-4 |  | BALTIC ARROW, HUMBER RUNNER |
 | VM-4 | YES | WECO TATI |
 | ZO-01 |  | CMA CGM MERMAID, ENCOUNTER, ESPERANCE |

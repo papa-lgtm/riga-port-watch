@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-23 14:30
+# Berth codes seen — 2026-09-23 15:36
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -12,8 +12,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | CECILIE F |
 | EO-15 |  | ECO LEVANT, MIRROR, X-PRESS AGILITY |
-| JM-22 |  | NAVITA |
-| JM-23 |  | BALTIC ARROW |
+| JM-23 |  | BALTIC ARROW, NAVITA |
 | JM-29 |  | VALDAY |
 | KR-25 |  | NAVA DIONYSSOS |
 | KRS-01 | YES | BENJAMAS NAREE, EEMS DUISBURG, KEIT |
@@ -27,7 +26,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | MK-4 |  | ROTTERDAM |
 | MKR-1 | YES | CELTICA HAV, JOMI, WECO TATI |
 | MKR-2 | YES | KEIT, LADY AMI |
-| MKR-4 | YES | BON VIVANT, CLARA K. |
+| MKR-4 | YES | BON VIVANT, CLARA K., URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA |
 | MKR-7 | YES | BON VIVANT |
 | MS-2 |  | FEDERAL IMPACT, NAVA DIONYSSOS |
@@ -39,7 +38,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PM-16 |  | KRISLIN |
 | RD-1 |  | MARJATTA |
 | RD-2 |  | MARJATTA |
-| RD-3 |  | BALTIC MERCHANT, HUMBER RUNNER |
+| RD-3 |  | BALTIC MERCHANT, HUMBER RUNNER, MILA |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-6 | YES | BALTIC PURPLE, HEBO-P101, LADY ANNE BEAU, VICTORIABORG |
 | RKR-7 | YES | ASTRA, NAVA DIONYSSOS |

@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-23 18:31
+# Berth codes seen — 2026-09-23 19:32
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -20,12 +20,12 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-03 | YES | MFM NICOLE |
 | KRS-04 | YES | ETG UBUNTU |
 | KS-29 |  | FEDERAL IMPACT |
-| KS-30 |  | FEDERAL IMPACT, HAMPTON SKY |
+| KS-30 |  | FEDERAL IMPACT, FEDERAL KATSURA, HAMPTON SKY |
 | KS-32 |  | DINA TRADER, ECO LEVANT, ENCOUNTER, X-PRESS AGILITY |
 | KS-34 |  | MSC ASLI II, X-PRESS AGILITY |
-| MK-4 |  | ROTTERDAM |
 | MKR-1 | YES | CELTICA HAV, JOMI, WECO TATI |
 | MKR-2 | YES | KEIT, LADY AMI |
+| MKR-3 | YES | HUMBER RUNNER |
 | MKR-4 | YES | BON VIVANT, CLARA K., URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA |
 | MKR-7 | YES | BON VIVANT |
@@ -46,7 +46,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | SD-4 |  | BALTIC ARROW, HUMBER RUNNER |
 | VM-4 | YES | WECO TATI |
 | ZO-01 |  | CMA CGM MERMAID, ENCOUNTER |
-| ZO-02 |  | BENJAMAS NAREE, CECILIE F, DELTA I |
+| ZO-02 |  | BENJAMAS NAREE, CECILIE F |
 | ZO-06 |  | BENJAMAS NAREE |
 | ZO-12 |  | FEDERAL IMPACT, HAMPTON SKY |
 | ZO-18 |  | TERN LAND |

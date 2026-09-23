@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-23 23:30
+# Berth codes seen — 2026-09-24 00:29
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -12,7 +12,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | CECILIE F |
 | EO-15 |  | ECO LEVANT, MIRROR, X-PRESS AGILITY |
-| JM-23 |  | BALTIC ARROW, NAVITA |
+| JM-23 |  | NAVITA |
 | JM-29 |  | VALDAY |
 | KR-25 |  | NAVA DIONYSSOS |
 | KRS-01 | YES | BENJAMAS NAREE, EEMS DUISBURG, KEIT |
@@ -43,7 +43,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-6 | YES | BALTIC PURPLE, HEBO-P101, LADY ANNE BEAU, VICTORIABORG |
 | RKR-7 | YES | ASTRA, NAVA DIONYSSOS |
 | RKR-8 | YES | CELTIC PIONEER, HUMBER RUNNER |
-| SD-4 |  | BALTIC ARROW, HUMBER RUNNER |
+| SD-4 |  | HUMBER RUNNER |
 | VM-4 | YES | WECO TATI |
 | ZO-01 |  | CMA CGM MERMAID, ENCOUNTER |
 | ZO-02 |  | BENJAMAS NAREE, CECILIE F |

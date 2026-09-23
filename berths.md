@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-23 10:31
+# Berth codes seen — 2026-09-23 11:31
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -25,7 +25,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KS-34 |  | MSC ASLI II, X-PRESS AGILITY |
 | MK-4 |  | ROTTERDAM |
 | MKR-1 | YES | CELTICA HAV, JOMI, WECO TATI |
-| MKR-2 | YES | KEIT |
+| MKR-2 | YES | KEIT, LADY AMI |
 | MKR-4 | YES | BON VIVANT, CLARA K. |
 | MKR-5 | YES | ASTRA |
 | MKR-7 | YES | BON VIVANT |
@@ -49,3 +49,4 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | ZO-02 |  | BENJAMAS NAREE, CECILIE F, DELTA I |
 | ZO-06 |  | BENJAMAS NAREE |
 | ZO-12 |  | FEDERAL IMPACT, HAMPTON SKY |
+| ZO-18 |  | TERN LAND |

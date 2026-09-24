@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-24 13:31
+# Berth codes seen — 2026-09-24 14:30
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -45,7 +45,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-8 | YES | CELTIC PIONEER, HUMBER RUNNER |
 | SD-4 |  | HUMBER RUNNER |
 | VM-4 | YES | WECO TATI |
-| ZO-01 |  | CMA CGM MERMAID, ENCOUNTER |
+| ZO-01 |  | ENCOUNTER |
 | ZO-02 |  | BENJAMAS NAREE, CECILIE F |
 | ZO-06 |  | BENJAMAS NAREE |
 | ZO-12 |  | HAMPTON SKY |

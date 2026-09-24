@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-24 15:37
+# Berth codes seen — 2026-09-24 16:32
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -21,7 +21,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-03 | YES | MFM NICOLE |
 | KRS-04 | YES | ETG UBUNTU, MEDWAY HORIZON |
 | KS-30 |  | FEDERAL KATSURA, HAMPTON SKY |
-| KS-32 |  | DINA TRADER, ECO LEVANT, ENCOUNTER |
+| KS-32 |  | DINA TRADER, ECO LEVANT, ENCOUNTER, EXPERT |
 | KS-34 |  | MSC ASLI II |
 | MKR-1 | YES | CELTICA HAV, JOMI, WECO TATI |
 | MKR-2 | YES | KEIT, LADY AMI |
@@ -35,6 +35,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-K4 | YES | ASTRA, LADY ANNE BEAU |
 | PD-MTW | YES | BON VIVANT, VICTORIABORG |
 | PM-16 |  | KRISLIN |
+| PM-17 |  | EURICA |
 | RD-1 |  | MARJATTA |
 | RD-2 |  | MARJATTA, MILA |
 | RD-3 |  | BALTIC MERCHANT, LONGPEACE, MILA |
@@ -43,7 +44,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-7 | YES | ASTRA, BALTIC MERCHANT, NAVA DIONYSSOS |
 | RKR-8 | YES | CELTIC PIONEER |
 | VM-4 | YES | WECO TATI |
-| ZO-01 |  | ENCOUNTER |
+| ZO-01 |  | ENCOUNTER, EXPERT |
 | ZO-02 |  | BENJAMAS NAREE, CECILIE F |
 | ZO-06 |  | BENJAMAS NAREE |
 | ZO-12 |  | HAMPTON SKY |

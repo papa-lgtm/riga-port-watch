@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-25 13:31
+# Berth codes seen — 2026-09-25 14:31
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -23,7 +23,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-04 | YES | ETG UBUNTU, MEDWAY HORIZON |
 | KS-30 |  | FEDERAL KATSURA, HAMPTON SKY |
 | KS-32 |  | DINA TRADER, ECO LEVANT, ENCOUNTER, EXPERT |
-| KS-34 |  | MSC ASLI II |
+| KS-34 |  | MSC VANQUISH II |
 | MK-4 |  | HAMBURG, MSC MAGNIFICA, OCEAN PROTECTOR |
 | MKR-1 | YES | CELTICA HAV, LADY AMI, SCOT RANGER, WECO TATI |
 | MKR-2 | YES | CELTICA HAV, LADY AMI |
@@ -36,7 +36,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-791 | YES | BALTIC PURPLE, HEBO-P101 |
 | PD-K4 | YES | ASTRA, LADY ANNE BEAU |
 | PD-MTW | YES | BON VIVANT, VICTORIABORG |
-| PM-16 |  | KRISLIN |
 | PM-17 |  | EURICA |
 | RD-1 |  | MARJATTA |
 | RD-2 |  | MARJATTA, MILA |

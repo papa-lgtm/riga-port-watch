@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-25 17:32
+# Berth codes seen — 2026-09-25 18:31
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -12,12 +12,12 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-10 |  | SALERNO |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | CECILIE F |
-| EO-15 |  | ANNE D, ECO LEVANT |
+| EO-15 |  | ECO LEVANT |
 | JM-23 |  | SCOT RANGER |
 | JM-29 |  | VALDAY |
 | JPS-2 |  | AIDAMAR |
 | KR-25 |  | NAVA DIONYSSOS |
-| KRS-01 | YES | BENJAMAS NAREE, EEMS DUISBURG, KRISTEL, SCOT RANGER, ULVIK |
+| KRS-01 | YES | BENJAMAS NAREE, KRISTEL, SCOT RANGER, ULVIK |
 | KRS-02 | YES | ETG UBUNTU, SCOT RANGER, SPANACO LOYALTY, SPANACO SIMPLICITY |
 | KRS-03 | YES | MFM NICOLE |
 | KRS-04 | YES | ETG UBUNTU, MEDWAY HORIZON |
@@ -40,6 +40,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RD-1 |  | MARJATTA |
 | RD-2 |  | MARJATTA, MILA |
 | RD-3 |  | BALTIC MERCHANT, LONGPEACE, MILA |
+| REIDS |  | EEMS TRAVELLER |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-6 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101, LADY ANNE BEAU, VICTORIABORG |
 | RKR-7 | YES | ASTRA, BALTIC MERCHANT, NAVA DIONYSSOS |

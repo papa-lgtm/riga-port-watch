@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-25 10:31
+# Berth codes seen — 2026-09-25 11:33
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -15,6 +15,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-15 |  | ANNE D, ECO LEVANT |
 | JM-23 |  | SCOT RANGER |
 | JM-29 |  | VALDAY |
+| JPS-2 |  | AIDAMAR |
 | KR-25 |  | NAVA DIONYSSOS |
 | KRS-01 | YES | BENJAMAS NAREE, EEMS DUISBURG, KRISTEL, ULVIK |
 | KRS-02 | YES | ETG UBUNTU, SCOT RANGER, SPANACO LOYALTY, SPANACO SIMPLICITY |
@@ -44,6 +45,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-6 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101, LADY ANNE BEAU, VICTORIABORG |
 | RKR-7 | YES | ASTRA, BALTIC MERCHANT, NAVA DIONYSSOS |
 | RKR-8 | YES | CELTIC PIONEER |
+| SD-3 |  | RIX EXPLORER |
 | VM-4 | YES | WECO TATI |
 | ZO-01 |  | ENCOUNTER, EXPERT |
 | ZO-02 |  | BENJAMAS NAREE, CECILIE F |

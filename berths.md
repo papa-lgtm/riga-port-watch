@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-25 08:30
+# Berth codes seen — 2026-09-25 09:38
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -16,7 +16,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | JM-23 |  | SCOT RANGER |
 | JM-29 |  | VALDAY |
 | KR-25 |  | NAVA DIONYSSOS |
-| KRS-01 | YES | BENJAMAS NAREE, EEMS DUISBURG, KEIT, KRISTEL |
+| KRS-01 | YES | BENJAMAS NAREE, EEMS DUISBURG, KRISTEL, ULVIK |
 | KRS-02 | YES | ETG UBUNTU, SCOT RANGER, SPANACO LOYALTY, SPANACO SIMPLICITY |
 | KRS-03 | YES | MFM NICOLE |
 | KRS-04 | YES | ETG UBUNTU, MEDWAY HORIZON |
@@ -25,7 +25,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KS-34 |  | MSC ASLI II |
 | MK-4 |  | HAMBURG, MSC MAGNIFICA |
 | MKR-1 | YES | CELTICA HAV, JOMI, LADY AMI, SCOT RANGER, WECO TATI |
-| MKR-2 | YES | CELTICA HAV, KEIT, LADY AMI |
+| MKR-2 | YES | CELTICA HAV, LADY AMI |
 | MKR-4 | YES | BON VIVANT, CLARA K., URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA |
 | MKR-7 | YES | BON VIVANT |

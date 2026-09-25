@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-25 19:32
+# Berth codes seen — 2026-09-25 20:30
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -13,6 +13,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | CECILIE F |
 | EO-15 |  | ECO LEVANT |
+| JM-22 |  | ST. PAULI 2 |
 | JM-23 |  | SCOT RANGER |
 | JM-29 |  | VALDAY |
 | JPS-2 |  | AIDAMAR |

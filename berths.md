@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-26 01:29
+# Berth codes seen — 2026-09-26 02:28
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -19,7 +19,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | JPS-2 |  | AIDAMAR |
 | KR-25 |  | NAVA DIONYSSOS |
 | KRS-01 | YES | BENJAMAS NAREE, KRISTEL, SCOT RANGER, ULVIK |
-| KRS-02 | YES | ETG UBUNTU, SCOT RANGER, SPANACO LOYALTY, SPANACO SIMPLICITY |
+| KRS-02 | YES | ETG UBUNTU, SCOT RANGER, SPANACO LOYALTY |
 | KRS-03 | YES | MFM NICOLE |
 | KRS-04 | YES | ETG UBUNTU, MEDWAY HORIZON |
 | KS-30 |  | FEDERAL KATSURA, HAMPTON SKY |

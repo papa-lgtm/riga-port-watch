@@ -1,13 +1,13 @@
-# Berth codes seen — 2026-09-26 13:29
+# Berth codes seen — 2026-09-26 14:29
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
 | Berth | Treated as repair | Vessels seen there |
 |---|---|---|
+| DG-01 |  | KLEER |
 | DG-19 |  | LORALAND, RUBYLAND |
 | DG-20 |  | LORALAND, OSTELAND |
 | DG-55 |  | CELTIC PIONEER, KIRSI |
-| DG-56 |  | NORRLAND |
 | EO-09 |  | KANO REEFER |
 | EO-10 |  | SALERNO |
 | EO-12 |  | HEBO-P101 |
@@ -52,5 +52,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | VM-4 | YES | SCOT RANGER, WECO TATI |
 | ZO-01 |  | ENCOUNTER, EXPERT, LANGENESS |
 | ZO-02 |  | BENJAMAS NAREE, CECILIE F |
+| ZO-04 |  | HIIUMAA |
 | ZO-06 |  | BENJAMAS NAREE |
+| ZO-10 |  | KAURI |
 | ZO-12 |  | HAMPTON SKY |

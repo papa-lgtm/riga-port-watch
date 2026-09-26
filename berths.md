@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-26 05:30
+# Berth codes seen — 2026-09-26 06:30
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -48,6 +48,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-7 | YES | ASTRA, BALTIC MERCHANT, NAVA DIONYSSOS |
 | RKR-8 | YES | CELTIC PIONEER |
 | SD-3 |  | KAURI, RIX EXPLORER |
+| SD-4 |  | MARJATTA |
 | VM-4 | YES | SCOT RANGER, WECO TATI |
 | ZO-01 |  | ENCOUNTER, EXPERT, LANGENESS |
 | ZO-02 |  | BENJAMAS NAREE, CECILIE F |

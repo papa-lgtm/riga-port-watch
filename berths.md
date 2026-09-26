@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-26 21:33
+# Berth codes seen — 2026-09-26 22:27
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -29,7 +29,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | MK-4 |  | MSC MAGNIFICA, OCEAN PROTECTOR |
 | MKR-1 | YES | LADY AMI, SCOT RANGER, WECO TATI |
 | MKR-2 | YES | LADY AMI |
-| MKR-3 | YES | OSTELAND |
+| MKR-3 | YES | EEMS TRAVELLER, OSTELAND |
 | MKR-4 | YES | BON VIVANT, CLARA K., URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA |
 | MKR-7 | YES | BON VIVANT |
@@ -43,7 +43,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RD-1 |  | MARJATTA |
 | RD-2 |  | MARJATTA, MILA |
 | RD-3 |  | MILA |
-| REIDS |  | EEMS TRAVELLER |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-6 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101, LADY ANNE BEAU, VICTORIABORG |
 | RKR-7 | YES | ASTRA, NAVA DIONYSSOS |

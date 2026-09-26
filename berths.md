@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-26 18:29
+# Berth codes seen — 2026-09-26 19:30
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -26,8 +26,8 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KS-32 |  | DINA TRADER, ECO LEVANT, ELBSPRING, ENCOUNTER |
 | KS-34 |  | ENCOUNTER, MSC VANQUISH II |
 | MK-4 |  | MSC MAGNIFICA, OCEAN PROTECTOR |
-| MKR-1 | YES | CELTICA HAV, LADY AMI, SCOT RANGER, WECO TATI |
-| MKR-2 | YES | CELTICA HAV, LADY AMI |
+| MKR-1 | YES | LADY AMI, SCOT RANGER, WECO TATI |
+| MKR-2 | YES | LADY AMI |
 | MKR-3 | YES | OSTELAND |
 | MKR-4 | YES | BON VIVANT, CLARA K., URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA |
@@ -48,7 +48,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-7 | YES | ASTRA, NAVA DIONYSSOS |
 | RKR-8 | YES | CELTIC PIONEER |
 | SD-3 |  | KAURI, RIX EXPLORER |
-| SD-4 |  | MARJATTA |
+| SD-4 |  | HUMBER RUNNER, MARJATTA |
 | VM-4 | YES | SCOT RANGER, WECO TATI |
 | ZO-01 |  | ENCOUNTER, LANGENESS |
 | ZO-02 |  | BENJAMAS NAREE, CECILIE F |

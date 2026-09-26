@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-26 16:28
+# Berth codes seen — 2026-09-26 17:29
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -16,7 +16,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-15 |  | ECO LEVANT |
 | JM-22 |  | ST. PAULI 2 |
 | JM-23 |  | SCOT RANGER |
-| JM-29 |  | VALDAY |
 | JPS-2 |  | AIDAMAR |
 | KR-25 |  | NAVA DIONYSSOS |
 | KRS-01 | YES | BENJAMAS NAREE, KRISTEL, SCOT RANGER, ULVIK |
@@ -24,7 +23,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-03 | YES | MFM NICOLE |
 | KRS-04 | YES | ETG UBUNTU, MEDWAY HORIZON |
 | KS-30 |  | FEDERAL KATSURA, HAMPTON SKY |
-| KS-32 |  | DINA TRADER, ECO LEVANT, ENCOUNTER, EXPERT |
+| KS-32 |  | DINA TRADER, ECO LEVANT, ENCOUNTER |
 | KS-34 |  | ENCOUNTER, MSC VANQUISH II |
 | MK-4 |  | MSC MAGNIFICA, OCEAN PROTECTOR |
 | MKR-1 | YES | CELTICA HAV, LADY AMI, SCOT RANGER, WECO TATI |
@@ -51,7 +50,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | SD-3 |  | KAURI, RIX EXPLORER |
 | SD-4 |  | MARJATTA |
 | VM-4 | YES | SCOT RANGER, WECO TATI |
-| ZO-01 |  | ENCOUNTER, EXPERT, LANGENESS |
+| ZO-01 |  | ENCOUNTER, LANGENESS |
 | ZO-02 |  | BENJAMAS NAREE, CECILIE F |
 | ZO-04 |  | HIIUMAA |
 | ZO-06 |  | BENJAMAS NAREE |

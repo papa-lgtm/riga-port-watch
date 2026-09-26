@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-26 10:29
+# Berth codes seen — 2026-09-26 11:31
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -41,7 +41,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PM-17 |  | EURICA |
 | RD-1 |  | MARJATTA |
 | RD-2 |  | MARJATTA, MILA |
-| RD-3 |  | BALTIC MERCHANT, LONGPEACE, MILA |
+| RD-3 |  | BALTIC MERCHANT, MILA |
 | REIDS |  | EEMS TRAVELLER |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-6 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101, LADY ANNE BEAU, VICTORIABORG |

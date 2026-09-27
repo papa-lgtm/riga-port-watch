@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-27 18:29
+# Berth codes seen — 2026-09-27 19:31
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -16,7 +16,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-14 |  | CECILIE F |
 | EO-15 |  | ECO LEVANT |
 | JM-22 |  | ST. PAULI 2 |
-| JM-23 |  | SCOT RANGER |
+| JM-23 |  | SCOT CARRIER, SCOT RANGER |
 | KR-25 |  | NAVA DIONYSSOS |
 | KRS-01 | YES | BENJAMAS NAREE, KRISTEL, SCOT RANGER |
 | KRS-02 | YES | ETG UBUNTU, SCOT RANGER, SPANACO LOYALTY |

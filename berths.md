@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-27 16:29
+# Berth codes seen — 2026-09-27 17:29
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -7,8 +7,8 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | DG-01 |  | KLEER |
 | DG-19 |  | LORALAND, RUBYLAND |
 | DG-20 |  | LORALAND, REVALA |
-| DG-55 |  | CELTIC PIONEER, KIRSI |
-| DG-56 |  | KIRSI, RIX EXPLORER |
+| DG-55 |  | CELTIC PIONEER |
+| DG-56 |  | RIX EXPLORER |
 | EO-08 |  | RIX EXPLORER |
 | EO-09 |  | KANO REEFER |
 | EO-10 |  | SALERNO |
@@ -24,7 +24,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-03 | YES | MFM NICOLE |
 | KRS-04 | YES | ETG UBUNTU, MEDWAY HORIZON |
 | KS-30 |  | FEDERAL KATSURA, HAMPTON SKY |
-| KS-32 |  | DINA TRADER, ECO LEVANT, ELBSPRING |
+| KS-32 |  | DINA TRADER, ECO LEVANT, ELBSPRING, ENCOUNTER |
 | KS-34 |  | ENCOUNTER, MSC VANQUISH II, MSC YOSHEEN |
 | MK-4 |  | NORWEGIAN SUN, OCEAN PROTECTOR |
 | MKR-1 | YES | SCOT RANGER, WECO TATI |

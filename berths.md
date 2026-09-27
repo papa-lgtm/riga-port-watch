@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-27 20:29
+# Berth codes seen — 2026-09-27 21:33
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -18,7 +18,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | JM-22 |  | ST. PAULI 2 |
 | JM-23 |  | SCOT CARRIER, SCOT RANGER |
 | KR-25 |  | NAVA DIONYSSOS |
-| KRS-01 | YES | BENJAMAS NAREE, KRISTEL, SCOT RANGER |
+| KRS-01 | YES | BENJAMAS NAREE, KRISTEL, SCOT RANGER, WESTBORG |
 | KRS-02 | YES | ETG UBUNTU, SCOT RANGER, SPANACO LOYALTY |
 | KRS-03 | YES | KONTICH, MFM NICOLE |
 | KRS-04 | YES | ETG UBUNTU, MEDWAY HORIZON |
@@ -48,7 +48,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | SD-3 |  | KAURI, RIX EXPLORER |
 | SD-4 |  | HUMBER RUNNER, MARJATTA |
 | VM-4 | YES | SCOT RANGER, WECO TATI |
-| ZO-01 |  | ENCOUNTER, LANGENESS |
+| ZO-01 |  | CMA CGM RUNDALE, ENCOUNTER, LANGENESS |
 | ZO-02 |  | BENJAMAS NAREE, CECILIE F |
 | ZO-04 |  | HIIUMAA |
 | ZO-06 |  | BENJAMAS NAREE |

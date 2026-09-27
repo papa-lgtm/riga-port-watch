@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-27 15:35
+# Berth codes seen — 2026-09-27 16:29
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -24,9 +24,9 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-03 | YES | MFM NICOLE |
 | KRS-04 | YES | ETG UBUNTU, MEDWAY HORIZON |
 | KS-30 |  | FEDERAL KATSURA, HAMPTON SKY |
-| KS-32 |  | DINA TRADER, ECO LEVANT, ELBSPRING, ENCOUNTER |
+| KS-32 |  | DINA TRADER, ECO LEVANT, ELBSPRING |
 | KS-34 |  | ENCOUNTER, MSC VANQUISH II, MSC YOSHEEN |
-| MK-4 |  | MSC MAGNIFICA, NORWEGIAN SUN, OCEAN PROTECTOR |
+| MK-4 |  | NORWEGIAN SUN, OCEAN PROTECTOR |
 | MKR-1 | YES | SCOT RANGER, WECO TATI |
 | MKR-2 | YES | EEMS TRAVELLER |
 | MKR-3 | YES | EEMS TRAVELLER |

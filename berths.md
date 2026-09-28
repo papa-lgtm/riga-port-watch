@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-28 23:31
+# Berth codes seen — 2026-09-29 00:30
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -22,8 +22,8 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-04 | YES | MEDWAY HORIZON |
 | KRS-07 | YES | BALTIC SPLIT |
 | KS-30 |  | FEDERAL KATSURA, HAMPTON SKY |
-| KS-32 |  | DINA TRADER, ECO LEVANT, ENCOUNTER |
-| KS-34 |  | ENCOUNTER, MSC YOSHEEN |
+| KS-32 |  | DINA TRADER, ECO LEVANT |
+| KS-34 |  | MSC YOSHEEN |
 | MK-4 |  | NORWEGIAN SUN |
 | MKR-2 | YES | EEMS TRAVELLER |
 | MKR-3 | YES | EEMS TRAVELLER |
@@ -45,7 +45,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-8 | YES | CELTIC PIONEER |
 | SD-3 |  | KAURI, RIX EXPLORER |
 | SD-4 |  | HUMBER RUNNER, MARJATTA |
-| ZO-01 |  | CMA CGM RUNDALE, ENCOUNTER, LANGENESS |
+| ZO-01 |  | CMA CGM RUNDALE, LANGENESS |
 | ZO-02 |  | BENJAMAS NAREE, CECILIE F |
 | ZO-06 |  | BENJAMAS NAREE |
 | ZO-10 |  | GT CETUS, KAURI |

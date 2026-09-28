@@ -1,10 +1,9 @@
-# Berth codes seen — 2026-09-28 13:33
+# Berth codes seen — 2026-09-28 14:34
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
 | Berth | Treated as repair | Vessels seen there |
 |---|---|---|
-| DG-01 |  | KLEER |
 | DG-19 |  | LORALAND, RUBYLAND |
 | DG-20 |  | LORALAND, REVALA |
 | DG-55 |  | CELTIC PIONEER |
@@ -23,7 +22,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-04 | YES | ETG UBUNTU, MEDWAY HORIZON |
 | KRS-07 | YES | BALTIC SPLIT |
 | KS-30 |  | FEDERAL KATSURA, HAMPTON SKY |
-| KS-32 |  | DINA TRADER, ECO LEVANT, ELBSPRING, ENCOUNTER |
+| KS-32 |  | DINA TRADER, ECO LEVANT, ENCOUNTER |
 | KS-34 |  | ENCOUNTER, MSC YOSHEEN |
 | MK-4 |  | NORWEGIAN SUN, OCEAN PROTECTOR |
 | MKR-2 | YES | EEMS TRAVELLER |

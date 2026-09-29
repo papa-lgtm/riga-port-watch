@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-29 06:33
+# Berth codes seen — 2026-09-29 07:32
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -16,7 +16,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-15 |  | ECO LEVANT |
 | JM-22 |  | ST. PAULI 2 |
 | JM-23 |  | SCOT CARRIER |
-| KRS-01 | YES | BENJAMAS NAREE, EEMS TRAVELLER, WESTBORG |
+| KRS-01 | YES | BENJAMAS NAREE, WESTBORG |
 | KRS-02 | YES | SPANACO LOYALTY |
 | KRS-03 | YES | KONTICH, MFM NICOLE |
 | KRS-04 | YES | MEDWAY HORIZON |
@@ -25,8 +25,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KS-32 |  | DINA TRADER, ECO LEVANT |
 | KS-34 |  | MSC YOSHEEN |
 | MK-4 |  | NORWEGIAN SUN |
-| MKR-2 | YES | EEMS TRAVELLER |
-| MKR-3 | YES | EEMS TRAVELLER |
 | MKR-4 | YES | BON VIVANT, CLARA K., URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA |
 | MKR-7 | YES | BON VIVANT |

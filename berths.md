@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-29 02:30
+# Berth codes seen — 2026-09-29 03:39
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -36,15 +36,13 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-K4 | YES | ASTRA, LADY ANNE BEAU |
 | PD-MTW | YES | BON VIVANT, VICTORIABORG |
 | PM-16 |  | MAXIMAR |
-| RD-1 |  | MARJATTA |
-| RD-2 |  | MARJATTA |
 | RD-3 |  | KOLLAND |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-6 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101, LADY ANNE BEAU, VICTORIABORG |
 | RKR-7 | YES | ASTRA, CELTIC PIONEER, LISTER |
 | RKR-8 | YES | CELTIC PIONEER |
 | SD-3 |  | KAURI, RIX EXPLORER |
-| SD-4 |  | HUMBER RUNNER, MARJATTA |
+| SD-4 |  | HUMBER RUNNER |
 | ZO-01 |  | CMA CGM RUNDALE, LANGENESS |
 | ZO-02 |  | BENJAMAS NAREE, CECILIE F |
 | ZO-06 |  | BENJAMAS NAREE |

@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-30 00:31
+# Berth codes seen — 2026-09-30 01:31
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -10,18 +10,19 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-10 |  | SALERNO |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | CECILIE F |
-| EO-15 |  | ECO LEVANT, ELBSTROM |
+| EO-15 |  | ELBSTROM |
 | KRS-01 | YES | BENJAMAS NAREE, WESTBORG |
 | KRS-02 | YES | SPANACO LOYALTY |
 | KRS-03 | YES | KONTICH |
 | KRS-04 | YES | MEDWAY HORIZON |
 | KRS-07 | YES | BALTIC SPLIT |
 | KS-30 |  | HAMPTON SKY |
-| KS-32 |  | ECO LEVANT, ELBWIND, KILIA |
+| KS-32 |  | ELBWIND, KILIA |
 | KS-34 |  | MSC YOSHEEN |
 | MKR-4 | YES | BON VIVANT, CLARA K., URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA, CLARA K. |
 | MKR-7 | YES | BON VIVANT |
+| MS-2 |  | HAMPTON SKY |
 | PD-419 | YES | ASTRA, CLARA K., SUNMI |
 | PD-75 | YES | RUBYLAND |
 | PD-791 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101 |
@@ -40,4 +41,4 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | ZO-02 |  | BENJAMAS NAREE, CECILIE F |
 | ZO-06 |  | BENJAMAS NAREE |
 | ZO-10 |  | GT CETUS, KAURI |
-| ZO-12 |  | HAMPTON SKY |
+| ZO-12 |  | GT CETUS, HAMPTON SKY |

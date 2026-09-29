@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-29 10:33
+# Berth codes seen — 2026-09-29 11:35
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -26,7 +26,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | MKR-4 | YES | BON VIVANT, CLARA K., URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA |
 | MKR-7 | YES | BON VIVANT |
-| PD-419 | YES | ASTRA, CLARA K. |
+| PD-419 | YES | ASTRA, CLARA K., SUNMI |
 | PD-75 | YES | LORALAND, RUBYLAND |
 | PD-791 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101 |
 | PD-K4 | YES | ASTRA, LADY ANNE BEAU |

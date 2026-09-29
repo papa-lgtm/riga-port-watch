@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-29 08:32
+# Berth codes seen — 2026-09-29 09:39
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -7,8 +7,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | DG-19 |  | LORALAND, RUBYLAND |
 | DG-20 |  | LORALAND, REVALA |
 | DG-55 |  | CELTIC PIONEER |
-| DG-56 |  | RIX EXPLORER |
-| EO-08 |  | RIX EXPLORER |
 | EO-09 |  | KANO REEFER |
 | EO-10 |  | SALERNO |
 | EO-12 |  | HEBO-P101 |
@@ -22,7 +20,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-04 | YES | MEDWAY HORIZON |
 | KRS-07 | YES | BALTIC SPLIT |
 | KS-30 |  | FEDERAL KATSURA, HAMPTON SKY |
-| KS-32 |  | DINA TRADER, ECO LEVANT |
+| KS-32 |  | DINA TRADER, ECO LEVANT, KILIA |
 | KS-34 |  | MSC YOSHEEN |
 | MK-4 |  | NORWEGIAN SUN |
 | MKR-4 | YES | BON VIVANT, CLARA K., URSULA ESSBERGER |
@@ -38,9 +36,9 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-6 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101, LADY ANNE BEAU, VICTORIABORG |
 | RKR-7 | YES | ASTRA, CELTIC PIONEER, LISTER |
 | RKR-8 | YES | CELTIC PIONEER |
-| SD-3 |  | KAURI, RIX EXPLORER |
+| SD-3 |  | KAURI |
 | SD-4 |  | HUMBER RUNNER |
-| ZO-01 |  | CMA CGM RUNDALE, LANGENESS |
+| ZO-01 |  | CMA CGM RUNDALE, KILIA, LANGENESS |
 | ZO-02 |  | BENJAMAS NAREE, CECILIE F |
 | ZO-06 |  | BENJAMAS NAREE |
 | ZO-10 |  | GT CETUS, KAURI |

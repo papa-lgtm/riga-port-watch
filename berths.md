@@ -1,18 +1,16 @@
-# Berth codes seen — 2026-09-29 21:37
+# Berth codes seen — 2026-09-29 22:33
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
 | Berth | Treated as repair | Vessels seen there |
 |---|---|---|
-| DG-19 |  | LORALAND, RUBYLAND |
-| DG-20 |  | LORALAND |
+| DG-19 |  | RUBYLAND |
 | DG-55 |  | CELTIC PIONEER |
 | EO-09 |  | KANO REEFER |
 | EO-10 |  | SALERNO |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | CECILIE F |
 | EO-15 |  | ECO LEVANT, ELBSTROM |
-| JM-23 |  | SCOT CARRIER |
 | KRS-01 | YES | BENJAMAS NAREE, WESTBORG |
 | KRS-02 | YES | SPANACO LOYALTY |
 | KRS-03 | YES | KONTICH |
@@ -25,7 +23,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | MKR-5 | YES | ASTRA, CLARA K. |
 | MKR-7 | YES | BON VIVANT |
 | PD-419 | YES | ASTRA, CLARA K., SUNMI |
-| PD-75 | YES | LORALAND, RUBYLAND |
+| PD-75 | YES | RUBYLAND |
 | PD-791 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101 |
 | PD-K4 | YES | ASTRA, LADY ANNE BEAU |
 | PD-MTW | YES | BON VIVANT, VICTORIABORG |

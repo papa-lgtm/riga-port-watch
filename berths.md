@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-29 12:34
+# Berth codes seen — 2026-09-29 13:34
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -20,7 +20,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-04 | YES | MEDWAY HORIZON |
 | KRS-07 | YES | BALTIC SPLIT |
 | KS-30 |  | FEDERAL KATSURA, HAMPTON SKY |
-| KS-32 |  | DINA TRADER, ECO LEVANT, KILIA |
+| KS-32 |  | ECO LEVANT, KILIA |
 | KS-34 |  | MSC YOSHEEN |
 | MK-4 |  | NORWEGIAN SUN |
 | MKR-4 | YES | BON VIVANT, CLARA K., URSULA ESSBERGER |

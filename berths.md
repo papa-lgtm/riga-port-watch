@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-29 17:34
+# Berth codes seen — 2026-09-29 18:35
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -16,7 +16,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | JM-23 |  | SCOT CARRIER |
 | KRS-01 | YES | BENJAMAS NAREE, WESTBORG |
 | KRS-02 | YES | SPANACO LOYALTY |
-| KRS-03 | YES | KONTICH, MFM NICOLE |
+| KRS-03 | YES | KONTICH |
 | KRS-04 | YES | MEDWAY HORIZON |
 | KRS-07 | YES | BALTIC SPLIT |
 | KS-30 |  | HAMPTON SKY |

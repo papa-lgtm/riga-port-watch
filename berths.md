@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-29 11:35
+# Berth codes seen — 2026-09-29 12:34
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -36,10 +36,10 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-6 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101, LADY ANNE BEAU, VICTORIABORG |
 | RKR-7 | YES | ASTRA, CELTIC PIONEER, LISTER |
 | RKR-8 | YES | CELTIC PIONEER |
-| RKR-9 | YES | ASTRA |
+| RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-3 |  | KAURI |
 | SD-4 |  | HUMBER RUNNER |
-| ZO-01 |  | CMA CGM RUNDALE, KILIA, LANGENESS |
+| ZO-01 |  | CMA CGM RUNDALE, ELBMOON, KILIA |
 | ZO-02 |  | BENJAMAS NAREE, CECILIE F |
 | ZO-06 |  | BENJAMAS NAREE |
 | ZO-10 |  | GT CETUS, KAURI |

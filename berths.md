@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-29 05:30
+# Berth codes seen — 2026-09-29 06:33
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -36,7 +36,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-K4 | YES | ASTRA, LADY ANNE BEAU |
 | PD-MTW | YES | BON VIVANT, VICTORIABORG |
 | PM-16 |  | MAXIMAR |
-| RD-3 |  | KOLLAND |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-6 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101, LADY ANNE BEAU, VICTORIABORG |
 | RKR-7 | YES | ASTRA, CELTIC PIONEER, LISTER |

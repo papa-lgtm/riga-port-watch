@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-30 10:35
+# Berth codes seen — 2026-09-30 11:36
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -17,7 +17,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-04 | YES | MEDWAY HORIZON |
 | KRS-07 | YES | BALTIC SPLIT |
 | KS-30 |  | HAMPTON SKY |
-| KS-32 |  | ELBWIND, KILIA |
+| KS-32 |  | ELBWIND, KILIA, SONDERBORG |
 | KS-34 |  | ELBTEAM, MSC YOSHEEN |
 | MKR-4 | YES | BON VIVANT, CLARA K., URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA, CLARA K. |
@@ -29,6 +29,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-K4 | YES | ASTRA, LADY ANNE BEAU |
 | PD-MTW | YES | BON VIVANT, VICTORIABORG |
 | PM-16 |  | MAXIMAR |
+| PM-17 |  | DANITA |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-6 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101, LADY ANNE BEAU, VICTORIABORG |
 | RKR-7 | YES | ASTRA, CELTIC PIONEER |
@@ -39,6 +40,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | VM-4 | YES | TARZAN |
 | ZO-01 |  | CMA CGM RUNDALE, ELBMOON, ELBTEAM, KILIA |
 | ZO-02 |  | BENJAMAS NAREE, CECILIE F |
+| ZO-04 |  | DANITA |
 | ZO-06 |  | BENJAMAS NAREE |
 | ZO-10 |  | GT CETUS |
 | ZO-12 |  | GT CETUS, HAMPTON SKY |

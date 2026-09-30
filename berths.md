@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-30 16:34
+# Berth codes seen — 2026-09-30 17:37
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -38,7 +38,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | SD-3 |  | HAV ZANDER |
 | SD-4 |  | HUMBER RUNNER |
 | VM-4 | YES | TARZAN |
-| ZO-01 |  | CMA CGM RUNDALE, ELBMOON, ELBTEAM, KILIA |
+| ZO-01 |  | CMA CGM RUNDALE, ELBTEAM, KILIA |
 | ZO-02 |  | BENJAMAS NAREE, CECILIE F |
 | ZO-04 |  | DANITA |
 | ZO-06 |  | BENJAMAS NAREE |

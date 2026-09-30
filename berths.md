@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-30 09:39
+# Berth codes seen — 2026-09-30 10:35
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -18,7 +18,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-07 | YES | BALTIC SPLIT |
 | KS-30 |  | HAMPTON SKY |
 | KS-32 |  | ELBWIND, KILIA |
-| KS-34 |  | MSC YOSHEEN |
+| KS-34 |  | ELBTEAM, MSC YOSHEEN |
 | MKR-4 | YES | BON VIVANT, CLARA K., URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA, CLARA K. |
 | MKR-7 | YES | BON VIVANT |
@@ -34,11 +34,11 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-7 | YES | ASTRA, CELTIC PIONEER |
 | RKR-8 | YES | CELTIC PIONEER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
-| SD-3 |  | HAV ZANDER, KAURI |
+| SD-3 |  | HAV ZANDER |
 | SD-4 |  | HUMBER RUNNER |
 | VM-4 | YES | TARZAN |
-| ZO-01 |  | CMA CGM RUNDALE, ELBMOON, KILIA |
+| ZO-01 |  | CMA CGM RUNDALE, ELBMOON, ELBTEAM, KILIA |
 | ZO-02 |  | BENJAMAS NAREE, CECILIE F |
 | ZO-06 |  | BENJAMAS NAREE |
-| ZO-10 |  | GT CETUS, KAURI |
+| ZO-10 |  | GT CETUS |
 | ZO-12 |  | GT CETUS, HAMPTON SKY |

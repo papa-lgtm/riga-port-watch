@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-30 19:35
+# Berth codes seen — 2026-09-30 20:32
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -18,7 +18,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-07 | YES | BALTIC SPLIT |
 | KS-30 |  | HAMPTON SKY |
 | KS-32 |  | ELBWIND, KILIA, SONDERBORG |
-| KS-34 |  | ELBTEAM |
+| KS-34 |  | ELBTEAM, ELBWIND |
 | MKR-4 | YES | BON VIVANT, CLARA K., URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA, CLARA K. |
 | MKR-7 | YES | BON VIVANT |

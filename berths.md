@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-30 11:36
+# Berth codes seen — 2026-09-30 12:34
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -42,5 +42,5 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | ZO-02 |  | BENJAMAS NAREE, CECILIE F |
 | ZO-04 |  | DANITA |
 | ZO-06 |  | BENJAMAS NAREE |
-| ZO-10 |  | GT CETUS |
+| ZO-10 |  | BALTIC SPLIT, GT CETUS |
 | ZO-12 |  | GT CETUS, HAMPTON SKY |

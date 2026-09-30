@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-09-30 23:32
+# Berth codes seen — 2026-10-01 00:33
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -17,7 +17,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-04 | YES | MEDWAY HORIZON |
 | KRS-07 | YES | BALTIC SPLIT |
 | KS-30 |  | HAMPTON SKY |
-| KS-32 |  | ELBWIND, KILIA, SONDERBORG |
+| KS-32 |  | ELBWIND, SONDERBORG |
 | KS-34 |  | ELBTEAM, ELBWIND |
 | MKR-4 | YES | BON VIVANT, CLARA K., URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA, CLARA K. |
@@ -38,7 +38,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | SD-3 |  | HAV ZANDER |
 | SD-4 |  | HUMBER RUNNER |
 | VM-4 | YES | TARZAN |
-| ZO-01 |  | CMA CGM RUNDALE, ELBTEAM, KILIA |
+| ZO-01 |  | CMA CGM RUNDALE, ELBTEAM |
 | ZO-02 |  | BENJAMAS NAREE, CECILIE F |
 | ZO-04 |  | DANITA |
 | ZO-06 |  | BENJAMAS NAREE |

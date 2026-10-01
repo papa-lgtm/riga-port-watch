@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-01 10:35
+# Berth codes seen — 2026-10-01 11:36
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -12,6 +12,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | CECILIE F |
 | EO-15 |  | ELBSTROM, NOVA |
+| JM-23 |  | NORRLAND |
 | KRS-01 | YES | BENJAMAS NAREE, CEMCOMMANDER |
 | KRS-03 | YES | KONTICH |
 | KRS-04 | YES | MEDWAY HORIZON |
@@ -31,16 +32,17 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-MTW | YES | BON VIVANT, VICTORIABORG |
 | PM-16 |  | MAXIMAR |
 | PM-17 |  | DANITA |
-| RD-3 |  | KAISA |
+| RD-2 |  | ARKLOW FERN |
+| RD-3 |  | GT VELA, KAISA |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-6 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101, LADY ANNE BEAU, VICTORIABORG |
 | RKR-7 | YES | ASTRA, CELTIC PIONEER, FRISIAN SEA |
-| RKR-8 | YES | CELTIC PIONEER, KAISA |
+| RKR-8 | YES | CELTIC PIONEER, GT VELA, KAISA |
 | RKR-9 | YES | ASTRA, POSEIDON I |
-| SD-3 |  | HAV ZANDER |
+| SD-3 |  | DELFIN, HAV ZANDER |
 | SD-4 |  | HUMBER RUNNER |
-| VM-4 | YES | TARZAN |
-| ZO-01 |  | CMA CGM RUNDALE, ELBTEAM |
+| VM-4 | YES | GT VELA, TARZAN |
+| ZO-01 |  | ELBTEAM |
 | ZO-02 |  | BENJAMAS NAREE, CECILIE F |
 | ZO-04 |  | DANITA |
 | ZO-06 |  | BENJAMAS NAREE |

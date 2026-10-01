@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-01 18:35
+# Berth codes seen — 2026-10-01 19:33
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -46,4 +46,4 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | ZO-04 |  | DANITA, KURLAND |
 | ZO-06 |  | BENJAMAS NAREE |
 | ZO-10 |  | BALTIC SPLIT |
-| ZO-12 |  | CHINA SPIRIT, HAMPTON SKY |
+| ZO-12 |  | BALTIC SPLIT, CHINA SPIRIT, HAMPTON SKY |

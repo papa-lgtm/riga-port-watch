@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-01 06:34
+# Berth codes seen — 2026-10-01 07:34
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -11,8 +11,8 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-10 |  | SALERNO |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | CECILIE F |
-| EO-15 |  | ELBSTROM |
-| KRS-01 | YES | BENJAMAS NAREE |
+| EO-15 |  | ELBSTROM, NOVA |
+| KRS-01 | YES | BENJAMAS NAREE, CEMCOMMANDER |
 | KRS-03 | YES | KONTICH |
 | KRS-04 | YES | MEDWAY HORIZON |
 | KRS-07 | YES | BALTIC SPLIT |

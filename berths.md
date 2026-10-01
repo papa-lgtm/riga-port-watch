@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-01 22:33
+# Berth codes seen — 2026-10-01 23:35
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -15,7 +15,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-01 | YES | BENJAMAS NAREE, CEMCOMMANDER |
 | KRS-03 | YES | KONTICH |
 | KRS-04 | YES | MEDWAY HORIZON |
-| KRS-07 | YES | BALTIC SPLIT |
+| KRS-07 | YES | BALTIC SPLIT, KARITA |
 | KS-30 |  | HAMPTON SKY |
 | KS-32 |  | AILA, SONDERBORG |
 | KS-34 |  | ELBTEAM |

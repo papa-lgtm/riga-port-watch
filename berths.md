@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-01 09:41
+# Berth codes seen — 2026-10-01 10:35
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -19,6 +19,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KS-30 |  | HAMPTON SKY |
 | KS-32 |  | SONDERBORG |
 | KS-34 |  | ELBTEAM |
+| MKR-1 | YES | KAISA |
 | MKR-4 | YES | BON VIVANT, CLARA K., URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA, CLARA K. |
 | MKR-7 | YES | BON VIVANT |
@@ -30,10 +31,11 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-MTW | YES | BON VIVANT, VICTORIABORG |
 | PM-16 |  | MAXIMAR |
 | PM-17 |  | DANITA |
+| RD-3 |  | KAISA |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-6 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101, LADY ANNE BEAU, VICTORIABORG |
 | RKR-7 | YES | ASTRA, CELTIC PIONEER, FRISIAN SEA |
-| RKR-8 | YES | CELTIC PIONEER |
+| RKR-8 | YES | CELTIC PIONEER, KAISA |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-3 |  | HAV ZANDER |
 | SD-4 |  | HUMBER RUNNER |

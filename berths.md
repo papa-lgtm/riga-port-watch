@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-02 10:34
+# Berth codes seen — 2026-10-02 11:35
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -7,6 +7,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | DG-19 |  | RUBYLAND |
 | DG-20 |  | FEMBRIA |
 | DG-55 |  | BALTIC AMELIE, CELTIC PIONEER |
+| DG-56 |  | KATJA |
 | EO-09 |  | KANO REEFER |
 | EO-10 |  | SALERNO |
 | EO-12 |  | HEBO-P101 |
@@ -43,7 +44,8 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | VM-4 | YES | GT VELA, TARZAN |
 | ZO-01 |  | AILA, CMA CGM VISBY, DP WORLD LIMASSOL, ELBTEAM, SVENDBORG |
 | ZO-02 |  | BENJAMAS NAREE |
-| ZO-04 |  | DANITA, KURLAND |
+| ZO-03 |  | KURLAND |
+| ZO-04 |  | DANITA |
 | ZO-06 |  | BENJAMAS NAREE |
 | ZO-10 |  | BALTIC SPLIT |
 | ZO-12 |  | BALTIC SPLIT, CHINA SPIRIT, HAMPTON SKY |

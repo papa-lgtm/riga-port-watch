@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-02 17:36
+# Berth codes seen — 2026-10-02 18:35
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -44,7 +44,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | SD-4 |  | HUMBER RUNNER |
 | VM-4 | YES | GT VELA, TARZAN |
 | ZO-01 |  | AILA, CMA CGM VISBY, DP WORLD LIMASSOL, ELBTEAM, SVENDBORG |
-| ZO-02 |  | BENJAMAS NAREE |
+| ZO-02 |  | BENJAMAS NAREE, HELME |
 | ZO-03 |  | KURLAND |
 | ZO-04 |  | DANITA |
 | ZO-06 |  | BENJAMAS NAREE |

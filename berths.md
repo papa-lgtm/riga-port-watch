@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-02 18:35
+# Berth codes seen — 2026-10-02 19:35
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -17,15 +17,13 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-02 | YES | BENJAMAS NAREE |
 | KRS-03 | YES | KONTICH |
 | KRS-04 | YES | MEDWAY HORIZON |
-| KRS-07 | YES | BALTIC SPLIT, KARITA |
-| KS-30 |  | HAMPTON SKY |
+| KRS-07 | YES | KARITA |
 | KS-32 |  | AILA, DP WORLD LIMASSOL, SONDERBORG |
 | KS-34 |  | ELBTEAM, MSC VANQUISH II |
 | MKR-1 | YES | KAISA, KRISLIN |
 | MKR-4 | YES | BON VIVANT, CLARA K., URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA, CLARA K. |
 | MKR-7 | YES | BON VIVANT |
-| MS-2 |  | HAMPTON SKY |
 | PD-419 | YES | ASTRA, CLARA K., SUNMI |
 | PD-75 | YES | RUBYLAND |
 | PD-791 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101 |
@@ -48,5 +46,4 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | ZO-03 |  | KURLAND |
 | ZO-04 |  | DANITA |
 | ZO-06 |  | BENJAMAS NAREE |
-| ZO-10 |  | BALTIC SPLIT |
-| ZO-12 |  | BALTIC SPLIT, CHINA SPIRIT, HAMPTON SKY |
+| ZO-12 |  | CHINA SPIRIT |

@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-02 12:35
+# Berth codes seen — 2026-10-02 13:32
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -14,6 +14,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-15 |  | NOVA |
 | JM-23 |  | NORRLAND |
 | KRS-01 | YES | BENJAMAS NAREE, CEMCOMMANDER |
+| KRS-02 | YES | BENJAMAS NAREE |
 | KRS-03 | YES | KONTICH |
 | KRS-04 | YES | MEDWAY HORIZON |
 | KRS-07 | YES | BALTIC SPLIT, KARITA |

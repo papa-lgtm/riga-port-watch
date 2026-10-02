@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-03 00:32
+# Berth codes seen — 2026-10-03 01:32
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -28,7 +28,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-791 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101 |
 | PD-K4 | YES | ASTRA, DALSLAND, LADY ANNE BEAU |
 | PD-MTW | YES | BON VIVANT, VICTORIABORG |
-| PM-16 |  | MAXIMAR |
 | PM-17 |  | DANITA |
 | RD-2 |  | ARKLOW FERN |
 | RD-3 |  | GT VELA, KAISA |

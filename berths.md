@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-02 22:33
+# Berth codes seen — 2026-10-02 23:32
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -11,7 +11,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-09 |  | KANO REEFER |
 | EO-10 |  | SALERNO |
 | EO-12 |  | HEBO-P101 |
-| EO-15 |  | NOVA |
 | JM-23 |  | NORRLAND |
 | KRS-01 | YES | BENJAMAS NAREE, CEMCOMMANDER |
 | KRS-02 | YES | BENJAMAS NAREE |
@@ -40,7 +39,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-3 |  | DELFIN, HAV ZANDER |
 | SD-4 |  | HUMBER RUNNER |
-| VM-4 | YES | GT VELA, TARZAN |
+| VM-4 | YES | GT VELA |
 | ZO-01 |  | AILA, CMA CGM VISBY, DP WORLD LIMASSOL, ELBTEAM, SVENDBORG |
 | ZO-02 |  | BENJAMAS NAREE, HELME |
 | ZO-03 |  | KURLAND |

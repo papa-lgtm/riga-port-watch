@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-03 11:33
+# Berth codes seen — 2026-10-03 12:33
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -11,7 +11,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-09 |  | KANO REEFER |
 | EO-10 |  | SALERNO |
 | EO-12 |  | HEBO-P101 |
-| JM-23 |  | NORRLAND |
+| JM-23 |  | MIRAMAR, NORRLAND |
 | KRS-01 | YES | BENJAMAS NAREE |
 | KRS-02 | YES | BENJAMAS NAREE |
 | KRS-03 | YES | KONTICH |

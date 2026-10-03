@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-03 08:41
+# Berth codes seen — 2026-10-03 09:47
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -12,13 +12,14 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-10 |  | SALERNO |
 | EO-12 |  | HEBO-P101 |
 | JM-23 |  | NORRLAND |
-| KRS-01 | YES | BENJAMAS NAREE, CEMCOMMANDER |
+| KRS-01 | YES | BENJAMAS NAREE |
 | KRS-02 | YES | BENJAMAS NAREE |
 | KRS-03 | YES | KONTICH |
 | KRS-04 | YES | MEDWAY HORIZON |
 | KRS-07 | YES | KARITA |
 | KS-32 |  | AILA, DP WORLD LIMASSOL, SONDERBORG |
 | KS-34 |  | ELBTEAM, MSC VANQUISH II |
+| MK-4 |  | NORWEGIAN SUN |
 | MKR-1 | YES | KAISA, KRISLIN |
 | MKR-4 | YES | BON VIVANT, CLARA K., URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA, CLARA K. |

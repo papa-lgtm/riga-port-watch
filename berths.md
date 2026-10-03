@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-03 12:33
+# Berth codes seen — 2026-10-03 13:35
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -34,7 +34,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RD-3 |  | GT VELA, KAISA |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-6 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101, VICTORIABORG |
-| RKR-7 | YES | ASTRA, CELTIC PIONEER |
+| RKR-7 | YES | ASTRA, CELTIC PIONEER, NORRLAND |
 | RKR-8 | YES | CELTIC PIONEER, GT VELA, KAISA |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-3 |  | DELFIN, HAV ZANDER |

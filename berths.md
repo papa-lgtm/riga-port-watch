@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-04 16:47
+# Berth codes seen — 2026-10-04 23:32
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -18,7 +18,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-03 | YES | KONTICH |
 | KRS-04 | YES | MEDWAY HORIZON |
 | KRS-07 | YES | KARITA |
-| KS-32 |  | AILA, SONDERBORG |
+| KS-32 |  | AILA, MSC VANQUISH II, SONDERBORG |
 | KS-34 |  | ELBTEAM, MSC VANQUISH II |
 | MK-4 |  | NORWEGIAN SUN |
 | MKR-1 | YES | KAISA, TOLLUND |

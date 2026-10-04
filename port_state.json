@@ -22,28 +22,6 @@
   "last_seen": "2026-09-21 00:28",
   "status": "MOVING"
  },
- "3046452": {
-  "name": "WES GESA",
-  "imo": "9504061",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KS-34"
-  ],
-  "last_seen": "2026-09-20 10:28",
-  "status": "BERTHED"
- },
- "3046450": {
-  "name": "WESTBORG",
-  "imo": "9196187",
-  "flagged_repair": true,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KRS-02"
-  ],
-  "last_seen": "2026-09-20 08:28",
-  "status": "MOVING"
- },
  "3046459": {
   "name": "DREHOE II",
   "imo": "",
@@ -54,18 +32,6 @@
   ],
   "last_seen": "2026-09-20 19:29",
   "status": "BERTHED"
- },
- "3046398": {
-  "name": "ELBWIND",
-  "imo": "9483334",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KS-32",
-   "ZO-01"
-  ],
-  "last_seen": "2026-09-20 08:28",
-  "status": "MOVING"
  },
  "3046376": {
   "name": "HUMBER SPRINTER",
@@ -135,7 +101,7 @@
    "PD-MTW",
    "RKR-6"
   ],
-  "last_seen": "2026-10-04 08:26",
+  "last_seen": "2026-10-04 16:47",
   "status": "BERTHED"
  },
  "3046396": {
@@ -148,7 +114,7 @@
    "MKR-5",
    "PD-419"
   ],
-  "last_seen": "2026-10-04 08:26",
+  "last_seen": "2026-10-04 16:47",
   "status": "BERTHED"
  },
  "3046389": {
@@ -172,7 +138,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-10-04 08:26",
+  "last_seen": "2026-10-04 16:47",
   "status": "BERTHED"
  },
  "3046367": {
@@ -199,23 +165,8 @@
    "MKR-7",
    "PD-MTW"
   ],
-  "last_seen": "2026-10-04 08:26",
+  "last_seen": "2026-10-04 16:47",
   "status": "BERTHED"
- },
- "3046302": {
-  "name": "LADY ASTRID",
-  "imo": "9760419",
-  "flagged_repair": true,
-  "flagged_long_stay": true,
-  "berths_seen": [
-   "KRS-02",
-   "MKR-4",
-   "MKR-5",
-   "PD-419",
-   "VM-4"
-  ],
-  "last_seen": "2026-09-20 10:28",
-  "status": "MOVING"
  },
  "3045995": {
   "name": "LORALAND",
@@ -238,7 +189,7 @@
   "berths_seen": [
    "EO-10"
   ],
-  "last_seen": "2026-10-04 08:26",
+  "last_seen": "2026-10-04 16:47",
   "status": "BERTHED"
  },
  "3045436": {
@@ -249,7 +200,7 @@
   "berths_seen": [
    "EO-09"
   ],
-  "last_seen": "2026-10-04 08:26",
+  "last_seen": "2026-10-04 16:47",
   "status": "BERTHED"
  },
  "3044986": {
@@ -262,7 +213,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-10-04 08:26",
+  "last_seen": "2026-10-04 16:47",
   "status": "BERTHED"
  },
  "3034270": {
@@ -274,7 +225,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-10-04 08:26",
+  "last_seen": "2026-10-04 16:47",
   "status": "BERTHED"
  },
  "3032756": {
@@ -290,7 +241,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-10-04 08:26",
+  "last_seen": "2026-10-04 16:47",
   "status": "BERTHED"
  },
  "3046464": {
@@ -382,7 +333,7 @@
    "PD-K4",
    "RKR-4"
   ],
-  "last_seen": "2026-10-04 08:26",
+  "last_seen": "2026-10-04 16:47",
   "status": "BERTHED"
  },
  "3046457": {
@@ -438,7 +389,7 @@
    "DG-19",
    "PD-75"
   ],
-  "last_seen": "2026-10-04 08:26",
+  "last_seen": "2026-10-04 16:47",
   "status": "BERTHED"
  },
  "3046478": {
@@ -747,14 +698,14 @@
   "name": "BENJAMAS NAREE",
   "imo": "9464027",
   "flagged_repair": true,
-  "flagged_long_stay": false,
+  "flagged_long_stay": true,
   "berths_seen": [
    "KRS-01",
    "KRS-02",
    "ZO-02",
    "ZO-06"
   ],
-  "last_seen": "2026-10-04 08:26",
+  "last_seen": "2026-10-04 16:47",
   "status": "BERTHED"
  },
  "3046508": {
@@ -765,7 +716,7 @@
   "berths_seen": [
    "MKR-4"
   ],
-  "last_seen": "2026-10-04 08:26",
+  "last_seen": "2026-10-04 16:47",
   "status": "BERTHED"
  },
  "3046503": {
@@ -1021,7 +972,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-10-04 08:26",
+  "last_seen": "2026-10-04 16:47",
   "status": "BERTHED"
  },
  "3046529": {
@@ -1261,7 +1212,7 @@
   "berths_seen": [
    "KRS-03"
   ],
-  "last_seen": "2026-10-04 08:26",
+  "last_seen": "2026-10-04 16:47",
   "status": "BERTHED"
  },
  "3046550": {
@@ -1317,7 +1268,7 @@
   "berths_seen": [
    "KRS-04"
   ],
-  "last_seen": "2026-10-04 08:26",
+  "last_seen": "2026-10-04 16:47",
   "status": "BERTHED"
  },
  "3046546": {
@@ -1339,7 +1290,7 @@
   "berths_seen": [
    "PD-419"
   ],
-  "last_seen": "2026-10-04 08:26",
+  "last_seen": "2026-10-04 16:47",
   "status": "BERTHED"
  },
  "3046549": {
@@ -1418,7 +1369,7 @@
   "berths_seen": [
    "DG-20"
   ],
-  "last_seen": "2026-10-04 08:26",
+  "last_seen": "2026-10-04 16:47",
   "status": "BERTHED"
  },
  "3046560": {
@@ -1432,7 +1383,7 @@
    "RD-3",
    "RKR-8"
   ],
-  "last_seen": "2026-10-04 08:26",
+  "last_seen": "2026-10-04 16:47",
   "status": "BERTHED"
  },
  "3046558": {
@@ -1454,7 +1405,7 @@
   "berths_seen": [
    "RD-2"
   ],
-  "last_seen": "2026-10-04 08:26",
+  "last_seen": "2026-10-04 16:47",
   "status": "BERTHED"
  },
  "3046561": {
@@ -1501,7 +1452,7 @@
   "berths_seen": [
    "ZO-12"
   ],
-  "last_seen": "2026-10-04 08:26",
+  "last_seen": "2026-10-04 16:47",
   "status": "BERTHED"
  },
  "3046567": {
@@ -1523,7 +1474,7 @@
   "berths_seen": [
    "ZO-02"
   ],
-  "last_seen": "2026-10-04 08:26",
+  "last_seen": "2026-10-04 16:47",
   "status": "BERTHED"
  },
  "3046572": {
@@ -1534,7 +1485,52 @@
   "berths_seen": [
    "DG-56"
   ],
-  "last_seen": "2026-10-04 08:26",
+  "last_seen": "2026-10-04 16:47",
+  "status": "BERTHED"
+ },
+ "3046563": {
+  "name": "DELFIN",
+  "imo": "9173161",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "SD-3"
+  ],
+  "last_seen": "2026-10-04 16:47",
+  "status": "BERTHED"
+ },
+ "3046571": {
+  "name": "KARITA",
+  "imo": "9436783",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KRS-07"
+  ],
+  "last_seen": "2026-10-04 16:47",
+  "status": "BERTHED"
+ },
+ "3046573": {
+  "name": "MARJATTA",
+  "imo": "9345374",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "DG-55",
+   "DG-56"
+  ],
+  "last_seen": "2026-10-04 16:47",
+  "status": "BERTHED"
+ },
+ "3046577": {
+  "name": "ALAND",
+  "imo": "9350783",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "PM-17"
+  ],
+  "last_seen": "2026-10-04 16:47",
   "status": "BERTHED"
  }
 }

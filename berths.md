@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-05 00:43
+# Berth codes seen — 2026-10-05 01:31
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -14,7 +14,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | JM-22 |  | REVALA |
 | JM-23 |  | MIRAMAR |
 | KRS-01 | YES | BENJAMAS NAREE |
-| KRS-02 | YES | BENJAMAS NAREE |
+| KRS-02 | YES | BENJAMAS NAREE, WESTBORG |
 | KRS-03 | YES | KONTICH |
 | KRS-04 | YES | MEDWAY HORIZON |
 | KRS-07 | YES | KARITA |
@@ -26,6 +26,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | MKR-4 | YES | BON VIVANT, CLARA K., URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA, CLARA K. |
 | MKR-7 | YES | BON VIVANT |
+| MS-10 |  | LONGVIKING |
 | PD-419 | YES | ASTRA, CLARA K., SUNMI |
 | PD-75 | YES | RUBYLAND |
 | PD-791 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101 |

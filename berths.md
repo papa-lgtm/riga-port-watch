@@ -1,11 +1,11 @@
-# Berth codes seen — 2026-10-05 17:39
+# Berth codes seen — 2026-10-05 18:37
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
 | Berth | Treated as repair | Vessels seen there |
 |---|---|---|
 | DG-19 |  | RUBYLAND |
-| DG-20 |  | FEMBRIA |
+| DG-20 |  | FEMBRIA, KARITA |
 | DG-56 |  | KATJA |
 | EO-09 |  | KANO REEFER |
 | EO-10 |  | SALERNO |
@@ -15,13 +15,13 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | JM-22 |  | ST. PAULI 2 |
 | JM-23 |  | MIRAMAR |
 | KRS-01 | YES | WESTBORG |
-| KRS-02 | YES | WESTBORG |
+| KRS-02 | YES | AB MOM, WESTBORG |
 | KRS-03 | YES | KONTICH |
-| KRS-04 | YES | MEDWAY HORIZON |
+| KRS-04 | YES | AB MOM, MEDWAY HORIZON |
 | KRS-07 | YES | KARITA |
 | KS-30 |  | FEDERAL BALTIC |
-| KS-32 |  | AILA, ELBTEAM, MSC VANQUISH II, SONDERBORG |
-| KS-34 |  | MSC VANQUISH II, SONDERBORG |
+| KS-32 |  | AILA, ELBTEAM, SONDERBORG |
+| KS-34 |  | SONDERBORG |
 | MK-4 |  | NORWEGIAN SUN |
 | MKR-1 | YES | TOLLUND |
 | MKR-4 | YES | BON VIVANT, CLARA K., URSULA ESSBERGER |

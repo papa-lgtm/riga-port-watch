@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-05 08:39
+# Berth codes seen — 2026-10-05 09:46
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -10,6 +10,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-09 |  | KANO REEFER |
 | EO-10 |  | SALERNO |
 | EO-12 |  | HEBO-P101 |
+| EO-15 |  | LAUNKALNE |
 | JM-22 |  | REVALA |
 | JM-23 |  | MIRAMAR |
 | KRS-01 | YES | BENJAMAS NAREE |
@@ -17,6 +18,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-03 | YES | KONTICH |
 | KRS-04 | YES | MEDWAY HORIZON |
 | KRS-07 | YES | KARITA |
+| KS-30 |  | FEDERAL BALTIC |
 | KS-32 |  | AILA, MSC VANQUISH II, SONDERBORG |
 | KS-34 |  | ELBTEAM, MSC VANQUISH II, SONDERBORG |
 | MK-4 |  | NORWEGIAN SUN |
@@ -26,6 +28,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | MKR-5 | YES | ASTRA, CLARA K. |
 | MKR-7 | YES | BON VIVANT |
 | MS-10 |  | LONGVIKING |
+| MS-2 |  | FEDERAL BALTIC |
 | PD-419 | YES | ASTRA, CLARA K., SUNMI |
 | PD-75 | YES | RUBYLAND |
 | PD-791 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101 |
@@ -35,7 +38,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RD-3 |  | KAISA |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-6 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101, VICTORIABORG |
-| RKR-7 | YES | ASTRA |
+| RKR-7 | YES | ASTRA, OSTERBOTTEN |
 | RKR-8 | YES | KAISA |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-3 |  | DELFIN |

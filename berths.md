@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-05 09:46
+# Berth codes seen — 2026-10-05 10:38
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -33,7 +33,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-75 | YES | RUBYLAND |
 | PD-791 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101 |
 | PD-K4 | YES | ASTRA, DALSLAND |
-| PD-MTW | YES | BON VIVANT, VICTORIABORG |
+| PD-MTW | YES | BON VIVANT, URSULA ESSBERGER, VICTORIABORG |
 | PM-17 |  | ALAND, LAUNKALNE |
 | RD-3 |  | KAISA |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |

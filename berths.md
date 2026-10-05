@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-05 10:38
+# Berth codes seen — 2026-10-05 11:38
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -10,8 +10,9 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-09 |  | KANO REEFER |
 | EO-10 |  | SALERNO |
 | EO-12 |  | HEBO-P101 |
+| EO-14 |  | NORDIC LUEBECK |
 | EO-15 |  | LAUNKALNE |
-| JM-22 |  | REVALA |
+| JM-22 |  | REVALA, ST. PAULI 2 |
 | JM-23 |  | MIRAMAR |
 | KRS-01 | YES | BENJAMAS NAREE |
 | KRS-02 | YES | BENJAMAS NAREE, WESTBORG |
@@ -19,11 +20,10 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-04 | YES | MEDWAY HORIZON |
 | KRS-07 | YES | KARITA |
 | KS-30 |  | FEDERAL BALTIC |
-| KS-32 |  | AILA, MSC VANQUISH II, SONDERBORG |
+| KS-32 |  | AILA, ELBTEAM, MSC VANQUISH II, SONDERBORG |
 | KS-34 |  | ELBTEAM, MSC VANQUISH II, SONDERBORG |
 | MK-4 |  | NORWEGIAN SUN |
-| MKR-1 | YES | KAISA, TOLLUND |
-| MKR-2 | YES | KAISA |
+| MKR-1 | YES | TOLLUND |
 | MKR-4 | YES | BON VIVANT, CLARA K., URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA, CLARA K. |
 | MKR-7 | YES | BON VIVANT |
@@ -35,15 +35,13 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-K4 | YES | ASTRA, DALSLAND |
 | PD-MTW | YES | BON VIVANT, URSULA ESSBERGER, VICTORIABORG |
 | PM-17 |  | ALAND, LAUNKALNE |
-| RD-3 |  | KAISA |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-6 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101, VICTORIABORG |
 | RKR-7 | YES | ASTRA, OSTERBOTTEN |
-| RKR-8 | YES | KAISA |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-3 |  | DELFIN |
 | SD-4 |  | HUMBER RUNNER |
-| ZO-01 |  | AILA, CMA CGM VISBY, ELBTEAM, SVENDBORG |
+| ZO-01 |  | AILA, CMA CGM VISBY, ELBOCEAN, ELBTEAM, SVENDBORG |
 | ZO-02 |  | BENJAMAS NAREE |
 | ZO-06 |  | BENJAMAS NAREE |
 | ZO-12 |  | CHINA SPIRIT |

@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-05 15:42
+# Berth codes seen — 2026-10-05 16:39
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -28,6 +28,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | MKR-5 | YES | ASTRA, CLARA K. |
 | MKR-7 | YES | BON VIVANT |
 | MS-10 |  | LONGVIKING |
+| MS-12 |  | DELFIN |
 | MS-2 |  | FEDERAL BALTIC |
 | PD-419 | YES | ASTRA, CLARA K., SUNMI |
 | PD-75 | YES | RUBYLAND |

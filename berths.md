@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-05 20:33
+# Berth codes seen — 2026-10-05 21:40
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -10,7 +10,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-09 |  | KANO REEFER |
 | EO-10 |  | SALERNO |
 | EO-12 |  | HEBO-P101 |
-| EO-14 |  | NORDIC LUEBECK |
+| EO-14 |  | NORDIC LUEBECK, X-PRESS AGILITY |
 | EO-15 |  | LAUNKALNE |
 | JM-22 |  | ST. PAULI 2 |
 | JM-23 |  | MIRAMAR |
@@ -20,7 +20,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-04 | YES | AB MOM, MEDWAY HORIZON |
 | KRS-07 | YES | KARITA |
 | KS-30 |  | FEDERAL BALTIC |
-| KS-32 |  | AILA, ELBTEAM, SONDERBORG |
+| KS-32 |  | AILA, ELBTEAM, SONDERBORG, X-PRESS AGILITY |
 | KS-34 |  | SONDERBORG |
 | MKR-1 | YES | TOLLUND |
 | MKR-4 | YES | BON VIVANT, CLARA K., URSULA ESSBERGER |

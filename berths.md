@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-05 14:36
+# Berth codes seen — 2026-10-05 15:42
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -12,10 +12,10 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | NORDIC LUEBECK |
 | EO-15 |  | LAUNKALNE |
-| JM-22 |  | REVALA, ST. PAULI 2 |
+| JM-22 |  | ST. PAULI 2 |
 | JM-23 |  | MIRAMAR |
-| KRS-01 | YES | BENJAMAS NAREE, WESTBORG |
-| KRS-02 | YES | BENJAMAS NAREE, WESTBORG |
+| KRS-01 | YES | WESTBORG |
+| KRS-02 | YES | WESTBORG |
 | KRS-03 | YES | KONTICH |
 | KRS-04 | YES | MEDWAY HORIZON |
 | KRS-07 | YES | KARITA |
@@ -41,8 +41,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-3 |  | DELFIN |
 | SD-4 |  | HUMBER RUNNER |
-| ZO-01 |  | AILA, CMA CGM VISBY, ELBOCEAN, ELBTEAM, SVENDBORG |
-| ZO-02 |  | BENJAMAS NAREE |
-| ZO-06 |  | BENJAMAS NAREE |
+| ZO-01 |  | AILA, CMA CGM VISBY, ELBOCEAN, ELBTEAM |
 | ZO-12 |  | CHINA SPIRIT |
 | ZO-17 |  | TERN ISLAND |

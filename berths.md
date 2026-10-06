@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-06 10:35
+# Berth codes seen — 2026-10-06 11:35
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -21,13 +21,13 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KS-30 |  | FEDERAL BALTIC |
 | KS-32 |  | AILA, ELBTEAM, X-PRESS AGILITY |
 | MKR-1 | YES | TOLLUND |
-| MKR-4 | YES | BON VIVANT, CLARA K., URSULA ESSBERGER |
-| MKR-5 | YES | ASTRA, CLARA K. |
+| MKR-4 | YES | BON VIVANT, URSULA ESSBERGER |
+| MKR-5 | YES | ASTRA |
 | MKR-7 | YES | BON VIVANT |
 | MS-10 |  | LONGVIKING |
 | MS-12 |  | DELFIN |
 | MS-2 |  | FEDERAL BALTIC |
-| PD-419 | YES | ASTRA, CLARA K., SUNMI |
+| PD-419 | YES | ASTRA, SUNMI |
 | PD-75 | YES | RUBYLAND |
 | PD-791 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101 |
 | PD-K4 | YES | ASTRA, DALSLAND |

@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-06 17:35
+# Berth codes seen — 2026-10-06 18:34
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -14,13 +14,13 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | JM-22 |  | ST. PAULI 2 |
 | JM-23 |  | MIRAMAR |
 | KR-21 |  | FRANCISCA |
-| KRS-01 | YES | KAIRIT |
-| KRS-02 | YES | AB MOM, KAMELIA |
+| KRS-01 | YES | AB MOM, KAIRIT |
+| KRS-02 | YES | KAMELIA |
 | KRS-03 | YES | KONTICH |
 | KRS-04 | YES | AB MOM, MEDWAY HORIZON |
 | KRS-07 | YES | KARITA, KRISTEL |
 | KS-30 |  | FEDERAL BALTIC |
-| KS-32 |  | AILA, ELBTEAM, X-PRESS AGILITY |
+| KS-32 |  | AILA, X-PRESS AGILITY |
 | MKR-1 | YES | TOLLUND |
 | MKR-4 | YES | BON VIVANT, URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA |
@@ -40,6 +40,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-3 |  | DELFIN |
 | SD-4 |  | HUMBER RUNNER |
-| ZO-01 |  | AILA, CMA CGM VISBY, ELBTEAM |
+| ZO-01 |  | AILA, CMA CGM VISBY |
 | ZO-12 |  | CHINA SPIRIT |
 | ZO-17 |  | TERN ISLAND |

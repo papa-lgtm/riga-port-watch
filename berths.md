@@ -1,11 +1,11 @@
-# Berth codes seen — 2026-10-06 18:34
+# Berth codes seen — 2026-10-06 19:36
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
 | Berth | Treated as repair | Vessels seen there |
 |---|---|---|
 | DG-19 |  | RUBYLAND |
-| DG-20 |  | FEMBRIA, KARITA |
+| DG-20 |  | FEMBRIA |
 | EO-09 |  | KANO REEFER |
 | EO-10 |  | SALERNO |
 | EO-12 |  | HEBO-P101 |
@@ -17,8 +17,9 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-01 | YES | AB MOM, KAIRIT |
 | KRS-02 | YES | KAMELIA |
 | KRS-03 | YES | KONTICH |
-| KRS-04 | YES | AB MOM, MEDWAY HORIZON |
-| KRS-07 | YES | KARITA, KRISTEL |
+| KRS-04 | YES | AB MOM |
+| KRS-06 | YES | MEIN SCHIFF RELAX |
+| KRS-07 | YES | KRISTEL |
 | KS-30 |  | FEDERAL BALTIC |
 | KS-32 |  | AILA, X-PRESS AGILITY |
 | MKR-1 | YES | TOLLUND |

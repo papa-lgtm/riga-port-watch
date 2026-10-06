@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-06 08:33
+# Berth codes seen — 2026-10-06 09:41
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -13,7 +13,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-15 |  | LAUNKALNE |
 | JM-22 |  | ST. PAULI 2 |
 | JM-23 |  | MIRAMAR |
-| KRS-01 | YES | WESTBORG |
+| KRS-01 | YES | KAIRIT, WESTBORG |
 | KRS-02 | YES | AB MOM, WESTBORG |
 | KRS-03 | YES | KONTICH |
 | KRS-04 | YES | AB MOM, MEDWAY HORIZON |

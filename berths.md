@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-06 16:35
+# Berth codes seen — 2026-10-06 17:35
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -14,8 +14,8 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | JM-22 |  | ST. PAULI 2 |
 | JM-23 |  | MIRAMAR |
 | KR-21 |  | FRANCISCA |
-| KRS-01 | YES | KAIRIT, WESTBORG |
-| KRS-02 | YES | AB MOM, WESTBORG |
+| KRS-01 | YES | KAIRIT |
+| KRS-02 | YES | AB MOM, KAMELIA |
 | KRS-03 | YES | KONTICH |
 | KRS-04 | YES | AB MOM, MEDWAY HORIZON |
 | KRS-07 | YES | KARITA, KRISTEL |

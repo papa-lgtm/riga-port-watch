@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-07 04:34
+# Berth codes seen — 2026-10-07 05:34
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -11,7 +11,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-10 |  | SALERNO |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | NORDIC LUEBECK, X-PRESS AGILITY |
-| EO-15 |  | LAUNKALNE, MIRROR |
+| EO-15 |  | MIRROR |
 | JM-22 |  | ST. PAULI 2 |
 | JM-23 |  | MIRAMAR |
 | KR-21 |  | FRANCISCA |
@@ -35,7 +35,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-791 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101 |
 | PD-K4 | YES | ASTRA, DALSLAND |
 | PD-MTW | YES | BON VIVANT, URSULA ESSBERGER, VICTORIABORG |
-| PM-17 |  | LAUNKALNE, VASTERBOTTEN |
+| PM-17 |  | VASTERBOTTEN |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-6 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101, VICTORIABORG |
 | RKR-7 | YES | ASTRA, OSTERBOTTEN |

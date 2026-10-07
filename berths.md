@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-07 19:38
+# Berth codes seen — 2026-10-07 20:36
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -7,6 +7,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | DG-19 |  | RUBYLAND |
 | DG-20 |  | FEMBRIA |
 | DG-55 |  | FRANCISCA |
+| DG-56 |  | NORRLAND |
 | EO-09 |  | KANO REEFER |
 | EO-10 |  | SALERNO |
 | EO-12 |  | HEBO-P101 |

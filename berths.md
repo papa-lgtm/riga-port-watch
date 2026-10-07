@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-07 18:43
+# Berth codes seen — 2026-10-07 19:38
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -43,6 +43,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | SD-4 |  | HUMBER RUNNER |
 | ZO-01 |  | AILA, CMA CGM VISBY |
 | ZO-02 |  | PERA |
+| ZO-04 |  | KURLAND |
 | ZO-05 |  | HAVELLAND |
 | ZO-12 |  | CHINA SPIRIT |
 | ZO-18 |  | TERN LAND |

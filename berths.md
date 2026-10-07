@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-07 14:34
+# Berth codes seen — 2026-10-07 15:43
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -23,6 +23,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-07 | YES | KRISTEL |
 | KS-30 |  | FEDERAL BALTIC |
 | KS-32 |  | AILA, SONDERBORG, X-PRESS AGILITY |
+| KS-34 |  | MSC ASLI II |
 | LP-27 |  | CORAL MONACTIS |
 | MKR-4 | YES | BON VIVANT, URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA |

@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-08 22:34
+# Berth codes seen — 2026-10-08 23:36
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -17,7 +17,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | JM-23 |  | MIRAMAR, SCOT LEADER |
 | KR-21 |  | FRANCISCA |
 | KR-25 |  | TAHO MIRACLE |
-| KRS-01 | YES | AB MOM, KAIRIT, SCOT LEADER, TIM |
+| KRS-01 | YES | AB MOM, HUMBER RUNNER, KAIRIT, SCOT LEADER, TIM |
 | KRS-02 | YES | KAIRIT |
 | KRS-03 | YES | KONTICH |
 | KRS-04 | YES | AB MOM |

@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-08 14:35
+# Berth codes seen — 2026-10-08 15:44
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -24,7 +24,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-06 | YES | MEIN SCHIFF RELAX |
 | KRS-07 | YES | KRISTEL |
 | KS-30 |  | FEDERAL BALTIC, TAHO MIRACLE |
-| KS-32 |  | AILA, SONDERBORG, X-PRESS AGILITY |
+| KS-32 |  | AILA, JUDITH, SONDERBORG, X-PRESS AGILITY |
 | KS-34 |  | MSC ASLI II |
 | LP-27 |  | CORAL MONACTIS |
 | MKR-4 | YES | BON VIVANT, URSULA ESSBERGER |
@@ -44,7 +44,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-4 |  | HUMBER RUNNER |
 | VM-4 | YES | SCOT LEADER |
-| ZO-01 |  | AILA, CMA CGM VISBY, SINAR BUKITTINGGI |
+| ZO-01 |  | AILA, CMA CGM VISBY, JUDITH, SINAR BUKITTINGGI |
 | ZO-02 |  | PERA |
 | ZO-04 |  | KURLAND |
 | ZO-05 |  | HAVELLAND, SONORO |

@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-08 09:43
+# Berth codes seen — 2026-10-08 10:37
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -6,7 +6,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 |---|---|---|
 | DG-19 |  | RUBYLAND |
 | DG-20 |  | FEMBRIA |
-| DG-55 |  | FRANCISCA |
+| DG-55 |  | FRANCISCA, TIM |
 | DG-56 |  | NORRLAND |
 | EO-09 |  | KANO REEFER |
 | EO-10 |  | SALERNO |
@@ -16,7 +16,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | JM-22 |  | BALTICMAR, ST. PAULI 2 |
 | JM-23 |  | MIRAMAR |
 | KR-21 |  | FRANCISCA |
-| KRS-01 | YES | AB MOM, KAIRIT |
+| KRS-01 | YES | AB MOM, KAIRIT, TIM |
 | KRS-02 | YES | KAMELIA |
 | KRS-03 | YES | KONTICH |
 | KRS-04 | YES | AB MOM |
@@ -39,7 +39,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-6 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101, VICTORIABORG |
 | RKR-7 | YES | ASTRA |
-| RKR-8 | YES | HUMBER RUNNER |
+| RKR-8 | YES | HUMBER RUNNER, TIM |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-4 |  | HUMBER RUNNER |
 | ZO-01 |  | AILA, CMA CGM VISBY |

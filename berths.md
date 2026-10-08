@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-08 03:45
+# Berth codes seen — 2026-10-08 04:34
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -46,5 +46,4 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | ZO-02 |  | PERA |
 | ZO-04 |  | KURLAND |
 | ZO-05 |  | HAVELLAND |
-| ZO-12 |  | CHINA SPIRIT |
 | ZO-18 |  | TERN LAND |

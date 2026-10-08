@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-08 17:38
+# Berth codes seen — 2026-10-08 18:37
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -17,10 +17,9 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KR-21 |  | FRANCISCA |
 | KR-25 |  | TAHO MIRACLE |
 | KRS-01 | YES | AB MOM, KAIRIT, SCOT LEADER, TIM |
-| KRS-02 | YES | KAMELIA |
+| KRS-02 | YES | KAIRIT, KAMELIA |
 | KRS-03 | YES | KONTICH |
 | KRS-04 | YES | AB MOM |
-| KRS-06 | YES | MEIN SCHIFF RELAX |
 | KRS-07 | YES | KRISTEL |
 | KS-30 |  | FEDERAL BALTIC, TAHO MIRACLE |
 | KS-32 |  | AILA, JUDITH, SONDERBORG, X-PRESS AGILITY |

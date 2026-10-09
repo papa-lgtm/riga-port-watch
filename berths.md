@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-09 12:36
+# Berth codes seen — 2026-10-09 13:36
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -39,7 +39,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PM-17 |  | LAPPLAND |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-6 | YES | BALTIC PURPLE, BALTIC SPIRIT, HEBO-P101, VICTORIABORG |
-| RKR-7 | YES | ASTRA |
+| RKR-7 | YES | ASTRA, BALTIC STRENGTH |
 | RKR-8 | YES | HUMBER RUNNER, TIM |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-4 |  | HUMBER RUNNER |
@@ -47,5 +47,5 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | ZO-01 |  | AILA, CMA CGM VISBY, JUDITH, SINAR BUKITTINGGI |
 | ZO-02 |  | PERA |
 | ZO-04 |  | KURLAND |
-| ZO-05 |  | HAVELLAND, SONORO |
+| ZO-05 |  | SONORO |
 | ZO-18 |  | TERN LAND |

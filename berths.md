@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-09 16:38
+# Berth codes seen — 2026-10-09 17:39
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -27,6 +27,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | MKR-4 | YES | BON VIVANT, URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA |
 | MKR-7 | YES | BON VIVANT |
+| MS-12 |  | KRISTEL |
 | MS-2 |  | FEDERAL BALTIC, NORD VIND |
 | OUT |  | SALERNO |
 | PD-419 | YES | ASTRA, SUNMI |
@@ -43,7 +44,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-4 |  | HUMBER RUNNER |
 | VM-4 | YES | SCOT LEADER |
-| ZO-01 |  | AILA, CMA CGM VISBY, EXPERT, JUDITH, SINAR BUKITTINGGI |
+| ZO-01 |  | AILA, EXPERT, JUDITH, SINAR BUKITTINGGI |
 | ZO-02 |  | PERA |
 | ZO-04 |  | KURLAND |
 | ZO-05 |  | SONORO |

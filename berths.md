@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-09 15:41
+# Berth codes seen — 2026-10-09 16:38
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -17,13 +17,12 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | JM-23 |  | SCOT LEADER |
 | KR-21 |  | FRANCISCA, LADY HESTIA |
 | KR-25 |  | TAHO MIRACLE |
-| KRS-01 | YES | AB MOM, HUMBER RUNNER, KAIRIT, LONGPRIDE, SCOT LEADER, TIM |
-| KRS-02 | YES | KAIRIT |
+| KRS-01 | YES | AB MOM, HUMBER RUNNER, LONGPRIDE, SCOT LEADER, TIM |
 | KRS-03 | YES | KONTICH |
 | KRS-04 | YES | AB MOM |
 | KRS-07 | YES | KRISTEL |
 | KS-30 |  | FEDERAL BALTIC, TAHO MIRACLE |
-| KS-32 |  | AILA, JUDITH, SONDERBORG, X-PRESS AGILITY |
+| KS-32 |  | AILA, EXPERT, JUDITH, SONDERBORG, X-PRESS AGILITY |
 | KS-34 |  | MSC ASLI II, MSC YOSHEEN |
 | MKR-4 | YES | BON VIVANT, URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA |
@@ -44,7 +43,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-4 |  | HUMBER RUNNER |
 | VM-4 | YES | SCOT LEADER |
-| ZO-01 |  | AILA, CMA CGM VISBY, JUDITH, SINAR BUKITTINGGI |
+| ZO-01 |  | AILA, CMA CGM VISBY, EXPERT, JUDITH, SINAR BUKITTINGGI |
 | ZO-02 |  | PERA |
 | ZO-04 |  | KURLAND |
 | ZO-05 |  | SONORO |

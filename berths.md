@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-09 10:36
+# Berth codes seen — 2026-10-09 11:37
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -8,12 +8,12 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | DG-20 |  | FEMBRIA, RUBYLAND |
 | DG-55 |  | FRANCISCA, TIM |
 | DG-55A |  | FRANCISCA |
-| DG-56 |  | NORDIC GLORIA, NORRLAND |
+| DG-56 |  | HIIUMAA, NORDIC GLORIA, NORRLAND |
 | EO-09 |  | KANO REEFER |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | NORDIC LUEBECK, X-PRESS AGILITY |
 | EO-15 |  | X-PRESS AGILITY |
-| JM-22 |  | BALTICMAR, ST. PAULI 2 |
+| JM-22 |  | BALTICMAR, HIIUMAA, ST. PAULI 2 |
 | JM-23 |  | SCOT LEADER, ST. PAULI 2 |
 | KR-21 |  | FRANCISCA, LADY HESTIA |
 | KR-25 |  | TAHO MIRACLE |

@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-09 17:39
+# Berth codes seen — 2026-10-09 18:35
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -18,6 +18,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KR-21 |  | FRANCISCA, LADY HESTIA |
 | KR-25 |  | TAHO MIRACLE |
 | KRS-01 | YES | AB MOM, HUMBER RUNNER, LONGPRIDE, SCOT LEADER, TIM |
+| KRS-02 | YES | SCOT LEADER |
 | KRS-03 | YES | KONTICH |
 | KRS-04 | YES | AB MOM |
 | KRS-07 | YES | KRISTEL |

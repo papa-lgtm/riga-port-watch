@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-09 05:34
+# Berth codes seen — 2026-10-09 06:36
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -12,9 +12,9 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-09 |  | KANO REEFER |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | NORDIC LUEBECK, X-PRESS AGILITY |
-| EO-15 |  | ANNE D, X-PRESS AGILITY |
+| EO-15 |  | X-PRESS AGILITY |
 | JM-22 |  | BALTICMAR, ST. PAULI 2 |
-| JM-23 |  | SCOT LEADER |
+| JM-23 |  | SCOT LEADER, ST. PAULI 2 |
 | KR-21 |  | FRANCISCA |
 | KR-25 |  | TAHO MIRACLE |
 | KRS-01 | YES | AB MOM, HUMBER RUNNER, KAIRIT, SCOT LEADER, TIM |

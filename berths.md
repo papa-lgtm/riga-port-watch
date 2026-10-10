@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-10 12:33
+# Berth codes seen — 2026-10-10 13:32
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -47,6 +47,5 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | ZO-01 |  | EXPERT, JUDITH, SINAR BUKITTINGGI |
 | ZO-02 |  | PERA |
 | ZO-03 |  | LETTLAND |
-| ZO-05 |  | SONORO |
 | ZO-12 |  | RONJA |
 | ZO-18 |  | TERN LAND |

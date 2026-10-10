@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-10 17:32
+# Berth codes seen — 2026-10-10 18:32
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -6,22 +6,22 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 |---|---|---|
 | DG-19 |  | RUBYLAND |
 | DG-20 |  | FEMBRIA, RUBYLAND |
-| DG-55 |  | FRANCISCA, NORDIC GLORIA, TIM |
-| DG-55A |  | FRANCISCA |
+| DG-55 |  | NORDIC GLORIA, TIM |
+| DG-55A |  | NORDIC GLORIA |
 | DG-56 |  | ALAND, HIIUMAA, LONGPRIDE, NORDIC GLORIA, NORRLAND |
 | EO-09 |  | KANO REEFER |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | NORDIC LUEBECK |
 | JM-22 |  | BALTICMAR, HIIUMAA |
 | JM-23 |  | SCOT LEADER |
-| KR-21 |  | FRANCISCA, LADY HESTIA |
+| KR-21 |  | LADY HESTIA |
 | KR-25 |  | TAHO MIRACLE |
 | KRS-01 | YES | AB MOM, LONGPRIDE, SCOT LEADER, TIM |
 | KRS-02 | YES | SCOT LEADER |
 | KRS-03 | YES | KONTICH |
 | KRS-04 | YES | AB MOM |
 | KRS-07 | YES | KRISTEL |
-| KS-30 |  | FEDERAL BALTIC, TAHO MIRACLE |
+| KS-30 |  | TAHO MIRACLE |
 | KS-32 |  | EXPERT, JUDITH, SONDERBORG |
 | KS-34 |  | MSC ASLI II, MSC YOSHEEN |
 | MKR-4 | YES | ARENT, BON VIVANT, URSULA ESSBERGER |
@@ -29,7 +29,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | MKR-7 | YES | BON VIVANT |
 | MS-10 |  | PRIMA DONNA |
 | MS-12 |  | KRISTEL, VIKTORIA |
-| MS-2 |  | FEDERAL BALTIC, NORD VIND |
+| MS-2 |  | NORD VIND |
 | OUT |  | SALERNO |
 | PD-419 | YES | ASTRA, SUNMI |
 | PD-75 | YES | FEMBRIA, RUBYLAND |

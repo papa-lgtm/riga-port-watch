@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-11 01:32
+# Berth codes seen — 2026-10-11 02:31
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -29,7 +29,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | MKR-5 | YES | ASTRA |
 | MKR-7 | YES | BON VIVANT |
 | MS-10 |  | PRIMA DONNA |
-| MS-12 |  | KRISTEL, VIKTORIA |
+| MS-12 |  | KRISTEL, LONGVANN, VIKTORIA |
 | MS-2 |  | NORD VIND |
 | OUT |  | SALERNO |
 | PD-419 | YES | ASTRA, SUNMI |

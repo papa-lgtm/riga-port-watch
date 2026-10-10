@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-10 10:33
+# Berth codes seen — 2026-10-10 11:33
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -48,6 +48,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | VM-4 | YES | SCOT LEADER |
 | ZO-01 |  | EXPERT, JUDITH, SINAR BUKITTINGGI |
 | ZO-02 |  | PERA |
+| ZO-03 |  | LETTLAND |
 | ZO-04 |  | KURLAND |
 | ZO-05 |  | SONORO |
 | ZO-18 |  | TERN LAND |

@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-10 22:31
+# Berth codes seen — 2026-10-10 23:32
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -12,8 +12,9 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-09 |  | KANO REEFER |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | NORDIC LUEBECK |
-| JM-22 |  | BALTICMAR, HIIUMAA |
+| JM-22 |  | HIIUMAA |
 | JM-23 |  | SCOT LEADER |
+| JM-29 |  | ROSEBURG |
 | KR-21 |  | LADY HESTIA |
 | KR-25 |  | TAHO MIRACLE |
 | KRS-01 | YES | AB MOM, LONGPRIDE, SCOT LEADER, TIM |
@@ -22,7 +23,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-04 | YES | AB MOM |
 | KRS-07 | YES | KRISTEL |
 | KS-30 |  | TAHO MIRACLE |
-| KS-32 |  | EXPERT, JUDITH, SONDERBORG |
+| KS-32 |  | JUDITH, SONDERBORG |
 | KS-34 |  | MSC YOSHEEN |
 | MKR-4 | YES | ARENT, BON VIVANT, URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA |
@@ -43,7 +44,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-8 | YES | TIM |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | VM-4 | YES | SCOT LEADER |
-| ZO-01 |  | EXPERT, JUDITH, SINAR BUKITTINGGI |
+| ZO-01 |  | JUDITH, SINAR BUKITTINGGI |
 | ZO-02 |  | PERA |
 | ZO-03 |  | LETTLAND |
 | ZO-12 |  | RONJA |

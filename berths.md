@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-11 17:33
+# Berth codes seen — 2026-10-11 18:33
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -13,11 +13,9 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | NORDIC LUEBECK |
 | JM-22 |  | HIIUMAA |
-| JM-23 |  | SCOT LEADER |
 | JM-29 |  | ROSEBURG |
 | KR-25 |  | TAHO MIRACLE |
-| KRS-01 | YES | AB MOM, LONGPRIDE, SCOT LEADER |
-| KRS-02 | YES | SCOT LEADER |
+| KRS-01 | YES | AB MOM, LONGPRIDE |
 | KRS-03 | YES | KONTICH |
 | KRS-04 | YES | AB MOM |
 | KRS-07 | YES | KRISTEL |
@@ -42,7 +40,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-7 | YES | ASTRA, BALTIC STRENGTH, KESSU |
 | RKR-8 | YES | HUMBER SPRINTER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
-| VM-4 | YES | SCOT LEADER |
 | ZO-01 |  | JUDITH, SINAR BUKITTINGGI |
 | ZO-02 |  | PERA |
 | ZO-03 |  | LETTLAND |

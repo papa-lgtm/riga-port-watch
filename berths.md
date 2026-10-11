@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-11 02:31
+# Berth codes seen — 2026-10-11 03:45
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -8,14 +8,13 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | DG-20 |  | FEMBRIA, RUBYLAND |
 | DG-55 |  | NORDIC GLORIA, TIM |
 | DG-55A |  | NORDIC GLORIA |
-| DG-56 |  | ALAND, HIIUMAA, LONGPRIDE, NORDIC GLORIA, NORRLAND |
+| DG-56 |  | ALAND, HIIUMAA, LONGPRIDE, NORDIC GLORIA |
 | EO-09 |  | KANO REEFER |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | NORDIC LUEBECK |
 | JM-22 |  | HIIUMAA |
 | JM-23 |  | SCOT LEADER |
 | JM-29 |  | ROSEBURG |
-| KR-21 |  | LADY HESTIA |
 | KR-25 |  | TAHO MIRACLE |
 | KRS-01 | YES | AB MOM, LONGPRIDE, SCOT LEADER, TIM |
 | KRS-02 | YES | SCOT LEADER |

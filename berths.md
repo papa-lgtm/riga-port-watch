@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-11 18:33
+# Berth codes seen — 2026-10-11 19:34
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -14,6 +14,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-14 |  | NORDIC LUEBECK |
 | JM-22 |  | HIIUMAA |
 | JM-29 |  | ROSEBURG |
+| KR-21 |  | GT DELPHIN |
 | KR-25 |  | TAHO MIRACLE |
 | KRS-01 | YES | AB MOM, LONGPRIDE |
 | KRS-03 | YES | KONTICH |
@@ -37,11 +38,12 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PM-17 |  | LAPPLAND |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-6 | YES | BALTIC SPIRIT, HEBO-P101, VICTORIABORG |
-| RKR-7 | YES | ASTRA, BALTIC STRENGTH, KESSU |
+| RKR-7 | YES | ASTRA, KESSU |
 | RKR-8 | YES | HUMBER SPRINTER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
+| VM-4 | YES | GT DELPHIN |
 | ZO-01 |  | JUDITH, SINAR BUKITTINGGI |
 | ZO-02 |  | PERA |
-| ZO-03 |  | LETTLAND |
+| ZO-03 |  | LETTLAND, NAVITA |
 | ZO-04 |  | LONGEON |
 | ZO-12 |  | RONJA |

@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-11 05:34
+# Berth codes seen — 2026-10-11 06:36
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -6,7 +6,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 |---|---|---|
 | DG-19 |  | RUBYLAND |
 | DG-20 |  | FEMBRIA, RUBYLAND |
-| DG-55 |  | NORDIC GLORIA, TIM |
+| DG-55 |  | NORDIC GLORIA |
 | DG-55A |  | NORDIC GLORIA |
 | DG-56 |  | ALAND, HIIUMAA, LONGPRIDE, NORDIC GLORIA |
 | EO-09 |  | KANO REEFER |
@@ -16,7 +16,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | JM-23 |  | SCOT LEADER |
 | JM-29 |  | ROSEBURG |
 | KR-25 |  | TAHO MIRACLE |
-| KRS-01 | YES | AB MOM, LONGPRIDE, SCOT LEADER, TIM |
+| KRS-01 | YES | AB MOM, LONGPRIDE, SCOT LEADER |
 | KRS-02 | YES | SCOT LEADER |
 | KRS-03 | YES | KONTICH |
 | KRS-04 | YES | AB MOM |
@@ -40,7 +40,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-6 | YES | BALTIC SPIRIT, HEBO-P101, VICTORIABORG |
 | RKR-7 | YES | ASTRA, BALTIC STRENGTH, KESSU |
-| RKR-8 | YES | TIM |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | VM-4 | YES | SCOT LEADER |
 | ZO-01 |  | JUDITH, SINAR BUKITTINGGI |

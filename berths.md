@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-11 12:34
+# Berth codes seen — 2026-10-11 13:33
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -42,7 +42,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-7 | YES | ASTRA, BALTIC STRENGTH, KESSU |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | VM-4 | YES | SCOT LEADER |
-| ZO-01 |  | JUDITH, MV.SINAR BUKITTINGGI |
+| ZO-01 |  | JUDITH, SINAR BUKITTINGGI |
 | ZO-02 |  | PERA |
 | ZO-03 |  | LETTLAND |
 | ZO-04 |  | LONGEON |

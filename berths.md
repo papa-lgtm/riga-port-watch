@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-12 14:39
+# Berth codes seen — 2026-10-12 16:01
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -40,5 +40,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | ZO-02 |  | PERA |
 | ZO-03 |  | LETTLAND, NAVITA |
 | ZO-04 |  | LONGEON |
+| ZO-06 |  | NAVITA |
 | ZO-12 |  | RONJA |
 | ZO-18 |  | ALPINE SPIRIT |

@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-12 08:37
+# Berth codes seen — 2026-10-12 09:49
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -17,12 +17,12 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-01 | YES | LONGPRIDE |
 | KRS-07 | YES | KRISTEL |
 | KS-30 |  | TAHO MIRACLE |
-| KS-32 |  | ENCOUNTER, JUDITH, SONDERBORG |
+| KS-32 |  | ENCOUNTER, SONDERBORG |
 | KS-34 |  | MSC YOSHEEN |
 | MKR-4 | YES | ARENT, BON VIVANT, URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA |
 | MKR-7 | YES | BON VIVANT |
-| MS-12 |  | KRISTEL, LONGVANN, VIKTORIA |
+| MS-12 |  | KRISTEL, LONGVANN |
 | MS-2 |  | DAWN, NORD VIND |
 | OUT |  | SALERNO |
 | PD-419 | YES | ASTRA, SUNMI |
@@ -36,7 +36,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-8 | YES | HUMBER SPRINTER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | VM-4 | YES | GT DELPHIN, RONJA |
-| ZO-01 |  | CMA CGM MERMAID, ENCOUNTER, JUDITH |
+| ZO-01 |  | CMA CGM MERMAID, ENCOUNTER |
 | ZO-02 |  | PERA |
 | ZO-03 |  | LETTLAND, NAVITA |
 | ZO-04 |  | LONGEON |

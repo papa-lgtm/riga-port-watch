@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-12 20:36
+# Berth codes seen — 2026-10-12 21:41
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -39,7 +39,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | VM-4 | YES | GT DELPHIN, RONJA |
 | ZO-01 |  | CMA CGM MERMAID, ELBMOON, ENCOUNTER |
 | ZO-02 |  | PERA |
-| ZO-03 |  | LETTLAND, NAVITA |
+| ZO-03 |  | NAVITA |
 | ZO-04 |  | LONGEON |
 | ZO-06 |  | NAVITA |
 | ZO-12 |  | RONJA |

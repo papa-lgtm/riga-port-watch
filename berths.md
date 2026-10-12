@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-12 16:49
+# Berth codes seen — 2026-10-12 17:43
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -16,6 +16,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KR-25 |  | TAHO MIRACLE |
 | KRS-01 | YES | LONGPRIDE |
 | KRS-07 | YES | KRISTEL |
+| KS-28 |  | ALPINE SPIRIT |
 | KS-30 |  | TAHO MIRACLE |
 | KS-32 |  | ENCOUNTER, SONDERBORG |
 | KS-34 |  | MSC YOSHEEN |
@@ -36,7 +37,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-8 | YES | HUMBER SPRINTER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | VM-4 | YES | GT DELPHIN, RONJA |
-| ZO-01 |  | CMA CGM MERMAID, ENCOUNTER |
+| ZO-01 |  | CMA CGM MERMAID, ELBMOON, ENCOUNTER |
 | ZO-02 |  | PERA |
 | ZO-03 |  | LETTLAND, NAVITA |
 | ZO-04 |  | LONGEON |

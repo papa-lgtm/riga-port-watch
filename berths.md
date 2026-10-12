@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-12 22:35
+# Berth codes seen — 2026-10-12 23:37
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -10,6 +10,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-09 |  | KANO REEFER |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | EVAGELIA, NORDIC LUEBECK, SUNFLOWER |
+| EO-15 |  | X-PRESS GODAVARI |
 | JM-23 |  | TIDAN |
 | JM-29 |  | ROSEBURG |
 | KR-21 |  | GT DELPHIN |
@@ -36,10 +37,9 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-7 | YES | ASTRA, KESSU |
 | RKR-8 | YES | HUMBER SPRINTER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
-| VM-4 | YES | GT DELPHIN, RONJA |
+| VM-4 | YES | GT DELPHIN |
 | ZO-01 |  | CMA CGM MERMAID, ELBMOON, ENCOUNTER |
 | ZO-03 |  | NAVITA |
 | ZO-04 |  | LONGEON |
 | ZO-06 |  | NAVITA |
-| ZO-12 |  | RONJA |
 | ZO-18 |  | ALPINE SPIRIT |

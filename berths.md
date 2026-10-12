@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-12 05:37
+# Berth codes seen — 2026-10-12 06:40
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -6,9 +6,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 |---|---|---|
 | DG-19 |  | RUBYLAND |
 | DG-20 |  | FEMBRIA, RUBYLAND |
-| DG-55 |  | NORDIC GLORIA |
-| DG-55A |  | NORDIC GLORIA |
-| DG-56 |  | ALAND, LONGPRIDE, NORDIC GLORIA |
+| DG-56 |  | ALAND, LONGPRIDE |
 | EO-09 |  | KANO REEFER |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | NORDIC LUEBECK |
@@ -24,7 +22,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | MKR-4 | YES | ARENT, BON VIVANT, URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA |
 | MKR-7 | YES | BON VIVANT |
-| MS-10 |  | PRIMA DONNA |
 | MS-12 |  | KRISTEL, LONGVANN, VIKTORIA |
 | MS-2 |  | DAWN, NORD VIND |
 | OUT |  | SALERNO |

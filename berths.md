@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-13 21:46
+# Berth codes seen — 2026-10-13 22:49
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -32,16 +32,16 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-791 | YES | BALTIC SPIRIT, HEBO-P101 |
 | PD-K4 | YES | ASTRA, DALSLAND |
 | PD-MTW | YES | BON VIVANT, URSULA ESSBERGER, VICTORIABORG |
+| RD-3 |  | DOLFIJN |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-6 | YES | BALTIC SPIRIT, HEBO-P101, VICTORIABORG |
 | RKR-7 | YES | ASTRA |
 | RKR-8 | YES | HUMBER SPRINTER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-3 |  | LUNAMAR |
-| VM-4 | YES | CELTIC AMBASSADOR, GT DELPHIN |
+| VM-4 | YES | CELTIC AMBASSADOR, GT DELPHIN, LAUNKALNE |
 | ZO-01 |  | CMA CGM MERMAID, ENCOUNTER |
 | ZO-03 |  | NAVITA |
-| ZO-04 |  | LONGEON |
 | ZO-06 |  | NAVITA |
 | ZO-07 |  | LIVLAND |
 | ZO-18 |  | ALPINE SPIRIT |

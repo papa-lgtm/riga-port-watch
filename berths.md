@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-14 11:53
+# Berth codes seen — 2026-10-14 12:50
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -24,7 +24,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | MKR-1 | YES | GT DELPHIN |
 | MKR-4 | YES | ARENT, BON VIVANT, URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA |
-| MKR-7 | YES | BON VIVANT |
+| MKR-7 | YES | BON VIVANT, RIX DELTA |
 | MS-12 |  | KRISTEL, LONGVIKING |
 | MS-2 |  | DAWN, NORD VIND |
 | OUT |  | SALERNO |

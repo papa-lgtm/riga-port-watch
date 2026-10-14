@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-14 14:51
+# Berth codes seen — 2026-10-14 16:01
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -39,7 +39,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-8 | YES | HUMBER SPRINTER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-3 |  | LUNAMAR |
-| VM-4 | YES | CELTIC AMBASSADOR, GT DELPHIN, LAUNKALNE |
+| VM-4 | YES | CELTIC AMBASSADOR, FRI KVAM, GT DELPHIN, LAUNKALNE |
 | ZO-01 |  | CMA CGM MERMAID, ELBWIND, ENCOUNTER |
 | ZO-07 |  | LIVLAND |
 | ZO-18 |  | ALPINE SPIRIT |

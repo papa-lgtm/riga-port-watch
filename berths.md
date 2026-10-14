@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-14 13:51
+# Berth codes seen — 2026-10-14 14:51
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -6,7 +6,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 |---|---|---|
 | DG-19 |  | RUBYLAND |
 | DG-20 |  | FEMBRIA, RUBYLAND |
-| DG-56 |  | LONGPRIDE |
 | EO-09 |  | KANO REEFER |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | ELBSTROM, EVAGELIA, SUNFLOWER |
@@ -16,7 +15,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | JM-29 |  | ROSEBURG |
 | KR-21 |  | GT DELPHIN |
 | KR-25 |  | TAHO MIRACLE |
-| KRS-01 | YES | LONGPRIDE, ULVIK |
+| KRS-01 | YES | ULVIK |
 | KRS-07 | YES | KRISTEL |
 | KS-28 |  | ALPINE SPIRIT |
 | KS-30 |  | TAHO MIRACLE |

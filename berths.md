@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-15 00:49
+# Berth codes seen — 2026-10-15 01:47
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -15,7 +15,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | JM-29 |  | ROSEBURG |
 | KR-21 |  | GT DELPHIN |
 | KR-25 |  | TAHO MIRACLE |
-| KRS-01 | YES | ULVIK |
 | KS-28 |  | ALPINE SPIRIT |
 | KS-30 |  | TAHO MIRACLE |
 | KS-32 |  | ELBWIND, ENCOUNTER, SONDERBORG |

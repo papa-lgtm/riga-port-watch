@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-14 16:01
+# Berth codes seen — 2026-10-14 16:52
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -21,6 +21,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KS-30 |  | TAHO MIRACLE |
 | KS-32 |  | ELBWIND, ENCOUNTER, SONDERBORG |
 | MKR-1 | YES | GT DELPHIN |
+| MKR-2 | YES | HUMBER SPRINTER |
 | MKR-4 | YES | ARENT, BON VIVANT, URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA |
 | MKR-7 | YES | BON VIVANT, RIX DELTA |
@@ -41,5 +42,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | SD-3 |  | LUNAMAR |
 | VM-4 | YES | CELTIC AMBASSADOR, FRI KVAM, GT DELPHIN, LAUNKALNE |
 | ZO-01 |  | CMA CGM MERMAID, ELBWIND, ENCOUNTER |
+| ZO-06 |  | LIVLAND |
 | ZO-07 |  | LIVLAND |
 | ZO-18 |  | ALPINE SPIRIT |

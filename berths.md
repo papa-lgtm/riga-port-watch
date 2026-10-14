@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-14 19:53
+# Berth codes seen — 2026-10-14 20:50
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -11,7 +11,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-14 |  | ELBSTROM, EVAGELIA, SUNFLOWER |
 | EO-15 |  | ELBSTROM, X-PRESS GODAVARI |
 | JM-22 |  | NYLAND |
-| JM-23 |  | TIDAN |
 | JM-29 |  | ROSEBURG |
 | KR-21 |  | GT DELPHIN |
 | KR-25 |  | TAHO MIRACLE |

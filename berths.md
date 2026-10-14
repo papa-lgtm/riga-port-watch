@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-14 21:59
+# Berth codes seen — 2026-10-14 22:49
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -6,6 +6,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 |---|---|---|
 | DG-19 |  | RUBYLAND |
 | DG-20 |  | FEMBRIA, RUBYLAND |
+| DG-56 |  | KLARIKA |
 | EO-09 |  | KANO REEFER |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | ELBSTROM, EVAGELIA, SUNFLOWER |
@@ -15,7 +16,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KR-21 |  | GT DELPHIN |
 | KR-25 |  | TAHO MIRACLE |
 | KRS-01 | YES | ULVIK |
-| KRS-07 | YES | KRISTEL |
 | KS-28 |  | ALPINE SPIRIT |
 | KS-30 |  | TAHO MIRACLE |
 | KS-32 |  | ELBWIND, ENCOUNTER, SONDERBORG |
@@ -24,7 +24,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | MKR-4 | YES | ARENT, URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA |
 | MKR-7 | YES | RIX DELTA |
-| MS-12 |  | KRISTEL, LONGVIKING |
+| MS-12 |  | LONGVIKING |
 | MS-2 |  | DAWN, NORD VIND |
 | OUT |  | SALERNO |
 | PD-419 | YES | ASTRA, SUNMI |

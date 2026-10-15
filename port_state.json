@@ -8,7 +8,7 @@
    "PD-MTW",
    "RKR-6"
   ],
-  "last_seen": "2026-10-15 10:05",
+  "last_seen": "2026-10-15 10:54",
   "status": "BERTHED"
  },
  "3046396": {
@@ -70,7 +70,7 @@
    "EO-10",
    "OUT"
   ],
-  "last_seen": "2026-10-15 10:05",
+  "last_seen": "2026-10-15 10:54",
   "status": "BERTHED"
  },
  "3045436": {
@@ -81,7 +81,7 @@
   "berths_seen": [
    "EO-09"
   ],
-  "last_seen": "2026-10-15 10:05",
+  "last_seen": "2026-10-15 10:54",
   "status": "BERTHED"
  },
  "3044986": {
@@ -94,7 +94,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-10-15 10:05",
+  "last_seen": "2026-10-15 10:54",
   "status": "BERTHED"
  },
  "3034270": {
@@ -106,7 +106,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-10-15 10:05",
+  "last_seen": "2026-10-15 10:54",
   "status": "BERTHED"
  },
  "3032756": {
@@ -122,7 +122,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-10-15 10:05",
+  "last_seen": "2026-10-15 10:54",
   "status": "BERTHED"
  },
  "3046473": {
@@ -134,7 +134,7 @@
    "PD-K4",
    "RKR-4"
   ],
-  "last_seen": "2026-10-15 10:05",
+  "last_seen": "2026-10-15 10:54",
   "status": "BERTHED"
  },
  "3046471": {
@@ -147,7 +147,7 @@
    "DG-20",
    "PD-75"
   ],
-  "last_seen": "2026-10-15 10:05",
+  "last_seen": "2026-10-15 10:54",
   "status": "BERTHED"
  },
  "3046477": {
@@ -198,7 +198,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-10-15 10:05",
+  "last_seen": "2026-10-15 10:54",
   "status": "BERTHED"
  },
  "3046503": {
@@ -223,7 +223,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-10-15 10:05",
+  "last_seen": "2026-10-15 10:54",
   "status": "BERTHED"
  },
  "3046543": {
@@ -272,17 +272,6 @@
   "last_seen": "2026-10-02 01:30",
   "status": "MOVING"
  },
- "3046542": {
-  "name": "CMA CGM RUNDALE",
-  "imo": "9961300",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "ZO-01"
-  ],
-  "last_seen": "2026-10-01 10:35",
-  "status": "MOVING"
- },
  "3046514": {
   "name": "MEDWAY HORIZON",
   "imo": "9620126",
@@ -313,7 +302,7 @@
   "berths_seen": [
    "PD-419"
   ],
-  "last_seen": "2026-10-15 10:05",
+  "last_seen": "2026-10-15 10:54",
   "status": "BERTHED"
  },
  "3046549": {
@@ -393,7 +382,7 @@
    "DG-20",
    "PD-75"
   ],
-  "last_seen": "2026-10-15 10:05",
+  "last_seen": "2026-10-15 10:54",
   "status": "BERTHED"
  },
  "3046560": {
@@ -1110,7 +1099,7 @@
   "berths_seen": [
    "MS-2"
   ],
-  "last_seen": "2026-10-15 10:05",
+  "last_seen": "2026-10-15 10:54",
   "status": "BERTHED"
  },
  "3046623": {
@@ -1166,7 +1155,7 @@
   "berths_seen": [
    "MKR-4"
   ],
-  "last_seen": "2026-10-15 10:05",
+  "last_seen": "2026-10-15 10:54",
   "status": "BERTHED"
  },
  "3046628": {
@@ -1189,7 +1178,7 @@
    "KR-25",
    "KS-30"
   ],
-  "last_seen": "2026-10-15 10:05",
+  "last_seen": "2026-10-15 10:54",
   "status": "BERTHED"
  },
  "3046631": {
@@ -1303,7 +1292,7 @@
    "KS-28",
    "ZO-18"
   ],
-  "last_seen": "2026-10-15 10:05",
+  "last_seen": "2026-10-15 10:54",
   "status": "BERTHED"
  },
  "3046636": {
@@ -1336,7 +1325,7 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-10-15 10:05",
+  "last_seen": "2026-10-15 10:54",
   "status": "BERTHED"
  },
  "3046641": {
@@ -1360,7 +1349,7 @@
    "MKR-1",
    "VM-4"
   ],
-  "last_seen": "2026-10-15 10:05",
+  "last_seen": "2026-10-15 10:54",
   "status": "BERTHED"
  },
  "3046648": {
@@ -1391,11 +1380,12 @@
   "flagged_repair": true,
   "flagged_long_stay": false,
   "berths_seen": [
+   "KRS-01",
    "MKR-2",
    "RKR-8"
   ],
-  "last_seen": "2026-10-15 10:05",
-  "status": "MOVING"
+  "last_seen": "2026-10-15 10:54",
+  "status": "BERTHED"
  },
  "3046633": {
   "name": "ROSEBURG",
@@ -1405,7 +1395,7 @@
   "berths_seen": [
    "JM-29"
   ],
-  "last_seen": "2026-10-15 10:05",
+  "last_seen": "2026-10-15 10:54",
   "status": "BERTHED"
  },
  "3046657": {
@@ -1417,7 +1407,7 @@
    "EO-14",
    "EO-15"
   ],
-  "last_seen": "2026-10-15 10:05",
+  "last_seen": "2026-10-15 10:54",
   "status": "BERTHED"
  },
  "3046651": {
@@ -1429,7 +1419,7 @@
    "ZO-06",
    "ZO-07"
   ],
-  "last_seen": "2026-10-15 10:05",
+  "last_seen": "2026-10-15 10:54",
   "status": "BERTHED"
  },
  "3046655": {
@@ -1440,7 +1430,7 @@
   "berths_seen": [
    "MS-12"
   ],
-  "last_seen": "2026-10-15 10:05",
+  "last_seen": "2026-10-15 10:54",
   "status": "BERTHED"
  },
  "3046656": {
@@ -1451,7 +1441,7 @@
   "berths_seen": [
    "JM-22"
   ],
-  "last_seen": "2026-10-15 10:05",
+  "last_seen": "2026-10-15 10:54",
   "status": "BERTHED"
  },
  "3046640": {
@@ -1462,7 +1452,18 @@
   "berths_seen": [
    "ZO-01"
   ],
-  "last_seen": "2026-10-15 10:05",
+  "last_seen": "2026-10-15 10:54",
+  "status": "BERTHED"
+ },
+ "3046653": {
+  "name": "LAUNKALNE",
+  "imo": "9504114",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "VM-4"
+  ],
+  "last_seen": "2026-10-15 10:54",
   "status": "BERTHED"
  }
 }

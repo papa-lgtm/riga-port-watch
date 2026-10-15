@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-15 11:54
+# Berth codes seen — 2026-10-15 12:51
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -10,8 +10,8 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-06 |  | RIX DELTA |
 | EO-09 |  | KANO REEFER |
 | EO-12 |  | HEBO-P101 |
-| EO-14 |  | ELBSTROM, EVAGELIA, SUNFLOWER |
-| EO-15 |  | ELBSTROM, X-PRESS GODAVARI |
+| EO-14 |  | EVAGELIA, SUNFLOWER |
+| EO-15 |  | X-PRESS GODAVARI |
 | JM-22 |  | NYLAND |
 | JM-29 |  | ROSEBURG |
 | KR-21 |  | GT DELPHIN |
@@ -20,6 +20,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KS-28 |  | ALPINE SPIRIT |
 | KS-30 |  | TAHO MIRACLE |
 | KS-32 |  | ELBWIND, ENCOUNTER, SONDERBORG |
+| KS-34 |  | ENCOUNTER |
 | MKR-1 | YES | GT DELPHIN |
 | MKR-2 | YES | HUMBER SPRINTER |
 | MKR-4 | YES | ARENT, URSULA ESSBERGER |

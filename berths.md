@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-16 02:42
+# Berth codes seen — 2026-10-16 07:40
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -13,7 +13,8 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | EVAGELIA, SUNFLOWER |
 | EO-15 |  | X-PRESS GODAVARI |
-| JM-22 |  | LONGEON, NYLAND |
+| JM-22 |  | LONGEON |
+| JM-23 |  | LOLLAND |
 | JM-29 |  | ROSEBURG |
 | KR-21 |  | GT DELPHIN |
 | KR-25 |  | TAHO MIRACLE |
@@ -33,6 +34,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-791 | YES | BALTIC SPIRIT, HEBO-P101 |
 | PD-K4 | YES | ASTRA, DALSLAND |
 | PD-MTW | YES | URSULA ESSBERGER, VICTORIABORG |
+| PM-17 |  | LOLLAND |
 | RD-3 |  | DOLFIJN |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-6 | YES | BALTIC SPIRIT, HEBO-P101, VICTORIABORG |

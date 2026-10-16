@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-16 12:54
+# Berth codes seen — 2026-10-16 17:54
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -16,13 +16,14 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | JM-22 |  | LONGEON |
 | JM-23 |  | LOLLAND |
 | JM-29 |  | ROSEBURG |
-| KR-25 |  | TAHO MIRACLE |
+| KR-25 |  | AFRICAN JAY, ESRA C, TAHO MIRACLE |
 | KRS-01 | YES | HUMBER SPRINTER |
 | KRS-02 | YES | SPANACO LOYALTY, SPANACO SIMPLICITY |
 | KRS-03 | YES | GUADALUPE EXPLORER |
 | KS-30 |  | TAHO MIRACLE |
 | KS-32 |  | ELBWIND, ENCOUNTER, SONDERBORG |
-| KS-34 |  | ELBTEAM, ENCOUNTER |
+| KS-34 |  | ELBTEAM, ENCOUNTER, MSC KAYLA |
+| MKR-1 | YES | PENHAR |
 | MKR-2 | YES | HUMBER SPRINTER |
 | MKR-4 | YES | ARENT, URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA |
@@ -37,10 +38,11 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RD-3 |  | DOLFIJN |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-6 | YES | BALTIC SPIRIT, HEBO-P101, VICTORIABORG |
-| RKR-7 | YES | ASTRA |
+| RKR-7 | YES | ASTRA, PENHAR |
 | RKR-8 | YES | HUMBER SPRINTER, LINK POLARIS |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-3 |  | LUNAMAR |
 | VM-4 | YES | FRI KVAM, HEINZ G |
 | ZO-01 |  | CMA CGM RUNDALE, ELBTEAM, ELBWIND, ENCOUNTER |
-| ZO-02 |  | IMAVERE |
+| ZO-02 |  | ESRA C, IMAVERE |
+| ZO-03 |  | SILVER DANIA |

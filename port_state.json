@@ -8,7 +8,7 @@
    "PD-MTW",
    "RKR-6"
   ],
-  "last_seen": "2026-10-16 17:54",
+  "last_seen": "2026-10-16 21:50",
   "status": "BERTHED"
  },
  "3046396": {
@@ -81,7 +81,7 @@
   "berths_seen": [
    "EO-09"
   ],
-  "last_seen": "2026-10-16 17:54",
+  "last_seen": "2026-10-16 21:50",
   "status": "BERTHED"
  },
  "3044986": {
@@ -94,7 +94,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-10-16 17:54",
+  "last_seen": "2026-10-16 21:50",
   "status": "BERTHED"
  },
  "3034270": {
@@ -106,7 +106,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-10-16 17:54",
+  "last_seen": "2026-10-16 21:50",
   "status": "BERTHED"
  },
  "3032756": {
@@ -122,7 +122,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-10-16 17:54",
+  "last_seen": "2026-10-16 21:50",
   "status": "BERTHED"
  },
  "3046473": {
@@ -134,7 +134,7 @@
    "PD-K4",
    "RKR-4"
   ],
-  "last_seen": "2026-10-16 17:54",
+  "last_seen": "2026-10-16 21:50",
   "status": "BERTHED"
  },
  "3046471": {
@@ -147,21 +147,8 @@
    "DG-20",
    "PD-75"
   ],
-  "last_seen": "2026-10-16 17:54",
+  "last_seen": "2026-10-16 21:50",
   "status": "BERTHED"
- },
- "3046477": {
-  "name": "HAMPTON SKY",
-  "imo": "9909041",
-  "flagged_repair": false,
-  "flagged_long_stay": true,
-  "berths_seen": [
-   "KS-30",
-   "MS-2",
-   "ZO-12"
-  ],
-  "last_seen": "2026-10-02 18:35",
-  "status": "MOVING"
  },
  "3046481": {
   "name": "BENJAMAS NAREE",
@@ -186,7 +173,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-10-16 17:54",
+  "last_seen": "2026-10-16 21:50",
   "status": "BERTHED"
  },
  "3046503": {
@@ -211,20 +198,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-10-16 17:54",
-  "status": "BERTHED"
- },
- "3046543": {
-  "name": "BALTIC SPLIT",
-  "imo": "9962952",
-  "flagged_repair": true,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KRS-07",
-   "ZO-10",
-   "ZO-12"
-  ],
-  "last_seen": "2026-10-02 18:35",
+  "last_seen": "2026-10-16 21:50",
   "status": "BERTHED"
  },
  "3046539": {
@@ -268,7 +242,7 @@
   "berths_seen": [
    "PD-419"
   ],
-  "last_seen": "2026-10-16 17:54",
+  "last_seen": "2026-10-16 21:50",
   "status": "BERTHED"
  },
  "3046549": {
@@ -337,7 +311,7 @@
    "DG-20",
    "PD-75"
   ],
-  "last_seen": "2026-10-16 17:54",
+  "last_seen": "2026-10-16 21:50",
   "status": "BERTHED"
  },
  "3046560": {
@@ -1054,7 +1028,7 @@
   "berths_seen": [
    "MS-2"
   ],
-  "last_seen": "2026-10-16 17:54",
+  "last_seen": "2026-10-16 21:50",
   "status": "BERTHED"
  },
  "3046623": {
@@ -1110,7 +1084,7 @@
   "berths_seen": [
    "MKR-4"
   ],
-  "last_seen": "2026-10-16 17:54",
+  "last_seen": "2026-10-16 21:50",
   "status": "BERTHED"
  },
  "3046628": {
@@ -1133,7 +1107,7 @@
    "KR-25",
    "KS-30"
   ],
-  "last_seen": "2026-10-16 17:54",
+  "last_seen": "2026-10-16 21:50",
   "status": "BERTHED"
  },
  "3046631": {
@@ -1280,7 +1254,7 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-10-16 17:54",
+  "last_seen": "2026-10-16 21:50",
   "status": "BERTHED"
  },
  "3046641": {
@@ -1350,7 +1324,7 @@
   "berths_seen": [
    "JM-29"
   ],
-  "last_seen": "2026-10-16 17:54",
+  "last_seen": "2026-10-16 21:50",
   "status": "BERTHED"
  },
  "3046657": {
@@ -1429,7 +1403,7 @@
   "berths_seen": [
    "ZO-02"
   ],
-  "last_seen": "2026-10-16 17:54",
+  "last_seen": "2026-10-16 21:50",
   "status": "BERTHED"
  },
  "3046664": {
@@ -1440,7 +1414,7 @@
   "berths_seen": [
    "DG-56"
   ],
-  "last_seen": "2026-10-16 17:54",
+  "last_seen": "2026-10-16 21:50",
   "status": "BERTHED"
  },
  "3046659": {
@@ -1452,7 +1426,7 @@
    "EO-06",
    "MKR-7"
   ],
-  "last_seen": "2026-10-16 17:54",
+  "last_seen": "2026-10-16 21:50",
   "status": "BERTHED"
  },
  "3046644": {
@@ -1464,7 +1438,7 @@
    "KS-32",
    "ZO-01"
   ],
-  "last_seen": "2026-10-16 17:54",
+  "last_seen": "2026-10-16 21:50",
   "status": "BERTHED"
  },
  "3046662": {
@@ -1475,7 +1449,7 @@
   "berths_seen": [
    "RKR-8"
   ],
-  "last_seen": "2026-10-16 17:54",
+  "last_seen": "2026-10-16 21:50",
   "status": "BERTHED"
  },
  "3046650": {
@@ -1486,7 +1460,7 @@
   "berths_seen": [
    "SD-3"
   ],
-  "last_seen": "2026-10-16 17:54",
+  "last_seen": "2026-10-16 21:50",
   "status": "BERTHED"
  },
  "3046661": {
@@ -1497,7 +1471,7 @@
   "berths_seen": [
    "VM-4"
   ],
-  "last_seen": "2026-10-16 17:54",
+  "last_seen": "2026-10-16 21:50",
   "status": "BERTHED"
  },
  "3046642": {
@@ -1510,7 +1484,29 @@
    "KS-34",
    "ZO-01"
   ],
-  "last_seen": "2026-10-16 17:54",
+  "last_seen": "2026-10-16 21:50",
+  "status": "BERTHED"
+ },
+ "3046654": {
+  "name": "DOLFIJN",
+  "imo": "8815786",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "RD-3"
+  ],
+  "last_seen": "2026-10-16 21:50",
+  "status": "BERTHED"
+ },
+ "3046666": {
+  "name": "BALTIC AMELIE",
+  "imo": "9083885",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "DG-55"
+  ],
+  "last_seen": "2026-10-16 21:50",
   "status": "BERTHED"
  }
 }

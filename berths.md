@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-17 20:18
+# Berth codes seen — 2026-10-17 23:41
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -14,11 +14,9 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-15 |  | X-PRESS GODAVARI |
 | JM-22 |  | LONGEON |
 | JM-23 |  | BALTIC EXPRESS, KARITA, LOLLAND |
-| JM-29 |  | ROSEBURG |
-| KR-25 |  | AFRICAN JAY, ESRA C, TAHO MIRACLE |
+| KR-25 |  | AFRICAN JAY, ESRA C |
 | KRS-02 | YES | SPANACO LOYALTY, SPANACO SIMPLICITY |
 | KRS-03 | YES | GUADALUPE EXPLORER |
-| KS-30 |  | TAHO MIRACLE |
 | KS-32 |  | ANNABA, SONDERBORG |
 | KS-34 |  | ELBTEAM, MSC KAYLA |
 | MKR-1 | YES | PENHAR |
@@ -40,8 +38,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-6 | YES | BALTIC ERICA, BALTIC SPIRIT, HEBO-P101, VICTORIABORG |
 | RKR-7 | YES | ASTRA, CORA JO, KARITA, PENHAR |
 | RKR-9 | YES | ASTRA, POSEIDON I |
-| SD-3 |  | LUNAMAR |
-| VM-4 | YES | HEINZ G |
+| VM-4 | YES | HEINZ G, HELME |
 | ZO-01 |  | CMA CGM RUNDALE, ELBTEAM |
 | ZO-02 |  | ESRA C, IMAVERE |
 | ZO-03 |  | SILVER DANIA |

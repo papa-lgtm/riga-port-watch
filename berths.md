@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-17 08:39
+# Berth codes seen — 2026-10-17 13:53
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -7,7 +7,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | DG-19 |  | RUBYLAND |
 | DG-20 |  | FEMBRIA, RUBYLAND |
 | DG-55 |  | ESTLAND |
-| DG-56 |  | KLARIKA, TORNEDALEN |
+| DG-56 |  | TORNEDALEN |
 | EO-06 |  | RIX DELTA |
 | EO-09 |  | KANO REEFER |
 | EO-12 |  | HEBO-P101 |
@@ -35,9 +35,8 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PM-17 |  | LOLLAND, PRIMA DONNA |
 | RD-3 |  | DOLFIJN |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
-| RKR-6 | YES | BALTIC SPIRIT, HEBO-P101, VICTORIABORG |
+| RKR-6 | YES | BALTIC ERICA, BALTIC SPIRIT, HEBO-P101, VICTORIABORG |
 | RKR-7 | YES | ASTRA, PENHAR |
-| RKR-8 | YES | LINK POLARIS |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-3 |  | LUNAMAR |
 | VM-4 | YES | HEINZ G |

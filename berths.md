@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-18 18:56
+# Berth codes seen — 2026-10-18 21:40
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -37,7 +37,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-6 | YES | BALTIC ERICA, BALTIC SPIRIT, HEBO-P101, VICTORIABORG |
 | RKR-7 | YES | ASTRA, CORA JO, KARITA, PENHAR |
 | RKR-9 | YES | ASTRA, POSEIDON I |
-| VM-4 | YES | HEINZ G, HELME |
+| VM-4 | YES | HELME |
 | ZO-01 |  | CMA CGM RUNDALE, ELBTEAM |
 | ZO-02 |  | ESRA C |
 | ZO-03 |  | SILVER DANIA |

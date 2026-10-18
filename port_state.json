@@ -9,7 +9,7 @@
    "RKR-5",
    "RKR-6"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  },
  "3046396": {
@@ -83,7 +83,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  },
  "3034270": {
@@ -95,7 +95,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  },
  "3032756": {
@@ -111,7 +111,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  },
  "3046473": {
@@ -123,7 +123,7 @@
    "PD-K4",
    "RKR-4"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  },
  "3046471": {
@@ -136,7 +136,7 @@
    "DG-20",
    "PD-75"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  },
  "3046481": {
@@ -162,7 +162,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  },
  "3046521": {
@@ -174,7 +174,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  },
  "3046539": {
@@ -207,7 +207,7 @@
   "berths_seen": [
    "PD-419"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  },
  "3046557": {
@@ -219,7 +219,7 @@
    "DG-20",
    "PD-75"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  },
  "3046560": {
@@ -236,17 +236,6 @@
   "last_seen": "2026-10-05 10:38",
   "status": "MOVING"
  },
- "3046564": {
-  "name": "ARKLOW FERN",
-  "imo": "9527661",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "RD-2"
-  ],
-  "last_seen": "2026-10-04 23:32",
-  "status": "MOVING"
- },
  "3046556": {
   "name": "CHINA SPIRIT",
   "imo": "9655846",
@@ -256,17 +245,6 @@
    "ZO-12"
   ],
   "last_seen": "2026-10-08 03:45",
-  "status": "MOVING"
- },
- "3046575": {
-  "name": "HELME",
-  "imo": "9504140",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "ZO-02"
-  ],
-  "last_seen": "2026-10-04 23:32",
   "status": "MOVING"
  },
  "3046572": {
@@ -934,7 +912,7 @@
   "berths_seen": [
    "MKR-4"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  },
  "3046628": {
@@ -1104,7 +1082,7 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  },
  "3046641": {
@@ -1276,7 +1254,7 @@
    "EO-06",
    "MKR-7"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  },
  "3046644": {
@@ -1391,7 +1369,7 @@
    "PM-16",
    "PM-17"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  },
  "3046671": {
@@ -1413,7 +1391,7 @@
   "berths_seen": [
    "MS-2"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  },
  "3046675": {
@@ -1424,7 +1402,7 @@
   "berths_seen": [
    "KRS-02"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  },
  "3046678": {
@@ -1435,7 +1413,7 @@
   "berths_seen": [
    "KRS-03"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  },
  "3046684": {
@@ -1446,7 +1424,7 @@
   "berths_seen": [
    "MS-10"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  },
  "3046668": {
@@ -1468,7 +1446,7 @@
   "berths_seen": [
    "KR-25"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  },
  "3046672": {
@@ -1479,7 +1457,7 @@
   "berths_seen": [
    "DG-56"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  },
  "3046673": {
@@ -1502,7 +1480,7 @@
    "MKR-1",
    "RKR-7"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  },
  "3046680": {
@@ -1513,7 +1491,7 @@
   "berths_seen": [
    "KS-34"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  },
  "3046687": {
@@ -1526,7 +1504,7 @@
    "JM-23",
    "RKR-7"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  },
  "3046649": {
@@ -1537,7 +1515,7 @@
   "berths_seen": [
    "KS-32"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  },
  "3046646": {
@@ -1548,7 +1526,7 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  },
  "3046690": {
@@ -1559,7 +1537,7 @@
   "berths_seen": [
    "VM-4"
   ],
-  "last_seen": "2026-10-18 21:40",
+  "last_seen": "2026-10-19 00:33",
   "status": "BERTHED"
  }
 }

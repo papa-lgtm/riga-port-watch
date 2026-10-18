@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-18 21:40
+# Berth codes seen — 2026-10-19 00:33
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -31,7 +31,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-K4 | YES | ASTRA, DALSLAND |
 | PD-MTW | YES | URSULA ESSBERGER, VICTORIABORG |
 | PM-16 |  | DANITA, LOLLAND |
-| PM-17 |  | LOLLAND, PRIMA DONNA |
+| PM-17 |  | LOLLAND |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-5 | YES | VICTORIABORG |
 | RKR-6 | YES | BALTIC ERICA, BALTIC SPIRIT, HEBO-P101, VICTORIABORG |

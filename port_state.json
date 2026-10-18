@@ -8,7 +8,7 @@
    "PD-MTW",
    "RKR-6"
   ],
-  "last_seen": "2026-10-18 04:09",
+  "last_seen": "2026-10-18 09:00",
   "status": "BERTHED"
  },
  "3046396": {
@@ -82,7 +82,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-10-18 04:09",
+  "last_seen": "2026-10-18 09:00",
   "status": "BERTHED"
  },
  "3034270": {
@@ -94,7 +94,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-10-18 04:09",
+  "last_seen": "2026-10-18 09:00",
   "status": "BERTHED"
  },
  "3032756": {
@@ -110,7 +110,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-10-18 04:09",
+  "last_seen": "2026-10-18 09:00",
   "status": "BERTHED"
  },
  "3046473": {
@@ -122,7 +122,7 @@
    "PD-K4",
    "RKR-4"
   ],
-  "last_seen": "2026-10-18 04:09",
+  "last_seen": "2026-10-18 09:00",
   "status": "BERTHED"
  },
  "3046471": {
@@ -135,7 +135,7 @@
    "DG-20",
    "PD-75"
   ],
-  "last_seen": "2026-10-18 04:09",
+  "last_seen": "2026-10-18 09:00",
   "status": "BERTHED"
  },
  "3046481": {
@@ -161,7 +161,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-10-18 04:09",
+  "last_seen": "2026-10-18 09:00",
   "status": "BERTHED"
  },
  "3046521": {
@@ -173,7 +173,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-10-18 04:09",
+  "last_seen": "2026-10-18 09:00",
   "status": "BERTHED"
  },
  "3046539": {
@@ -206,19 +206,7 @@
   "berths_seen": [
    "PD-419"
   ],
-  "last_seen": "2026-10-18 04:09",
-  "status": "BERTHED"
- },
- "3046562": {
-  "name": "NORRLAND",
-  "imo": "9358278",
-  "flagged_repair": true,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "JM-23",
-   "RKR-7"
-  ],
-  "last_seen": "2026-10-04 08:26",
+  "last_seen": "2026-10-18 09:00",
   "status": "BERTHED"
  },
  "3046557": {
@@ -230,7 +218,7 @@
    "DG-20",
    "PD-75"
   ],
-  "last_seen": "2026-10-18 04:09",
+  "last_seen": "2026-10-18 09:00",
   "status": "BERTHED"
  },
  "3046560": {
@@ -256,31 +244,6 @@
    "RD-2"
   ],
   "last_seen": "2026-10-04 23:32",
-  "status": "MOVING"
- },
- "3046561": {
-  "name": "GT VELA",
-  "imo": "8912027",
-  "flagged_repair": true,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "RD-3",
-   "RKR-8",
-   "VM-4"
-  ],
-  "last_seen": "2026-10-04 08:26",
-  "status": "BERTHED"
- },
- "3046524": {
-  "name": "DP WORLD LIMASSOL",
-  "imo": "9432232",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KS-32",
-   "ZO-01"
-  ],
-  "last_seen": "2026-10-04 08:26",
   "status": "MOVING"
  },
  "3046556": {
@@ -970,7 +933,7 @@
   "berths_seen": [
    "MKR-4"
   ],
-  "last_seen": "2026-10-18 04:09",
+  "last_seen": "2026-10-18 09:00",
   "status": "BERTHED"
  },
  "3046628": {
@@ -1140,7 +1103,7 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-10-18 04:09",
+  "last_seen": "2026-10-18 09:00",
   "status": "BERTHED"
  },
  "3046641": {
@@ -1289,8 +1252,8 @@
   "berths_seen": [
    "ZO-02"
   ],
-  "last_seen": "2026-10-18 04:09",
-  "status": "BERTHED"
+  "last_seen": "2026-10-18 09:00",
+  "status": "MOVING"
  },
  "3046664": {
   "name": "KLARIKA",
@@ -1312,7 +1275,7 @@
    "EO-06",
    "MKR-7"
   ],
-  "last_seen": "2026-10-18 04:09",
+  "last_seen": "2026-10-18 09:00",
   "status": "BERTHED"
  },
  "3046644": {
@@ -1403,7 +1366,7 @@
   "berths_seen": [
    "JM-22"
   ],
-  "last_seen": "2026-10-18 04:09",
+  "last_seen": "2026-10-18 09:00",
   "status": "BERTHED"
  },
  "3046670": {
@@ -1427,7 +1390,7 @@
    "PM-16",
    "PM-17"
   ],
-  "last_seen": "2026-10-18 04:09",
+  "last_seen": "2026-10-18 09:00",
   "status": "BERTHED"
  },
  "3046671": {
@@ -1438,7 +1401,7 @@
   "berths_seen": [
    "DG-55"
   ],
-  "last_seen": "2026-10-18 04:09",
+  "last_seen": "2026-10-18 09:00",
   "status": "BERTHED"
  },
  "3046635": {
@@ -1449,7 +1412,7 @@
   "berths_seen": [
    "MS-2"
   ],
-  "last_seen": "2026-10-18 04:09",
+  "last_seen": "2026-10-18 09:00",
   "status": "BERTHED"
  },
  "3046675": {
@@ -1460,7 +1423,7 @@
   "berths_seen": [
    "KRS-02"
   ],
-  "last_seen": "2026-10-18 04:09",
+  "last_seen": "2026-10-18 09:00",
   "status": "BERTHED"
  },
  "3046678": {
@@ -1471,7 +1434,7 @@
   "berths_seen": [
    "KRS-03"
   ],
-  "last_seen": "2026-10-18 04:09",
+  "last_seen": "2026-10-18 09:00",
   "status": "BERTHED"
  },
  "3046684": {
@@ -1482,7 +1445,7 @@
   "berths_seen": [
    "MS-10"
   ],
-  "last_seen": "2026-10-18 04:09",
+  "last_seen": "2026-10-18 09:00",
   "status": "BERTHED"
  },
  "3046668": {
@@ -1493,7 +1456,7 @@
   "berths_seen": [
    "VM-4"
   ],
-  "last_seen": "2026-10-18 04:09",
+  "last_seen": "2026-10-18 09:00",
   "status": "BERTHED"
  },
  "3046679": {
@@ -1504,7 +1467,7 @@
   "berths_seen": [
    "KR-25"
   ],
-  "last_seen": "2026-10-18 04:09",
+  "last_seen": "2026-10-18 09:00",
   "status": "BERTHED"
  },
  "3046672": {
@@ -1515,7 +1478,7 @@
   "berths_seen": [
    "DG-56"
   ],
-  "last_seen": "2026-10-18 04:09",
+  "last_seen": "2026-10-18 09:00",
   "status": "BERTHED"
  },
  "3046673": {
@@ -1526,7 +1489,30 @@
   "berths_seen": [
    "PM-17"
   ],
-  "last_seen": "2026-10-18 04:09",
+  "last_seen": "2026-10-18 09:00",
+  "status": "BERTHED"
+ },
+ "3046682": {
+  "name": "PENHAR",
+  "imo": "9534365",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "MKR-1",
+   "RKR-7"
+  ],
+  "last_seen": "2026-10-18 09:00",
+  "status": "BERTHED"
+ },
+ "3046680": {
+  "name": "MSC KAYLA",
+  "imo": "9242637",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KS-34"
+  ],
+  "last_seen": "2026-10-18 09:00",
   "status": "BERTHED"
  }
 }

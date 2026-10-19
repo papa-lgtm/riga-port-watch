@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-19 20:32
+# Berth codes seen — 2026-10-20 01:26
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -41,6 +41,5 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | VM-4 | YES | HELME |
 | ZO-01 |  | CMA CGM RUNDALE, ELBOCEAN, ELBTEAM |
 | ZO-02 |  | ESRA C, SILVER DANIA |
-| ZO-03 |  | SILVER DANIA |
 | ZO-10 |  | BALTIC STRENGTH |
 | ZO-18 |  | TELLUS |

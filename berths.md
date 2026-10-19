@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-19 07:53
+# Berth codes seen — 2026-10-19 13:52
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -17,8 +17,8 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-02 | YES | SPANACO LOYALTY, SPANACO SIMPLICITY |
 | KRS-03 | YES | GUADALUPE EXPLORER |
 | KS-32 |  | ANNABA, SONDERBORG |
-| KS-34 |  | ELBTEAM, MSC KAYLA |
-| MKR-1 | YES | PENHAR |
+| KS-34 |  | ELBTEAM, MSC ASLI II, MSC KAYLA |
+| MKR-1 | YES | HAV DOLPHIN, PENHAR |
 | MKR-2 | YES | BALTIC EXPRESS |
 | MKR-4 | YES | ARENT, URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA |
@@ -31,12 +31,15 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-MTW | YES | URSULA ESSBERGER, VICTORIABORG |
 | PM-16 |  | DANITA, LOLLAND |
 | PM-17 |  | LOLLAND |
+| RD-3 |  | HAV DOLPHIN |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-5 | YES | VICTORIABORG |
 | RKR-6 | YES | BALTIC ERICA, BALTIC SPIRIT, HEBO-P101, VICTORIABORG |
 | RKR-7 | YES | ASTRA, CORA JO, KARITA, PENHAR |
+| RKR-8 | YES | HAV DOLPHIN |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | VM-4 | YES | HELME |
 | ZO-01 |  | CMA CGM RUNDALE, ELBTEAM |
 | ZO-02 |  | ESRA C |
 | ZO-03 |  | SILVER DANIA |
+| ZO-10 |  | BALTIC STRENGTH |

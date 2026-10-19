@@ -9,7 +9,7 @@
    "RKR-5",
    "RKR-6"
   ],
-  "last_seen": "2026-10-19 13:52",
+  "last_seen": "2026-10-19 20:32",
   "status": "BERTHED"
  },
  "3046396": {
@@ -83,7 +83,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-10-19 13:52",
+  "last_seen": "2026-10-19 20:32",
   "status": "BERTHED"
  },
  "3034270": {
@@ -95,7 +95,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-10-19 13:52",
+  "last_seen": "2026-10-19 20:32",
   "status": "BERTHED"
  },
  "3032756": {
@@ -111,7 +111,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-10-19 13:52",
+  "last_seen": "2026-10-19 20:32",
   "status": "BERTHED"
  },
  "3046473": {
@@ -123,7 +123,7 @@
    "PD-K4",
    "RKR-4"
   ],
-  "last_seen": "2026-10-19 13:52",
+  "last_seen": "2026-10-19 20:32",
   "status": "BERTHED"
  },
  "3046471": {
@@ -136,22 +136,8 @@
    "DG-20",
    "PD-75"
   ],
-  "last_seen": "2026-10-19 13:52",
+  "last_seen": "2026-10-19 20:32",
   "status": "BERTHED"
- },
- "3046481": {
-  "name": "BENJAMAS NAREE",
-  "imo": "9464027",
-  "flagged_repair": true,
-  "flagged_long_stay": true,
-  "berths_seen": [
-   "KRS-01",
-   "KRS-02",
-   "ZO-02",
-   "ZO-06"
-  ],
-  "last_seen": "2026-10-05 14:36",
-  "status": "MOVING"
  },
  "3046508": {
   "name": "URSULA ESSBERGER",
@@ -162,7 +148,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-10-19 13:52",
+  "last_seen": "2026-10-19 20:32",
   "status": "BERTHED"
  },
  "3046521": {
@@ -174,7 +160,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-10-19 13:52",
+  "last_seen": "2026-10-19 20:32",
   "status": "BERTHED"
  },
  "3046539": {
@@ -207,7 +193,7 @@
   "berths_seen": [
    "PD-419"
   ],
-  "last_seen": "2026-10-19 13:52",
+  "last_seen": "2026-10-19 20:32",
   "status": "BERTHED"
  },
  "3046557": {
@@ -219,7 +205,7 @@
    "DG-20",
    "PD-75"
   ],
-  "last_seen": "2026-10-19 13:52",
+  "last_seen": "2026-10-19 20:32",
   "status": "BERTHED"
  },
  "3046556": {
@@ -279,40 +265,6 @@
   "last_seen": "2026-10-05 21:40",
   "status": "MOVING"
  },
- "3046580": {
-  "name": "REVALA",
-  "imo": "1097438",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "JM-22"
-  ],
-  "last_seen": "2026-10-05 14:36",
-  "status": "MOVING"
- },
- "3046574": {
-  "name": "MSC VANQUISH II",
-  "imo": "9242625",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KS-32",
-   "KS-34"
-  ],
-  "last_seen": "2026-10-05 17:39",
-  "status": "BERTHED"
- },
- "3046565": {
-  "name": "SVENDBORG",
-  "imo": "9454230",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "ZO-01"
-  ],
-  "last_seen": "2026-10-05 14:36",
-  "status": "BERTHED"
- },
  "3046578": {
   "name": "TOLLUND",
   "imo": "9088287",
@@ -322,17 +274,6 @@
    "MKR-1"
   ],
   "last_seen": "2026-10-07 00:32",
-  "status": "MOVING"
- },
- "3046576": {
-  "name": "NORWEGIAN SUN",
-  "imo": "9218131",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "MK-4"
-  ],
-  "last_seen": "2026-10-05 18:37",
   "status": "MOVING"
  },
  "3046554": {
@@ -886,7 +827,7 @@
   "berths_seen": [
    "MKR-4"
   ],
-  "last_seen": "2026-10-19 13:52",
+  "last_seen": "2026-10-19 20:32",
   "status": "BERTHED"
  },
  "3046628": {
@@ -1228,7 +1169,7 @@
    "EO-06",
    "MKR-7"
   ],
-  "last_seen": "2026-10-19 13:52",
+  "last_seen": "2026-10-19 20:32",
   "status": "BERTHED"
  },
  "3046644": {
@@ -1365,7 +1306,7 @@
   "berths_seen": [
    "MS-2"
   ],
-  "last_seen": "2026-10-19 13:52",
+  "last_seen": "2026-10-19 20:32",
   "status": "BERTHED"
  },
  "3046675": {
@@ -1376,7 +1317,7 @@
   "berths_seen": [
    "KRS-02"
   ],
-  "last_seen": "2026-10-19 13:52",
+  "last_seen": "2026-10-19 20:32",
   "status": "BERTHED"
  },
  "3046678": {
@@ -1387,7 +1328,7 @@
   "berths_seen": [
    "KRS-03"
   ],
-  "last_seen": "2026-10-19 13:52",
+  "last_seen": "2026-10-19 20:32",
   "status": "BERTHED"
  },
  "3046684": {
@@ -1420,7 +1361,7 @@
   "berths_seen": [
    "KR-25"
   ],
-  "last_seen": "2026-10-19 13:52",
+  "last_seen": "2026-10-19 20:32",
   "status": "BERTHED"
  },
  "3046672": {
@@ -1454,7 +1395,7 @@
    "MKR-1",
    "RKR-7"
   ],
-  "last_seen": "2026-10-19 13:52",
+  "last_seen": "2026-10-19 20:32",
   "status": "BERTHED"
  },
  "3046680": {
@@ -1478,7 +1419,7 @@
    "JM-23",
    "RKR-7"
   ],
-  "last_seen": "2026-10-19 13:52",
+  "last_seen": "2026-10-19 20:32",
   "status": "BERTHED"
  },
  "3046649": {
@@ -1489,7 +1430,7 @@
   "berths_seen": [
    "KS-32"
   ],
-  "last_seen": "2026-10-19 13:52",
+  "last_seen": "2026-10-19 20:32",
   "status": "BERTHED"
  },
  "3046646": {
@@ -1500,7 +1441,7 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-10-19 13:52",
+  "last_seen": "2026-10-19 20:32",
   "status": "BERTHED"
  },
  "3046690": {
@@ -1511,7 +1452,7 @@
   "berths_seen": [
    "VM-4"
   ],
-  "last_seen": "2026-10-19 13:52",
+  "last_seen": "2026-10-19 20:32",
   "status": "BERTHED"
  },
  "3046688": {
@@ -1523,7 +1464,7 @@
    "JM-23",
    "MKR-2"
   ],
-  "last_seen": "2026-10-19 13:52",
+  "last_seen": "2026-10-19 20:32",
   "status": "BERTHED"
  },
  "3046691": {
@@ -1534,7 +1475,7 @@
   "berths_seen": [
    "KRS-01"
   ],
-  "last_seen": "2026-10-19 13:52",
+  "last_seen": "2026-10-19 20:32",
   "status": "BERTHED"
  },
  "3046685": {
@@ -1545,7 +1486,29 @@
   "berths_seen": [
    "RKR-6"
   ],
-  "last_seen": "2026-10-19 13:52",
+  "last_seen": "2026-10-19 20:32",
+  "status": "BERTHED"
+ },
+ "3046686": {
+  "name": "DANITA",
+  "imo": "9341108",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "PM-16"
+  ],
+  "last_seen": "2026-10-19 20:32",
+  "status": "BERTHED"
+ },
+ "3046658": {
+  "name": "SONDERBORG",
+  "imo": "9454242",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KS-32"
+  ],
+  "last_seen": "2026-10-19 20:32",
   "status": "BERTHED"
  }
 }

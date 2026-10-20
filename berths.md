@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-20 01:26
+# Berth codes seen — 2026-10-20 04:53
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -19,7 +19,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-04 | YES | BRAVE HEART |
 | KS-32 |  | ANNABA, SONDERBORG, X-PRESS GODAVARI |
 | KS-34 |  | ELBTEAM, MSC ASLI II, MSC MANDY III |
-| MKR-1 | YES | HAV DOLPHIN, PENHAR |
+| MKR-1 | YES | HAV DOLPHIN |
 | MKR-2 | YES | BALTIC EXPRESS |
 | MKR-4 | YES | ARENT, URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA |
@@ -35,7 +35,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-5 | YES | VICTORIABORG |
 | RKR-6 | YES | BALTIC ERICA, BALTIC SPIRIT, HEBO-P101, VICTORIABORG |
-| RKR-7 | YES | ASTRA, CORA JO, KARITA, PENHAR |
+| RKR-7 | YES | ASTRA, CORA JO, KARITA |
 | RKR-8 | YES | HAV DOLPHIN |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | VM-4 | YES | HELME |

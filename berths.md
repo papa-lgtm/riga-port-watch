@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-20 10:41
+# Berth codes seen — 2026-10-20 16:37
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -6,7 +6,8 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 |---|---|---|
 | DG-01 |  | KAJA |
 | DG-19 |  | RUBYLAND |
-| DG-20 |  | FEMBRIA, RUBYLAND |
+| DG-20 |  | FEMBRIA, KURLAND, RUBYLAND |
+| DG-56 |  | TUNA |
 | EO-06 |  | RIX DELTA |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | EVAGELIA |
@@ -18,7 +19,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-02 | YES | LISTERVIK, SPANACO LOYALTY, SPANACO SIMPLICITY |
 | KRS-03 | YES | GUADALUPE EXPLORER |
 | KRS-04 | YES | BRAVE HEART |
-| KS-32 |  | ANNABA, X-PRESS GODAVARI |
+| KS-32 |  | X-PRESS GODAVARI |
 | KS-34 |  | ELBTEAM, MSC ASLI II, MSC MANDY III |
 | MKR-1 | YES | HAV DOLPHIN |
 | MKR-2 | YES | BALTIC EXPRESS |
@@ -31,7 +32,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-791 | YES | BALTIC ERICA, BALTIC SPIRIT, HEBO-P101 |
 | PD-K4 | YES | ASTRA, DALSLAND |
 | PD-MTW | YES | URSULA ESSBERGER, VICTORIABORG |
-| PM-16 |  | DANITA |
+| PM-16 |  | DANITA, LADY MONIQUE |
 | RD-3 |  | HAV DOLPHIN |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-5 | YES | VICTORIABORG |
@@ -39,7 +40,8 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-7 | YES | ASTRA, CORA JO, KARITA |
 | RKR-8 | YES | HAV DOLPHIN |
 | RKR-9 | YES | ASTRA, POSEIDON I |
-| ZO-01 |  | CMA CGM RUNDALE, ELBOCEAN, ELBTEAM |
+| ZO-01 |  | CMA CGM RUNDALE, ELBTEAM, ESPERANCE |
 | ZO-02 |  | ESRA C, SILVER DANIA |
+| ZO-07 |  | LONGEON |
 | ZO-10 |  | BALTIC STRENGTH |
 | ZO-18 |  | TELLUS |

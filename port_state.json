@@ -9,7 +9,7 @@
    "RKR-5",
    "RKR-6"
   ],
-  "last_seen": "2026-10-20 21:30",
+  "last_seen": "2026-10-21 01:22",
   "status": "BERTHED"
  },
  "3046374": {
@@ -70,7 +70,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-10-20 21:30",
+  "last_seen": "2026-10-21 01:22",
   "status": "BERTHED"
  },
  "3034270": {
@@ -82,7 +82,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-10-20 21:30",
+  "last_seen": "2026-10-21 01:22",
   "status": "BERTHED"
  },
  "3032756": {
@@ -98,7 +98,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-10-20 21:30",
+  "last_seen": "2026-10-21 01:22",
   "status": "BERTHED"
  },
  "3046473": {
@@ -110,7 +110,7 @@
    "PD-K4",
    "RKR-4"
   ],
-  "last_seen": "2026-10-20 21:30",
+  "last_seen": "2026-10-21 01:22",
   "status": "BERTHED"
  },
  "3046471": {
@@ -135,7 +135,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-10-20 21:30",
+  "last_seen": "2026-10-21 01:22",
   "status": "BERTHED"
  },
  "3046521": {
@@ -147,7 +147,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-10-20 21:30",
+  "last_seen": "2026-10-21 01:22",
   "status": "BERTHED"
  },
  "3046539": {
@@ -169,7 +169,7 @@
   "berths_seen": [
    "PD-419"
   ],
-  "last_seen": "2026-10-20 21:30",
+  "last_seen": "2026-10-21 01:22",
   "status": "BERTHED"
  },
  "3046557": {
@@ -181,7 +181,7 @@
    "DG-20",
    "PD-75"
   ],
-  "last_seen": "2026-10-20 21:30",
+  "last_seen": "2026-10-21 01:22",
   "status": "BERTHED"
  },
  "3046556": {
@@ -207,17 +207,6 @@
   "last_seen": "2026-10-07 06:35",
   "status": "MOVING"
  },
- "3046578": {
-  "name": "TOLLUND",
-  "imo": "9088287",
-  "flagged_repair": true,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "MKR-1"
-  ],
-  "last_seen": "2026-10-07 00:32",
-  "status": "MOVING"
- },
  "3046582": {
   "name": "LAUNKALNE",
   "imo": "9504114",
@@ -228,17 +217,6 @@
    "PM-17"
   ],
   "last_seen": "2026-10-07 04:34",
-  "status": "MOVING"
- },
- "3046581": {
-  "name": "TERN ISLAND",
-  "imo": "9909649",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "ZO-17"
-  ],
-  "last_seen": "2026-10-06 22:33",
   "status": "MOVING"
  },
  "3046585": {
@@ -722,7 +700,7 @@
   "berths_seen": [
    "MKR-4"
   ],
-  "last_seen": "2026-10-20 21:30",
+  "last_seen": "2026-10-21 01:22",
   "status": "BERTHED"
  },
  "3046628": {
@@ -1064,7 +1042,7 @@
    "EO-06",
    "MKR-7"
   ],
-  "last_seen": "2026-10-20 21:30",
+  "last_seen": "2026-10-21 01:22",
   "status": "BERTHED"
  },
  "3046644": {
@@ -1201,7 +1179,7 @@
   "berths_seen": [
    "MS-2"
   ],
-  "last_seen": "2026-10-20 21:30",
+  "last_seen": "2026-10-21 01:22",
   "status": "BERTHED"
  },
  "3046675": {
@@ -1212,7 +1190,7 @@
   "berths_seen": [
    "KRS-02"
   ],
-  "last_seen": "2026-10-20 21:30",
+  "last_seen": "2026-10-21 01:22",
   "status": "BERTHED"
  },
  "3046678": {
@@ -1223,7 +1201,7 @@
   "berths_seen": [
    "KRS-03"
   ],
-  "last_seen": "2026-10-20 21:30",
+  "last_seen": "2026-10-21 01:22",
   "status": "BERTHED"
  },
  "3046684": {
@@ -1256,7 +1234,7 @@
   "berths_seen": [
    "KR-25"
   ],
-  "last_seen": "2026-10-20 21:30",
+  "last_seen": "2026-10-21 01:22",
   "status": "BERTHED"
  },
  "3046672": {
@@ -1314,7 +1292,7 @@
    "JM-23",
    "RKR-7"
   ],
-  "last_seen": "2026-10-20 21:30",
+  "last_seen": "2026-10-21 01:22",
   "status": "BERTHED"
  },
  "3046649": {
@@ -1336,7 +1314,7 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-10-20 21:30",
+  "last_seen": "2026-10-21 01:22",
   "status": "BERTHED"
  },
  "3046690": {
@@ -1371,7 +1349,7 @@
    "DG-01",
    "KRS-01"
   ],
-  "last_seen": "2026-10-20 21:30",
+  "last_seen": "2026-10-21 01:22",
   "status": "BERTHED"
  },
  "3046685": {
@@ -1383,7 +1361,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-10-20 21:30",
+  "last_seen": "2026-10-21 01:22",
   "status": "BERTHED"
  },
  "3046686": {
@@ -1394,7 +1372,7 @@
   "berths_seen": [
    "PM-16"
   ],
-  "last_seen": "2026-10-20 21:30",
+  "last_seen": "2026-10-21 01:22",
   "status": "BERTHED"
  },
  "3046658": {
@@ -1416,7 +1394,7 @@
   "berths_seen": [
    "ZO-02"
   ],
-  "last_seen": "2026-10-20 21:30",
+  "last_seen": "2026-10-21 01:22",
   "status": "BERTHED"
  },
  "3046676": {
@@ -1427,7 +1405,7 @@
   "berths_seen": [
    "KRS-02"
   ],
-  "last_seen": "2026-10-20 21:30",
+  "last_seen": "2026-10-21 01:22",
   "status": "BERTHED"
  },
  "3046660": {
@@ -1449,7 +1427,7 @@
   "berths_seen": [
    "ZO-10"
   ],
-  "last_seen": "2026-10-20 21:30",
+  "last_seen": "2026-10-21 01:22",
   "status": "BERTHED"
  },
  "3046697": {
@@ -1471,7 +1449,19 @@
   "berths_seen": [
    "RKR-7"
   ],
-  "last_seen": "2026-10-20 21:30",
+  "last_seen": "2026-10-21 01:22",
+  "status": "BERTHED"
+ },
+ "3046647": {
+  "name": "X-PRESS GODAVARI",
+  "imo": "9353735",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "EO-15",
+   "KS-32"
+  ],
+  "last_seen": "2026-10-21 01:22",
   "status": "BERTHED"
  }
 }

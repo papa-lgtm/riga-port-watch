@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-20 21:30
+# Berth codes seen — 2026-10-21 01:22
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -12,7 +12,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-14 |  | EVAGELIA |
 | EO-15 |  | MIRROR, X-PRESS GODAVARI |
 | JM-22 |  | KARITA |
-| JM-23 |  | BALTIC EXPRESS, KARITA, KESSU |
+| JM-23 |  | KARITA, KESSU |
 | KR-25 |  | AFRICAN JAY, ESRA C |
 | KRS-01 | YES | KAJA, KEIT |
 | KRS-02 | YES | LISTERVIK, SPANACO LOYALTY, SPANACO SIMPLICITY |
@@ -21,7 +21,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KS-32 |  | X-PRESS GODAVARI |
 | KS-34 |  | ELBTEAM, MSC ASLI II, MSC MANDY III |
 | MKR-1 | YES | HAV DOLPHIN |
-| MKR-2 | YES | BALTIC EXPRESS, KEIT |
+| MKR-2 | YES | KEIT |
 | MKR-4 | YES | ARENT, URSULA ESSBERGER |
 | MKR-5 | YES | ASTRA |
 | MKR-7 | YES | RIX DELTA |
@@ -45,4 +45,3 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | ZO-05 |  | LAUNKALNE |
 | ZO-07 |  | LONGEON |
 | ZO-10 |  | BALTIC STRENGTH |
-| ZO-18 |  | TELLUS |

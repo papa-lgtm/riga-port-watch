@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-21 01:22
+# Berth codes seen — 2026-10-21 04:40
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -13,7 +13,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-15 |  | MIRROR, X-PRESS GODAVARI |
 | JM-22 |  | KARITA |
 | JM-23 |  | KARITA, KESSU |
-| KR-25 |  | AFRICAN JAY, ESRA C |
+| KR-25 |  | ESRA C |
 | KRS-01 | YES | KAJA, KEIT |
 | KRS-02 | YES | LISTERVIK, SPANACO LOYALTY, SPANACO SIMPLICITY |
 | KRS-03 | YES | GUADALUPE EXPLORER |

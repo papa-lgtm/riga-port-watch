@@ -9,20 +9,8 @@
    "RKR-5",
    "RKR-6"
   ],
-  "last_seen": "2026-10-21 16:54",
+  "last_seen": "2026-10-26 09:18",
   "status": "BERTHED"
- },
- "3046374": {
-  "name": "BALTIC PURPLE",
-  "imo": "9143099",
-  "flagged_repair": true,
-  "flagged_long_stay": true,
-  "berths_seen": [
-   "PD-791",
-   "RKR-6"
-  ],
-  "last_seen": "2026-10-10 11:33",
-  "status": "MOVING"
  },
  "3046336": {
   "name": "BON VIVANT",
@@ -70,7 +58,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-10-21 16:54",
+  "last_seen": "2026-10-26 09:18",
   "status": "BERTHED"
  },
  "3034270": {
@@ -82,7 +70,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-10-21 16:54",
+  "last_seen": "2026-10-26 09:18",
   "status": "BERTHED"
  },
  "3032756": {
@@ -98,7 +86,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-10-21 16:54",
+  "last_seen": "2026-10-26 09:18",
   "status": "BERTHED"
  },
  "3046473": {
@@ -110,7 +98,7 @@
    "PD-K4",
    "RKR-4"
   ],
-  "last_seen": "2026-10-21 16:54",
+  "last_seen": "2026-10-26 09:18",
   "status": "BERTHED"
  },
  "3046471": {
@@ -147,19 +135,8 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-10-21 16:54",
+  "last_seen": "2026-10-26 09:18",
   "status": "BERTHED"
- },
- "3046539": {
-  "name": "KONTICH",
-  "imo": "9687502",
-  "flagged_repair": true,
-  "flagged_long_stay": true,
-  "berths_seen": [
-   "KRS-03"
-  ],
-  "last_seen": "2026-10-12 00:33",
-  "status": "MOVING"
  },
  "3046547": {
   "name": "SUNMI",
@@ -167,9 +144,10 @@
   "flagged_repair": true,
   "flagged_long_stay": true,
   "berths_seen": [
+   "MKR-5",
    "PD-419"
   ],
-  "last_seen": "2026-10-21 16:54",
+  "last_seen": "2026-10-26 09:18",
   "status": "BERTHED"
  },
  "3046557": {
@@ -181,31 +159,8 @@
    "DG-20",
    "PD-75"
   ],
-  "last_seen": "2026-10-21 16:54",
+  "last_seen": "2026-10-26 09:18",
   "status": "BERTHED"
- },
- "3046556": {
-  "name": "CHINA SPIRIT",
-  "imo": "9655846",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "ZO-12"
-  ],
-  "last_seen": "2026-10-08 03:45",
-  "status": "MOVING"
- },
- "3046586": {
-  "name": "FEDERAL BALTIC",
-  "imo": "9697806",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KS-30",
-   "MS-2"
-  ],
-  "last_seen": "2026-10-10 17:32",
-  "status": "MOVING"
  },
  "3046587": {
   "name": "NORDIC LUEBECK",
@@ -216,168 +171,6 @@
    "EO-14"
   ],
   "last_seen": "2026-10-13 12:38",
-  "status": "MOVING"
- },
- "3046591": {
-  "name": "VASTERBOTTEN",
-  "imo": "9436226",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "PM-17"
-  ],
-  "last_seen": "2026-10-08 13:36",
-  "status": "MOVING"
- },
- "3046598": {
-  "name": "KAMELIA",
-  "imo": "9188958",
-  "flagged_repair": true,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KRS-02"
-  ],
-  "last_seen": "2026-10-08 19:39",
-  "status": "MOVING"
- },
- "3046589": {
-  "name": "AB MOM",
-  "imo": "9263306",
-  "flagged_repair": true,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KRS-01",
-   "KRS-04"
-  ],
-  "last_seen": "2026-10-11 20:32",
-  "status": "MOVING"
- },
- "3046593": {
-  "name": "MIRROR",
-  "imo": "9328041",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "EO-15"
-  ],
-  "last_seen": "2026-10-08 08:34",
-  "status": "MOVING"
- },
- "3046579": {
-  "name": "MIRAMAR",
-  "imo": "9552044",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "JM-23"
-  ],
-  "last_seen": "2026-10-09 02:32",
-  "status": "MOVING"
- },
- "3046584": {
-  "name": "LONGVIKING",
-  "imo": "9547324",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "MS-10"
-  ],
-  "last_seen": "2026-10-08 08:34",
-  "status": "MOVING"
- },
- "3046600": {
-  "name": "CORAL MONACTIS",
-  "imo": "9373735",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "LP-27"
-  ],
-  "last_seen": "2026-10-08 20:34",
-  "status": "BERTHED"
- },
- "3046588": {
-  "name": "ST. PAULI 2",
-  "imo": "9166467",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "JM-22",
-   "JM-23"
-  ],
-  "last_seen": "2026-10-09 13:36",
-  "status": "MOVING"
- },
- "3046595": {
-  "name": "FRANCISCA",
-  "imo": "9148166",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "DG-55",
-   "DG-55A",
-   "KR-21"
-  ],
-  "last_seen": "2026-10-10 17:32",
-  "status": "BERTHED"
- },
- "3046534": {
-  "name": "HUMBER RUNNER",
-  "imo": "9467184",
-  "flagged_repair": true,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KRS-01",
-   "RKR-8",
-   "SD-4"
-  ],
-  "last_seen": "2026-10-10 11:33",
-  "status": "MOVING"
- },
- "3046599": {
-  "name": "MEIN SCHIFF RELAX",
-  "imo": "9862657",
-  "flagged_repair": true,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KRS-06"
-  ],
-  "last_seen": "2026-10-08 17:38",
-  "status": "MOVING"
- },
- "3046601": {
-  "name": "HAVELLAND",
-  "imo": "9499735",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "ZO-05"
-  ],
-  "last_seen": "2026-10-09 12:36",
-  "status": "BERTHED"
- },
- "3046612": {
-  "name": "TIM",
-  "imo": "9434151",
-  "flagged_repair": true,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "DG-55",
-   "KRS-01",
-   "RKR-8"
-  ],
-  "last_seen": "2026-10-11 05:34",
-  "status": "MOVING"
- },
- "3046604": {
-  "name": "ANNE D",
-  "imo": "9404089",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "EO-15"
-  ],
-  "last_seen": "2026-10-09 05:34",
   "status": "MOVING"
  },
  "3046594": {
@@ -403,204 +196,6 @@
   "last_seen": "2026-10-12 21:41",
   "status": "MOVING"
  },
- "3046592": {
-  "name": "KAIRIT",
-  "imo": "9195949",
-  "flagged_repair": true,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KRS-01",
-   "KRS-02"
-  ],
-  "last_seen": "2026-10-09 15:41",
-  "status": "MOVING"
- },
- "3046570": {
-  "name": "CMA CGM VISBY",
-  "imo": "9961324",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "ZO-01"
-  ],
-  "last_seen": "2026-10-09 16:38",
-  "status": "MOVING"
- },
- "3046610": {
-  "name": "KURLAND",
-  "imo": "9226803",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "ZO-04"
-  ],
-  "last_seen": "2026-10-10 11:33",
-  "status": "MOVING"
- },
- "3046606": {
-  "name": "MSC ASLI II",
-  "imo": "9162631",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KS-34"
-  ],
-  "last_seen": "2026-10-10 21:37",
-  "status": "MOVING"
- },
- "3046609": {
-  "name": "BALTICMAR",
-  "imo": "1095375",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "JM-22"
-  ],
-  "last_seen": "2026-10-10 22:31",
-  "status": "MOVING"
- },
- "3046611": {
-  "name": "NORRLAND",
-  "imo": "9358278",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "DG-56"
-  ],
-  "last_seen": "2026-10-11 02:31",
-  "status": "BERTHED"
- },
- "3046569": {
-  "name": "AILA",
-  "imo": "9354337",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KS-32",
-   "ZO-01"
-  ],
-  "last_seen": "2026-10-10 08:33",
-  "status": "MOVING"
- },
- "3046616": {
-  "name": "SWE-TRADER",
-  "imo": "9194074",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "PM-16"
-  ],
-  "last_seen": "2026-10-10 21:37",
-  "status": "MOVING"
- },
- "3046590": {
-  "name": "X-PRESS AGILITY",
-  "imo": "9483671",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "EO-14",
-   "EO-15",
-   "KS-32"
-  ],
-  "last_seen": "2026-10-10 11:33",
-  "status": "MOVING"
- },
- "3046608": {
-  "name": "TERN LAND",
-  "imo": "9988994",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "ZO-18"
-  ],
-  "last_seen": "2026-10-10 15:39",
-  "status": "MOVING"
- },
- "3046617": {
-  "name": "SONORO",
-  "imo": "9199397",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "ZO-05"
-  ],
-  "last_seen": "2026-10-10 12:33",
-  "status": "MOVING"
- },
- "3046597": {
-  "name": "EXPERT",
-  "imo": "9412529",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KS-32",
-   "ZO-01"
-  ],
-  "last_seen": "2026-10-10 22:31",
-  "status": "BERTHED"
- },
- "3046618": {
-  "name": "SCOT LEADER",
-  "imo": "9963267",
-  "flagged_repair": true,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "JM-23",
-   "KRS-01",
-   "KRS-02",
-   "VM-4"
-  ],
-  "last_seen": "2026-10-11 17:33",
-  "status": "MOVING"
- },
- "3046613": {
-  "name": "NORDIC GLORIA",
-  "imo": "9749099",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "DG-55",
-   "DG-55A",
-   "DG-56"
-  ],
-  "last_seen": "2026-10-12 05:37",
-  "status": "MOVING"
- },
- "3046596": {
-  "name": "JUDITH",
-  "imo": "9359260",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KS-32",
-   "ZO-01"
-  ],
-  "last_seen": "2026-10-12 08:37",
-  "status": "MOVING"
- },
- "3046621": {
-  "name": "LADY HESTIA",
-  "imo": "9828364",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KR-21"
-  ],
-  "last_seen": "2026-10-11 02:31",
-  "status": "MOVING"
- },
- "3046624": {
-  "name": "BALTIC STRENGTH",
-  "imo": "1133907",
-  "flagged_repair": true,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "RKR-7"
-  ],
-  "last_seen": "2026-10-11 18:33",
-  "status": "MOVING"
- },
  "3046620": {
   "name": "NORD VIND",
   "imo": "9573921",
@@ -610,29 +205,6 @@
    "MS-2"
   ],
   "last_seen": "2026-10-17 03:32",
-  "status": "MOVING"
- },
- "3046623": {
-  "name": "HIIUMAA",
-  "imo": "9973286",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "DG-56",
-   "JM-22"
-  ],
-  "last_seen": "2026-10-12 01:33",
-  "status": "MOVING"
- },
- "3046619": {
-  "name": "LAPPLAND",
-  "imo": "9505132",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "PM-17"
-  ],
-  "last_seen": "2026-10-12 07:39",
   "status": "MOVING"
  },
  "3046622": {
@@ -646,38 +218,17 @@
   "last_seen": "2026-10-13 10:41",
   "status": "MOVING"
  },
- "3046627": {
-  "name": "VIKTORIA",
-  "imo": "9313632",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "MS-12"
-  ],
-  "last_seen": "2026-10-12 08:37",
-  "status": "MOVING"
- },
  "3046630": {
   "name": "ARENT",
   "imo": "9591387",
   "flagged_repair": true,
   "flagged_long_stay": true,
   "berths_seen": [
-   "MKR-4"
+   "MKR-4",
+   "PD-MTW"
   ],
-  "last_seen": "2026-10-21 16:54",
+  "last_seen": "2026-10-26 09:18",
   "status": "BERTHED"
- },
- "3046628": {
-  "name": "PRIMA DONNA",
-  "imo": "8609606",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "MS-10"
-  ],
-  "last_seen": "2026-10-12 05:37",
-  "status": "MOVING"
  },
  "3046615": {
   "name": "TAHO MIRACLE",
@@ -701,17 +252,6 @@
    "ZO-12"
   ],
   "last_seen": "2026-10-12 22:35",
-  "status": "MOVING"
- },
- "3046614": {
-  "name": "SINAR BUKITTINGGI",
-  "imo": "9942299",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "ZO-01"
-  ],
-  "last_seen": "2026-10-12 03:48",
   "status": "MOVING"
  },
  "3046632": {
@@ -1002,12 +542,13 @@
   "name": "RIX DELTA",
   "imo": "9195767",
   "flagged_repair": true,
-  "flagged_long_stay": false,
+  "flagged_long_stay": true,
   "berths_seen": [
    "EO-06",
-   "MKR-7"
+   "MKR-7",
+   "PD-419"
   ],
-  "last_seen": "2026-10-21 16:54",
+  "last_seen": "2026-10-26 09:18",
   "status": "BERTHED"
  },
  "3046644": {
@@ -1153,9 +694,10 @@
   "flagged_repair": true,
   "flagged_long_stay": false,
   "berths_seen": [
-   "KRS-02"
+   "KRS-02",
+   "MKR-4"
   ],
-  "last_seen": "2026-10-21 16:54",
+  "last_seen": "2026-10-26 09:18",
   "status": "BERTHED"
  },
  "3046678": {
@@ -1166,7 +708,7 @@
   "berths_seen": [
    "KRS-03"
   ],
-  "last_seen": "2026-10-21 16:54",
+  "last_seen": "2026-10-26 09:18",
   "status": "BERTHED"
  },
  "3046684": {
@@ -1326,7 +868,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-10-21 16:54",
+  "last_seen": "2026-10-26 09:18",
   "status": "BERTHED"
  },
  "3046686": {
@@ -1448,7 +990,7 @@
   "berths_seen": [
    "DG-20"
   ],
-  "last_seen": "2026-10-21 16:54",
+  "last_seen": "2026-10-26 09:18",
   "status": "BERTHED"
  },
  "3046712": {
@@ -1474,6 +1016,203 @@
    "RKR-8"
   ],
   "last_seen": "2026-10-21 16:54",
+  "status": "BERTHED"
+ },
+ "3046743": {
+  "name": "LONGVIND",
+  "imo": "9547336",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "ZO-07"
+  ],
+  "last_seen": "2026-10-26 09:18",
+  "status": "BERTHED"
+ },
+ "3046750": {
+  "name": "ALAND",
+  "imo": "9350783",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "JM-22"
+  ],
+  "last_seen": "2026-10-26 09:18",
+  "status": "BERTHED"
+ },
+ "3046722": {
+  "name": "HS HAN",
+  "imo": "9611589",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KS-30"
+  ],
+  "last_seen": "2026-10-26 09:18",
+  "status": "BERTHED"
+ },
+ "3046742": {
+  "name": "FEGULUS",
+  "imo": "9055709",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "RKR-6"
+  ],
+  "last_seen": "2026-10-26 09:18",
+  "status": "BERTHED"
+ },
+ "3046714": {
+  "name": "X-PRESS AGILITY",
+  "imo": "9483671",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "EO-15",
+   "KS-32"
+  ],
+  "last_seen": "2026-10-26 09:18",
+  "status": "BERTHED"
+ },
+ "3046733": {
+  "name": "SEA EXPLORER",
+  "imo": "9516155",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KRS-02"
+  ],
+  "last_seen": "2026-10-26 09:18",
+  "status": "BERTHED"
+ },
+ "3046741": {
+  "name": "HILDA B",
+  "imo": "9466233",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "DG-55",
+   "MKR-2"
+  ],
+  "last_seen": "2026-10-26 09:18",
+  "status": "BERTHED"
+ },
+ "3046735": {
+  "name": "MARJATTA",
+  "imo": "9345374",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "RD-1"
+  ],
+  "last_seen": "2026-10-26 09:18",
+  "status": "BERTHED"
+ },
+ "3046737": {
+  "name": "HUMBER RUNNER",
+  "imo": "9467184",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KRS-01",
+   "RKR-8",
+   "SD-4"
+  ],
+  "last_seen": "2026-10-26 09:18",
+  "status": "BERTHED"
+ },
+ "3046740": {
+  "name": "MSC YOSHEEN",
+  "imo": "9322011",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KS-34"
+  ],
+  "last_seen": "2026-10-26 09:18",
+  "status": "BERTHED"
+ },
+ "3046721": {
+  "name": "RIX SAPPHIRE",
+  "imo": "9195729",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KRS-07"
+  ],
+  "last_seen": "2026-10-26 09:18",
+  "status": "BERTHED"
+ },
+ "3046730": {
+  "name": "KATI",
+  "imo": "9173214",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "EO-10",
+   "RD-3"
+  ],
+  "last_seen": "2026-10-26 09:18",
+  "status": "BERTHED"
+ },
+ "3046708": {
+  "name": "KEIT",
+  "imo": "9333450",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KRS-02",
+   "MKR-1",
+   "MKR-2"
+  ],
+  "last_seen": "2026-10-26 09:18",
+  "status": "BERTHED"
+ },
+ "3046732": {
+  "name": "AAI PRELUDE",
+  "imo": "9952361",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "ZO-12"
+  ],
+  "last_seen": "2026-10-26 09:18",
+  "status": "BERTHED"
+ },
+ "3046729": {
+  "name": "DELTA 1",
+  "imo": "",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "ZO-02"
+  ],
+  "last_seen": "2026-10-26 09:18",
+  "status": "BERTHED"
+ },
+ "3046706": {
+  "name": "KESSU",
+  "imo": "9519808",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "DG-56",
+   "JM-22",
+   "JM-23"
+  ],
+  "last_seen": "2026-10-26 09:18",
+  "status": "BERTHED"
+ },
+ "3046667": {
+  "name": "ESRA C",
+  "imo": "9379662",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KR-25",
+   "ZO-02"
+  ],
+  "last_seen": "2026-10-26 09:18",
   "status": "BERTHED"
  }
 }

@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-26 16:21
+# Berth codes seen — 2026-10-26 22:34
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -6,19 +6,17 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 |---|---|---|
 | DG-20 |  | ESTLAND, FEMBRIA, KURLAND |
 | DG-55 |  | HILDA B |
-| DG-56 |  | KESSU, TIDAN |
+| DG-56 |  | TIDAN |
 | EO-06 |  | RIX DELTA |
 | EO-10 |  | KATI |
 | EO-12 |  | HEBO-P101 |
 | EO-15 |  | X-PRESS AGILITY |
-| JM-22 |  | ALAND, KESSU |
-| JM-23 |  | KESSU |
+| JM-22 |  | ALAND |
 | KR-25 |  | ESRA C, PATAGONIA |
 | KRS-01 | YES | HUMBER RUNNER |
 | KRS-02 | YES | KAMELIA, KEIT, SEA EXPLORER, SPANACO LOYALTY |
 | KRS-03 | YES | GUADALUPE EXPLORER |
 | KRS-04 | YES | BRAVE HEART |
-| KRS-07 | YES | RIX SAPPHIRE |
 | KS-30 |  | HS HAN |
 | KS-32 |  | AILA, ELBRUNNER, X-PRESS AGILITY |
 | KS-34 |  | SONDERBORG |
@@ -43,8 +41,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-4 |  | HUMBER RUNNER, MARJATTA |
 | ZO-01 |  | AILA, CMA CGM VISBY, ELBMOON |
-| ZO-02 |  | DELTA 1, ESRA C, SEA EXPLORER |
+| ZO-02 |  | ESRA C, SEA EXPLORER |
 | ZO-05 |  | HELME |
 | ZO-07 |  | LONGVIND, OSTERBOTTEN |
-| ZO-12 |  | AAI PRELUDE |
 | ZO-18 |  | STEN BERGEN |

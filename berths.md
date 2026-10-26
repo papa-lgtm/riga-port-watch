@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-26 09:18
+# Berth codes seen — 2026-10-26 16:21
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -21,7 +21,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-07 | YES | RIX SAPPHIRE |
 | KS-30 |  | HS HAN |
 | KS-32 |  | AILA, ELBRUNNER, X-PRESS AGILITY |
-| KS-34 |  | MSC YOSHEEN, SONDERBORG |
+| KS-34 |  | SONDERBORG |
 | MKR-1 | YES | KEIT |
 | MKR-2 | YES | HILDA B, KEIT |
 | MKR-4 | YES | ARENT, SPANACO LOYALTY |
@@ -41,9 +41,9 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-7 | YES | ASTRA |
 | RKR-8 | YES | HUMBER RUNNER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
-| SD-4 |  | HUMBER RUNNER |
+| SD-4 |  | HUMBER RUNNER, MARJATTA |
 | ZO-01 |  | AILA, CMA CGM VISBY, ELBMOON |
-| ZO-02 |  | DELTA 1, ESRA C |
+| ZO-02 |  | DELTA 1, ESRA C, SEA EXPLORER |
 | ZO-05 |  | HELME |
 | ZO-07 |  | LONGVIND, OSTERBOTTEN |
 | ZO-12 |  | AAI PRELUDE |

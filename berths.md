@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-27 21:27
+# Berth codes seen — 2026-10-28 01:49
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -35,7 +35,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-8 | YES | CELTIC PIONEER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-4 |  | MARJATTA |
-| ZO-01 |  | AILA, CMA CGM VISBY, ELBWIND |
+| ZO-01 |  | AILA, CMA CGM VISBY, ELBWIND, LANGENESS |
 | ZO-05 |  | HELME |
 | ZO-07 |  | LONGVIND, OSTERBOTTEN |
 | ZO-18 |  | TERN LAND |

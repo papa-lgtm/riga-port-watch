@@ -1,27 +1,27 @@
-# Berth codes seen — 2026-10-27 08:22
+# Berth codes seen — 2026-10-27 15:19
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
 | Berth | Treated as repair | Vessels seen there |
 |---|---|---|
 | DG-20 |  | ESTLAND, FEMBRIA, KURLAND |
-| DG-55 |  | HILDA B |
-| DG-56 |  | TIDAN |
+| DG-55 |  | CELTIC PIONEER, HILDA B |
+| DG-56 |  | LONGVIND, TIDAN |
 | EO-06 |  | RIX DELTA |
 | EO-12 |  | HEBO-P101 |
+| EO-15 |  | ELBSTROM |
 | JM-22 |  | ALAND |
 | KR-25 |  | ESRA C, PATAGONIA |
 | KRS-02 | YES | KAMELIA, KEIT, SEA EXPLORER, SPANACO LOYALTY |
 | KRS-03 | YES | GUADALUPE EXPLORER |
 | KRS-04 | YES | BRAVE HEART |
 | KS-30 |  | HS HAN |
-| KS-32 |  | AILA, ELBRUNNER |
+| KS-32 |  | AILA |
 | MKR-1 | YES | KEIT |
 | MKR-2 | YES | HILDA B, KEIT |
 | MKR-4 | YES | ARENT, SPANACO LOYALTY |
 | MKR-5 | YES | ASTRA, SUNMI |
 | MKR-7 | YES | RIX DELTA |
-| MS-12 |  | CLARA |
 | PD-419 | YES | ASTRA, RIX DELTA, SUNMI |
 | PD-75 | YES | FEMBRIA |
 | PD-791 | YES | BALTIC ERICA, BALTIC SPIRIT, HEBO-P101 |
@@ -32,9 +32,11 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-5 | YES | VICTORIABORG |
 | RKR-6 | YES | BALTIC ERICA, BALTIC SPIRIT, FEGULUS, HEBO-P101, VICTORIABORG |
 | RKR-7 | YES | ASTRA |
+| RKR-8 | YES | CELTIC PIONEER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-4 |  | MARJATTA |
 | ZO-01 |  | AILA, CMA CGM VISBY |
 | ZO-02 |  | ESRA C, SEA EXPLORER |
 | ZO-05 |  | HELME |
 | ZO-07 |  | LONGVIND, OSTERBOTTEN |
+| ZO-18 |  | TERN LAND |

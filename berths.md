@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-27 02:32
+# Berth codes seen — 2026-10-27 08:22
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -11,7 +11,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-12 |  | HEBO-P101 |
 | JM-22 |  | ALAND |
 | KR-25 |  | ESRA C, PATAGONIA |
-| KRS-01 | YES | HUMBER RUNNER |
 | KRS-02 | YES | KAMELIA, KEIT, SEA EXPLORER, SPANACO LOYALTY |
 | KRS-03 | YES | GUADALUPE EXPLORER |
 | KRS-04 | YES | BRAVE HEART |
@@ -33,10 +32,9 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-5 | YES | VICTORIABORG |
 | RKR-6 | YES | BALTIC ERICA, BALTIC SPIRIT, FEGULUS, HEBO-P101, VICTORIABORG |
 | RKR-7 | YES | ASTRA |
-| RKR-8 | YES | HUMBER RUNNER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
-| SD-4 |  | HUMBER RUNNER, MARJATTA |
-| ZO-01 |  | AILA, CMA CGM VISBY, ELBMOON |
+| SD-4 |  | MARJATTA |
+| ZO-01 |  | AILA, CMA CGM VISBY |
 | ZO-02 |  | ESRA C, SEA EXPLORER |
 | ZO-05 |  | HELME |
 | ZO-07 |  | LONGVIND, OSTERBOTTEN |

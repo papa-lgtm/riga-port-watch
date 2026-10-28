@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-28 20:54
+# Berth codes seen — 2026-10-29 01:17
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -14,8 +14,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-02 | YES | KAMELIA, SPANACO LOYALTY |
 | KRS-03 | YES | GUADALUPE EXPLORER |
 | KRS-04 | YES | BRAVE HEART |
-| KS-30 |  | HS HAN |
-| KS-32 |  | AILA, X-PRESS GODAVARI |
+| KS-32 |  | AILA, SONDERBORG, X-PRESS GODAVARI |
 | KS-34 |  | ELBWIND |
 | MKR-1 | YES | TOLLUND |
 | MKR-4 | YES | ARENT, SPANACO LOYALTY |

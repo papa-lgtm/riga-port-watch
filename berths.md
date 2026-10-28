@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-28 07:52
+# Berth codes seen — 2026-10-28 15:07
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -10,7 +10,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-06 |  | RIX DELTA |
 | EO-12 |  | HEBO-P101 |
 | EO-15 |  | ELBSTROM |
-| JM-22 |  | ALAND |
 | KR-25 |  | PATAGONIA |
 | KRS-02 | YES | KAMELIA, SPANACO LOYALTY |
 | KRS-03 | YES | GUADALUPE EXPLORER |
@@ -23,7 +22,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | MKR-5 | YES | ASTRA, SUNMI |
 | MKR-7 | YES | RIX DELTA |
 | PD-419 | YES | ASTRA, RIX DELTA, SUNMI |
-| PD-75 | YES | FEMBRIA |
+| PD-75 | YES | ESTLAND, FEMBRIA |
 | PD-791 | YES | BALTIC ERICA, HEBO-P101 |
 | PD-K4 | YES | ASTRA, DALSLAND |
 | PD-MTW | YES | ARENT, VICTORIABORG |
@@ -31,7 +30,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-5 | YES | VICTORIABORG |
 | RKR-6 | YES | BALTIC ERICA, FEGULUS, HEBO-P101, VICTORIABORG |
-| RKR-7 | YES | ASTRA |
+| RKR-7 | YES | ASTRA, BALTIC GERMANY |
 | RKR-8 | YES | CELTIC PIONEER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-4 |  | MARJATTA |

@@ -9,21 +9,8 @@
    "RKR-5",
    "RKR-6"
   ],
-  "last_seen": "2026-10-28 15:07",
+  "last_seen": "2026-10-28 20:54",
   "status": "BERTHED"
- },
- "3046336": {
-  "name": "BON VIVANT",
-  "imo": "9052692",
-  "flagged_repair": true,
-  "flagged_long_stay": true,
-  "berths_seen": [
-   "MKR-4",
-   "MKR-7",
-   "PD-MTW"
-  ],
-  "last_seen": "2026-10-14 17:51",
-  "status": "MOVING"
  },
  "3045569": {
   "name": "SALERNO",
@@ -58,7 +45,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-10-28 15:07",
+  "last_seen": "2026-10-28 20:54",
   "status": "BERTHED"
  },
  "3034270": {
@@ -70,7 +57,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-10-28 15:07",
+  "last_seen": "2026-10-28 20:54",
   "status": "BERTHED"
  },
  "3032756": {
@@ -86,7 +73,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-10-28 15:07",
+  "last_seen": "2026-10-28 20:54",
   "status": "BERTHED"
  },
  "3046473": {
@@ -98,7 +85,7 @@
    "PD-K4",
    "RKR-4"
   ],
-  "last_seen": "2026-10-28 15:07",
+  "last_seen": "2026-10-28 20:54",
   "status": "BERTHED"
  },
  "3046471": {
@@ -147,7 +134,7 @@
    "MKR-5",
    "PD-419"
   ],
-  "last_seen": "2026-10-28 15:07",
+  "last_seen": "2026-10-28 20:54",
   "status": "BERTHED"
  },
  "3046557": {
@@ -159,7 +146,7 @@
    "DG-20",
    "PD-75"
   ],
-  "last_seen": "2026-10-28 15:07",
+  "last_seen": "2026-10-28 20:54",
   "status": "BERTHED"
  },
  "3046594": {
@@ -194,7 +181,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-10-28 15:07",
+  "last_seen": "2026-10-28 20:54",
   "status": "BERTHED"
  },
  "3046615": {
@@ -231,17 +218,6 @@
   ],
   "last_seen": "2026-10-19 13:52",
   "status": "BERTHED"
- },
- "3046641": {
-  "name": "TIDAN",
-  "imo": "9988528",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "JM-23"
-  ],
-  "last_seen": "2026-10-14 19:53",
-  "status": "MOVING"
  },
  "3046639": {
   "name": "GT DELPHIN",
@@ -402,7 +378,7 @@
    "MKR-7",
    "PD-419"
   ],
-  "last_seen": "2026-10-28 15:07",
+  "last_seen": "2026-10-28 20:54",
   "status": "BERTHED"
  },
  "3046644": {
@@ -551,7 +527,7 @@
    "KRS-02",
    "MKR-4"
   ],
-  "last_seen": "2026-10-28 15:07",
+  "last_seen": "2026-10-28 20:54",
   "status": "BERTHED"
  },
  "3046678": {
@@ -562,7 +538,7 @@
   "berths_seen": [
    "KRS-03"
   ],
-  "last_seen": "2026-10-28 15:07",
+  "last_seen": "2026-10-28 20:54",
   "status": "BERTHED"
  },
  "3046684": {
@@ -722,7 +698,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-10-28 15:07",
+  "last_seen": "2026-10-28 20:54",
   "status": "BERTHED"
  },
  "3046686": {
@@ -844,7 +820,7 @@
   "berths_seen": [
    "DG-20"
   ],
-  "last_seen": "2026-10-28 15:07",
+  "last_seen": "2026-10-28 20:54",
   "status": "BERTHED"
  },
  "3046712": {
@@ -903,8 +879,8 @@
   "berths_seen": [
    "KS-30"
   ],
-  "last_seen": "2026-10-28 15:07",
-  "status": "BERTHED"
+  "last_seen": "2026-10-28 20:54",
+  "status": "MOVING"
  },
  "3046742": {
   "name": "FEGULUS",
@@ -914,7 +890,7 @@
   "berths_seen": [
    "RKR-6"
   ],
-  "last_seen": "2026-10-28 15:07",
+  "last_seen": "2026-10-28 20:54",
   "status": "BERTHED"
  },
  "3046714": {
@@ -1146,7 +1122,7 @@
   "berths_seen": [
    "KRS-04"
   ],
-  "last_seen": "2026-10-28 15:07",
+  "last_seen": "2026-10-28 20:54",
   "status": "BERTHED"
  },
  "3046752": {
@@ -1155,10 +1131,11 @@
   "flagged_repair": true,
   "flagged_long_stay": false,
   "berths_seen": [
+   "DG-56",
    "KRS-02"
   ],
-  "last_seen": "2026-10-28 15:07",
-  "status": "MOVING"
+  "last_seen": "2026-10-28 20:54",
+  "status": "BERTHED"
  },
  "3046754": {
   "name": "ESTLAND",
@@ -1169,7 +1146,7 @@
    "DG-20",
    "PD-75"
   ],
-  "last_seen": "2026-10-28 15:07",
+  "last_seen": "2026-10-28 20:54",
   "status": "BERTHED"
  },
  "3046751": {
@@ -1191,7 +1168,7 @@
   "berths_seen": [
    "KR-25"
   ],
-  "last_seen": "2026-10-28 15:07",
+  "last_seen": "2026-10-28 20:54",
   "status": "BERTHED"
  },
  "3046746": {
@@ -1202,7 +1179,7 @@
   "berths_seen": [
    "ZO-05"
   ],
-  "last_seen": "2026-10-28 15:07",
+  "last_seen": "2026-10-28 20:54",
   "status": "BERTHED"
  },
  "3046759": {
@@ -1213,7 +1190,7 @@
   "berths_seen": [
    "MKR-1"
   ],
-  "last_seen": "2026-10-28 15:07",
+  "last_seen": "2026-10-28 20:54",
   "status": "BERTHED"
  },
  "3046755": {
@@ -1225,7 +1202,18 @@
    "KS-34",
    "ZO-01"
   ],
-  "last_seen": "2026-10-28 15:07",
+  "last_seen": "2026-10-28 20:54",
+  "status": "BERTHED"
+ },
+ "3046760": {
+  "name": "TERN LAND",
+  "imo": "9988994",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "ZO-18"
+  ],
+  "last_seen": "2026-10-28 20:54",
   "status": "BERTHED"
  }
 }

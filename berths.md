@@ -1,9 +1,10 @@
-# Berth codes seen — 2026-10-29 01:17
+# Berth codes seen — 2026-10-29 07:56
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
 | Berth | Treated as repair | Vessels seen there |
 |---|---|---|
+| DG-19 |  | FEMBRIA |
 | DG-20 |  | ESTLAND, FEMBRIA, KURLAND |
 | DG-55 |  | CELTIC PIONEER |
 | DG-56 |  | KAMELIA |
@@ -34,5 +35,4 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-8 | YES | CELTIC PIONEER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | ZO-01 |  | AILA, CMA CGM VISBY, ELBWIND, LANGENESS |
-| ZO-05 |  | HELME |
 | ZO-18 |  | TERN LAND |

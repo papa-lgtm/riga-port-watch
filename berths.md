@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-29 07:56
+# Berth codes seen — 2026-10-29 15:14
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -18,6 +18,8 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KS-32 |  | AILA, SONDERBORG, X-PRESS GODAVARI |
 | KS-34 |  | ELBWIND |
 | MKR-1 | YES | TOLLUND |
+| MKR-2 | YES | BALTICA HAV |
+| MKR-3 | YES | KATARIINA |
 | MKR-4 | YES | ARENT, SPANACO LOYALTY |
 | MKR-5 | YES | ASTRA, SUNMI |
 | MKR-7 | YES | RIX DELTA |
@@ -26,13 +28,14 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-791 | YES | BALTIC ERICA, HEBO-P101 |
 | PD-K4 | YES | ASTRA, DALSLAND |
 | PD-MTW | YES | ARENT, VICTORIABORG |
+| PM-16 |  | NAVITA |
 | PM-17 |  | VINDOE |
 | RD-1 |  | VALDAY |
+| RD-3 |  | BALTICA HAV |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-5 | YES | VICTORIABORG |
 | RKR-6 | YES | BALTIC ERICA, FEGULUS, HEBO-P101, VICTORIABORG |
 | RKR-7 | YES | ASTRA, BALTIC GERMANY |
-| RKR-8 | YES | CELTIC PIONEER |
+| RKR-8 | YES | BALTICA HAV, CELTIC PIONEER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | ZO-01 |  | AILA, CMA CGM VISBY, ELBWIND, LANGENESS |
-| ZO-18 |  | TERN LAND |

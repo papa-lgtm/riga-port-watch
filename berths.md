@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-30 20:39
+# Berth codes seen — 2026-10-31 01:00
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -10,21 +10,20 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | DG-55A |  | CELTIC PIONEER |
 | EO-06 |  | RIX DELTA |
 | EO-12 |  | HEBO-P101 |
-| EO-15 |  | NOVA, X-PRESS GODAVARI |
+| EO-15 |  | X-PRESS GODAVARI |
 | JM-29 |  | LONGPEACE |
 | KR-25 |  | PATAGONIA |
-| KRS-03 | YES | GUADALUPE EXPLORER |
 | KRS-04 | YES | FRANCISCA |
 | KS-32 |  | AILA, SONDERBORG, X-PRESS GODAVARI |
 | KS-34 |  | JUDITH |
 | MKR-2 | YES | BALTICA HAV |
 | MKR-3 | YES | KATARIINA |
 | MKR-4 | YES | ARENT |
-| MKR-5 | YES | ASTRA, SUNMI |
+| MKR-5 | YES | ASTRA |
 | MKR-7 | YES | RIX DELTA |
 | MS-11 |  | FRANCISCA |
 | MS-13 |  | FRANCISCA |
-| PD-419 | YES | ASTRA, RIX DELTA, SUNMI |
+| PD-419 | YES | ASTRA, RIX DELTA |
 | PD-75 | YES | ESTLAND, FEMBRIA |
 | PD-791 | YES | BALTIC ERICA, HEBO-P101 |
 | PD-K4 | YES | ASTRA, DALSLAND |

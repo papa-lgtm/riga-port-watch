@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-31 11:45
+# Berth codes seen — 2026-10-31 17:45
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -8,6 +8,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | DG-20 |  | ESTLAND, FEMBRIA, KURLAND |
 | DG-55 |  | CELTIC PIONEER |
 | DG-55A |  | CELTIC PIONEER |
+| DG-56 |  | KLARIKA |
 | EO-06 |  | RIX DELTA |
 | EO-12 |  | HEBO-P101 |
 | EO-15 |  | X-PRESS GODAVARI |

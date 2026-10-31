@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-10-31 22:01
+# Berth codes seen — 2026-11-01 01:26
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -6,8 +6,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 |---|---|---|
 | DG-19 |  | FEMBRIA |
 | DG-20 |  | ESTLAND, FEMBRIA, KURLAND |
-| DG-55 |  | CELTIC PIONEER |
-| DG-55A |  | CELTIC PIONEER |
 | DG-56 |  | KLARIKA |
 | EO-06 |  | RIX DELTA |
 | EO-12 |  | HEBO-P101 |
@@ -21,6 +19,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | MKR-4 | YES | ARENT |
 | MKR-5 | YES | ASTRA |
 | MKR-7 | YES | RIX DELTA |
+| MS-10 |  | FULDATAL |
 | MS-11 |  | FRANCISCA |
 | MS-13 |  | FRANCISCA |
 | PD-419 | YES | ASTRA, RIX DELTA |
@@ -35,7 +34,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-6 | YES | BALTIC ERICA, FEGULUS, HEBO-P101, SELVAAGSUND |
 | RKR-7 | YES | ASTRA, KATI |
-| RKR-8 | YES | BALTICA HAV, CELTIC PIONEER |
+| RKR-8 | YES | BALTICA HAV |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | VM-4 | YES | ECO AVALON |
 | ZO-01 |  | AILA |

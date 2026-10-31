@@ -33,7 +33,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-10-31 04:28",
+  "last_seen": "2026-10-31 11:45",
   "status": "BERTHED"
  },
  "3034270": {
@@ -45,7 +45,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-10-31 04:28",
+  "last_seen": "2026-10-31 11:45",
   "status": "BERTHED"
  },
  "3032756": {
@@ -61,7 +61,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-10-31 04:28",
+  "last_seen": "2026-10-31 11:45",
   "status": "BERTHED"
  },
  "3046473": {
@@ -73,7 +73,7 @@
    "PD-K4",
    "RKR-4"
   ],
-  "last_seen": "2026-10-31 04:28",
+  "last_seen": "2026-10-31 11:45",
   "status": "BERTHED"
  },
  "3046471": {
@@ -135,7 +135,7 @@
    "DG-20",
    "PD-75"
   ],
-  "last_seen": "2026-10-31 04:28",
+  "last_seen": "2026-10-31 11:45",
   "status": "BERTHED"
  },
  "3046630": {
@@ -147,7 +147,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-10-31 04:28",
+  "last_seen": "2026-10-31 11:45",
   "status": "BERTHED"
  },
  "3046615": {
@@ -195,17 +195,6 @@
   "last_seen": "2026-10-18 09:00",
   "status": "MOVING"
  },
- "3046664": {
-  "name": "KLARIKA",
-  "imo": "9342164",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "DG-56"
-  ],
-  "last_seen": "2026-10-17 08:39",
-  "status": "BERTHED"
- },
  "3046659": {
   "name": "RIX DELTA",
   "imo": "9195767",
@@ -216,7 +205,7 @@
    "MKR-7",
    "PD-419"
   ],
-  "last_seen": "2026-10-31 04:28",
+  "last_seen": "2026-10-31 11:45",
   "status": "BERTHED"
  },
  "3046644": {
@@ -230,17 +219,6 @@
   ],
   "last_seen": "2026-10-17 13:53",
   "status": "MOVING"
- },
- "3046662": {
-  "name": "LINK POLARIS",
-  "imo": "7915541",
-  "flagged_repair": true,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "RKR-8"
-  ],
-  "last_seen": "2026-10-17 08:39",
-  "status": "BERTHED"
  },
  "3046650": {
   "name": "LUNAMAR",
@@ -514,8 +492,8 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-10-31 04:28",
-  "status": "BERTHED"
+  "last_seen": "2026-10-31 11:45",
+  "status": "MOVING"
  },
  "3046686": {
   "name": "DANITA",
@@ -632,11 +610,11 @@
   "name": "KURLAND",
   "imo": "9226803",
   "flagged_repair": false,
-  "flagged_long_stay": false,
+  "flagged_long_stay": true,
   "berths_seen": [
    "DG-20"
   ],
-  "last_seen": "2026-10-31 04:28",
+  "last_seen": "2026-10-31 11:45",
   "status": "BERTHED"
  },
  "3046712": {
@@ -706,7 +684,7 @@
   "berths_seen": [
    "RKR-6"
   ],
-  "last_seen": "2026-10-31 04:28",
+  "last_seen": "2026-10-31 11:45",
   "status": "BERTHED"
  },
  "3046714": {
@@ -960,9 +938,10 @@
   "flagged_long_stay": false,
   "berths_seen": [
    "DG-20",
-   "PD-75"
+   "PD-75",
+   "ZO-07"
   ],
-  "last_seen": "2026-10-31 04:28",
+  "last_seen": "2026-10-31 11:45",
   "status": "BERTHED"
  },
  "3046751": {
@@ -984,7 +963,7 @@
   "berths_seen": [
    "KR-25"
   ],
-  "last_seen": "2026-10-31 04:28",
+  "last_seen": "2026-10-31 11:45",
   "status": "BERTHED"
  },
  "3046746": {
@@ -1053,7 +1032,7 @@
    "DG-55A",
    "RKR-8"
   ],
-  "last_seen": "2026-10-31 04:28",
+  "last_seen": "2026-10-31 11:45",
   "status": "BERTHED"
  },
  "3046761": {
@@ -1097,7 +1076,7 @@
   "berths_seen": [
    "RKR-7"
   ],
-  "last_seen": "2026-10-31 04:28",
+  "last_seen": "2026-10-31 11:45",
   "status": "BERTHED"
  },
  "3046769": {
@@ -1108,7 +1087,7 @@
   "berths_seen": [
    "PM-16"
   ],
-  "last_seen": "2026-10-31 04:28",
+  "last_seen": "2026-10-31 11:45",
   "status": "BERTHED"
  },
  "3046773": {
@@ -1121,7 +1100,40 @@
    "MS-11",
    "MS-13"
   ],
-  "last_seen": "2026-10-31 04:28",
+  "last_seen": "2026-10-31 11:45",
+  "status": "BERTHED"
+ },
+ "3046763": {
+  "name": "LANGENESS",
+  "imo": "9944778",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "ZO-01"
+  ],
+  "last_seen": "2026-10-31 11:45",
+  "status": "BERTHED"
+ },
+ "3046756": {
+  "name": "JUDITH",
+  "imo": "9359260",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KS-34"
+  ],
+  "last_seen": "2026-10-31 11:45",
+  "status": "BERTHED"
+ },
+ "3046774": {
+  "name": "LONGPEACE",
+  "imo": "1081013",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "JM-29"
+  ],
+  "last_seen": "2026-10-31 11:45",
   "status": "BERTHED"
  }
 }

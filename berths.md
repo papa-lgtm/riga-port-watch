@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-01 01:26
+# Berth codes seen — 2026-11-01 08:19
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -12,7 +12,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-15 |  | X-PRESS GODAVARI |
 | JM-29 |  | LONGPEACE |
 | KRS-04 | YES | FRANCISCA |
-| KS-32 |  | AILA, SONDERBORG, X-PRESS GODAVARI |
+| KS-32 |  | SONDERBORG, X-PRESS GODAVARI |
 | KS-34 |  | JUDITH |
 | MKR-2 | YES | BALTICA HAV |
 | MKR-3 | YES | KATARIINA |
@@ -37,7 +37,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-8 | YES | BALTICA HAV |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | VM-4 | YES | ECO AVALON |
-| ZO-01 |  | AILA |
 | ZO-02 |  | LAUNKALNE, OCEAN CARRIER |
 | ZO-03 |  | SONORO |
 | ZO-07 |  | ESTLAND |

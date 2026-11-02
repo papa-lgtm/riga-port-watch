@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-02 01:40
+# Berth codes seen — 2026-11-02 08:20
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -26,7 +26,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | MS-13 |  | FRANCISCA |
 | PD-419 | YES | ASTRA, RIX DELTA |
 | PD-75 | YES | FEMBRIA |
-| PD-791 | YES | BALTIC ERICA, HEBO-P101 |
+| PD-791 | YES | BALTIC ERICA, FEGULUS, HEBO-P101 |
 | PD-K4 | YES | ASTRA, DALSLAND |
 | PD-MTW | YES | ARENT |
 | PM-16 |  | FEMBRIA |

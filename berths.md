@@ -1,11 +1,10 @@
-# Berth codes seen — 2026-11-02 19:10
+# Berth codes seen — 2026-11-03 01:54
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
 | Berth | Treated as repair | Vessels seen there |
 |---|---|---|
-| DG-19 |  | FEMBRIA |
-| DG-20 |  | FEMBRIA, KURLAND |
+| DG-20 |  | KURLAND |
 | DG-56 |  | KLARIKA |
 | EO-06 |  | RIX DELTA |
 | EO-12 |  | HEBO-P101 |
@@ -14,23 +13,17 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KR-21 |  | KARMEL |
 | KR-25 |  | ALPHA LEGEND |
 | KRS-01 | YES | LONGEON |
-| KRS-04 | YES | FRANCISCA |
-| KS-32 |  | ENCOUNTER, SONDERBORG, X-PRESS GODAVARI |
+| KS-32 |  | ENCOUNTER, X-PRESS GODAVARI |
 | KS-34 |  | MSC SHANNON III |
 | MKR-1 | YES | TARZAN |
 | MKR-3 | YES | KATARIINA |
 | MKR-4 | YES | ARENT |
 | MKR-5 | YES | ASTRA |
 | MKR-7 | YES | RIX DELTA |
-| MS-10 |  | FULDATAL |
-| MS-11 |  | FRANCISCA |
-| MS-13 |  | FRANCISCA |
 | PD-419 | YES | ASTRA, RIX DELTA |
-| PD-75 | YES | FEMBRIA |
 | PD-791 | YES | BALTIC ERICA, FEGULUS, HEBO-P101 |
 | PD-K4 | YES | ASTRA, DALSLAND |
 | PD-MTW | YES | ARENT |
-| PM-16 |  | FEMBRIA |
 | PM-17 |  | KATARIINA |
 | RD-1 |  | BALSARE 2 |
 | RD-2 |  | KAISA |
@@ -41,5 +34,5 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | VM-4 | YES | ECO AVALON, KARMEL |
 | ZO-01 |  | CMA CGM MERMAID, ELBOCEAN, ENCOUNTER |
-| ZO-02 |  | OCEAN CARRIER |
+| ZO-02 |  | ADAMAS, OCEAN CARRIER |
 | ZO-07 |  | LADY HANNAH |

@@ -1,11 +1,11 @@
-# Berth codes seen — 2026-11-03 01:54
+# Berth codes seen — 2026-11-03 08:56
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
 | Berth | Treated as repair | Vessels seen there |
 |---|---|---|
 | DG-20 |  | KURLAND |
-| DG-56 |  | KLARIKA |
+| DG-55 |  | BALTIC MADONNA |
 | EO-06 |  | RIX DELTA |
 | EO-12 |  | HEBO-P101 |
 | EO-15 |  | X-PRESS GODAVARI |
@@ -30,7 +30,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RD-3 |  | TARZAN |
 | RKR-4 | YES | ASTRA, DALSLAND, POSEIDON I |
 | RKR-6 | YES | BALTIC ERICA, FEGULUS, HEBO-P101, SELVAAGSUND |
-| RKR-7 | YES | ASTRA, KATI |
+| RKR-7 | YES | ASTRA |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | VM-4 | YES | ECO AVALON, KARMEL |
 | ZO-01 |  | CMA CGM MERMAID, ELBOCEAN, ENCOUNTER |

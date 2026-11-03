@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-03 17:16
+# Berth codes seen — 2026-11-03 23:07
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -15,7 +15,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KR-21 |  | KARMEL, LADY HARRIET |
 | KR-25 |  | ALPHA LEGEND |
 | KS-32 |  | ENCOUNTER, SONDERBORG, X-PRESS GODAVARI |
-| KS-34 |  | MSC SHANNON III |
 | MKR-1 | YES | TARZAN |
 | MKR-3 | YES | KATARIINA |
 | MKR-4 | YES | ARENT |
@@ -34,9 +33,9 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-6 | YES | BALTIC ERICA, FEGULUS, HEBO-P101, SELVAAGSUND |
 | RKR-7 | YES | ASTRA |
 | RKR-9 | YES | ASTRA, POSEIDON I |
+| SD-5 |  | LUNNI |
 | VM-4 | YES | KARMEL |
 | ZO-01 |  | CMA CGM MERMAID, ELBOCEAN, ENCOUNTER |
 | ZO-02 |  | ADAMAS |
 | ZO-04 |  | ADRIATA |
 | ZO-07 |  | LADY HANNAH |
-| ZO-18 |  | LUNNI |

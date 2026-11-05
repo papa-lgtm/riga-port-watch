@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-05 08:57
+# Berth codes seen — 2026-11-05 17:34
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -10,33 +10,36 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | DG-56 |  | KOLLAND |
 | EO-06 |  | RIX DELTA |
 | EO-12 |  | HEBO-P101 |
-| EO-15 |  | RAGNA |
-| JM-22 |  | NAVITA |
+| JM-22 |  | KURLAND, NAVITA, VINDOE |
 | JM-23 |  | BALTIC EXPRESS |
 | JM-29 |  | HELGA |
 | KR-21 |  | AMBER STAR |
 | KR-25 |  | ALPHA LEGEND |
 | KRS-01 | YES | ULVIK |
+| KRS-04 | YES | SEA DAWN |
 | KS-30 |  | ALPHA LEGEND |
 | KS-32 |  | ENCOUNTER, EXPERT, SONDERBORG |
-| KS-34 |  | ENCOUNTER |
-| MKR-1 | YES | JOMI |
-| MKR-3 | YES | KATARIINA |
+| KS-34 |  | ENCOUNTER, MSC ASLI II |
+| MKR-1 | YES | JOMI, LOSONE TOPIC |
+| MKR-3 | YES | KARION |
 | MKR-4 | YES | ARENT |
 | MKR-5 | YES | ASTRA |
 | PD-419 | YES | ASTRA, RIX DELTA |
 | PD-791 | YES | BALTIC ERICA, FEGULUS, HEBO-P101 |
-| PD-K4 | YES | ASTRA |
+| PD-K4 | YES | ASTRA, SELVAAGSUND |
 | PD-MTW | YES | ARENT |
 | PM-16 |  | ADRIATA |
-| PM-17 |  | KATARIINA |
-| RD-1 |  | BALSARE 2 |
+| RD-1 |  | BALSARE 2, KAISA |
 | RD-2 |  | KAISA |
 | RKR-4 | YES | ASTRA, POSEIDON I |
 | RKR-6 | YES | BALTIC ERICA, FEGULUS, HEBO-P101, SELVAAGSUND |
 | RKR-7 | YES | ASTRA |
 | RKR-8 | YES | CELTIC RAIDER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
+| SD-3 |  | KETTER |
 | SD-4 |  | BALTIC EXPRESS, HUMBER SPRINTER |
+| VM-4 | YES | LOSONE TOPIC |
 | ZO-01 |  | CMA CGM MERMAID, ENCOUNTER, EXPERT |
 | ZO-04 |  | ADRIATA |
+| ZO-05 |  | LAUNKALNE |
+| ZO-17 |  | ATLANTIS AUGUSTA |

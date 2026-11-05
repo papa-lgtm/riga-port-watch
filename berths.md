@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-05 17:34
+# Berth codes seen — 2026-11-06 00:04
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -18,7 +18,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-01 | YES | ULVIK |
 | KRS-04 | YES | SEA DAWN |
 | KS-30 |  | ALPHA LEGEND |
-| KS-32 |  | ENCOUNTER, EXPERT, SONDERBORG |
+| KS-32 |  | ANNABA, ENCOUNTER, SONDERBORG |
 | KS-34 |  | ENCOUNTER, MSC ASLI II |
 | MKR-1 | YES | JOMI, LOSONE TOPIC |
 | MKR-3 | YES | KARION |
@@ -28,8 +28,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-791 | YES | BALTIC ERICA, FEGULUS, HEBO-P101 |
 | PD-K4 | YES | ASTRA, SELVAAGSUND |
 | PD-MTW | YES | ARENT |
-| PM-16 |  | ADRIATA |
-| RD-1 |  | BALSARE 2, KAISA |
+| RD-1 |  | KAISA |
 | RD-2 |  | KAISA |
 | RKR-4 | YES | ASTRA, POSEIDON I |
 | RKR-6 | YES | BALTIC ERICA, FEGULUS, HEBO-P101, SELVAAGSUND |
@@ -39,7 +38,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | SD-3 |  | KETTER |
 | SD-4 |  | BALTIC EXPRESS, HUMBER SPRINTER |
 | VM-4 | YES | LOSONE TOPIC |
-| ZO-01 |  | CMA CGM MERMAID, ENCOUNTER, EXPERT |
-| ZO-04 |  | ADRIATA |
-| ZO-05 |  | LAUNKALNE |
+| ZO-01 |  | ANNABA, CMA CGM MERMAID, ENCOUNTER |
+| ZO-05 |  | LAUNKALNE, LONGEON |
+| ZO-07 |  | HAVELLAND |
 | ZO-17 |  | ATLANTIS AUGUSTA |

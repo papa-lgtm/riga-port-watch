@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-05 01:45
+# Berth codes seen — 2026-11-05 08:57
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -10,11 +10,11 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | DG-56 |  | KOLLAND |
 | EO-06 |  | RIX DELTA |
 | EO-12 |  | HEBO-P101 |
-| EO-15 |  | MIRROR, RAGNA |
+| EO-15 |  | RAGNA |
 | JM-22 |  | NAVITA |
 | JM-23 |  | BALTIC EXPRESS |
 | JM-29 |  | HELGA |
-| KR-21 |  | AMBER STAR, KARMEL |
+| KR-21 |  | AMBER STAR |
 | KR-25 |  | ALPHA LEGEND |
 | KRS-01 | YES | ULVIK |
 | KS-30 |  | ALPHA LEGEND |
@@ -24,7 +24,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | MKR-3 | YES | KATARIINA |
 | MKR-4 | YES | ARENT |
 | MKR-5 | YES | ASTRA |
-| MKR-7 | YES | RIX DELTA |
 | PD-419 | YES | ASTRA, RIX DELTA |
 | PD-791 | YES | BALTIC ERICA, FEGULUS, HEBO-P101 |
 | PD-K4 | YES | ASTRA |
@@ -39,8 +38,5 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-8 | YES | CELTIC RAIDER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-4 |  | BALTIC EXPRESS, HUMBER SPRINTER |
-| SD-5 |  | LUNNI |
-| VM-4 | YES | KARMEL |
 | ZO-01 |  | CMA CGM MERMAID, ENCOUNTER, EXPERT |
 | ZO-04 |  | ADRIATA |
-| ZO-18 |  | LUNNI |

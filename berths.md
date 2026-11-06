@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-06 04:32
+# Berth codes seen — 2026-11-06 13:04
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -11,7 +11,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-06 |  | RIX DELTA |
 | EO-12 |  | HEBO-P101 |
 | JM-22 |  | KURLAND, NAVITA, VINDOE |
-| JM-23 |  | BALTIC EXPRESS |
 | JM-29 |  | HELGA |
 | KR-21 |  | AMBER STAR |
 | KR-25 |  | ALPHA LEGEND |
@@ -35,7 +34,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-8 | YES | CELTIC RAIDER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-3 |  | KETTER |
-| SD-4 |  | BALTIC EXPRESS, HUMBER SPRINTER |
+| SD-4 |  | HUMBER SPRINTER |
 | VM-4 | YES | LOSONE TOPIC |
 | ZO-01 |  | ANNABA, CMA CGM MERMAID, ENCOUNTER |
 | ZO-05 |  | LAUNKALNE, LONGEON |

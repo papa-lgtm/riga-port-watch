@@ -1,31 +1,35 @@
-# Berth codes seen — 2026-11-06 13:04
+# Berth codes seen — 2026-11-06 20:03
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
 | Berth | Treated as repair | Vessels seen there |
 |---|---|---|
+| DG-01 |  | KARITA |
 | DG-19 |  | SAAREMAA |
-| DG-20 |  | KURLAND |
 | DG-55 |  | CELTIC RAIDER |
 | DG-56 |  | KOLLAND |
 | EO-06 |  | RIX DELTA |
 | EO-12 |  | HEBO-P101 |
-| JM-22 |  | KURLAND, NAVITA, VINDOE |
+| EO-14 |  | STELLAR ALAZANI |
+| EO-15 |  | RAGNA |
+| JM-22 |  | NAVITA, VINDOE |
 | JM-29 |  | HELGA |
 | KR-21 |  | AMBER STAR |
 | KR-25 |  | ALPHA LEGEND |
 | KRS-04 | YES | SEA DAWN |
-| KS-30 |  | ALPHA LEGEND |
+| KS-30 |  | ALPHA LEGEND, HERAKLITOS |
 | KS-32 |  | ANNABA, ENCOUNTER, SONDERBORG |
 | KS-34 |  | ENCOUNTER, MSC ASLI II |
 | MKR-1 | YES | JOMI, LOSONE TOPIC |
 | MKR-3 | YES | KARION |
 | MKR-4 | YES | ARENT |
 | MKR-5 | YES | ASTRA |
+| MS-2 |  | HERAKLITOS |
 | PD-419 | YES | ASTRA, RIX DELTA |
 | PD-791 | YES | BALTIC ERICA, FEGULUS, HEBO-P101 |
 | PD-K4 | YES | ASTRA, SELVAAGSUND |
 | PD-MTW | YES | ARENT |
+| PM-16 |  | LADY MENNA |
 | RD-1 |  | KAISA |
 | RD-2 |  | KAISA |
 | RKR-4 | YES | ASTRA, POSEIDON I |
@@ -33,10 +37,11 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-7 | YES | ASTRA |
 | RKR-8 | YES | CELTIC RAIDER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
-| SD-3 |  | KETTER |
+| SD-3 |  | BALTIC GERMANY, KETTER |
 | SD-4 |  | HUMBER SPRINTER |
 | VM-4 | YES | LOSONE TOPIC |
-| ZO-01 |  | ANNABA, CMA CGM MERMAID, ENCOUNTER |
+| ZO-01 |  | ANNABA, CMA CGM MERMAID, ENCOUNTER, RAGNA |
+| ZO-02 |  | LAUNKALNE |
 | ZO-05 |  | LAUNKALNE, LONGEON |
 | ZO-07 |  | HAVELLAND |
 | ZO-17 |  | ATLANTIS AUGUSTA |

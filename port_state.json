@@ -22,7 +22,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-06 13:04",
+  "last_seen": "2026-11-06 20:03",
   "status": "BERTHED"
  },
  "3034270": {
@@ -34,7 +34,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-11-06 13:04",
+  "last_seen": "2026-11-06 20:03",
   "status": "BERTHED"
  },
  "3032756": {
@@ -50,7 +50,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-11-06 13:04",
+  "last_seen": "2026-11-06 20:03",
   "status": "BERTHED"
  },
  "3046473": {
@@ -112,7 +112,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-11-06 13:04",
+  "last_seen": "2026-11-06 20:03",
   "status": "BERTHED"
  },
  "3046659": {
@@ -125,7 +125,7 @@
    "MKR-7",
    "PD-419"
   ],
-  "last_seen": "2026-11-06 13:04",
+  "last_seen": "2026-11-06 20:03",
   "status": "BERTHED"
  },
  "3046675": {
@@ -160,7 +160,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-06 13:04",
+  "last_seen": "2026-11-06 20:03",
   "status": "BERTHED"
  },
  "3046702": {
@@ -218,7 +218,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-06 13:04",
+  "last_seen": "2026-11-06 20:03",
   "status": "BERTHED"
  },
  "3046714": {
@@ -849,7 +849,7 @@
    "PD-K4",
    "RKR-6"
   ],
-  "last_seen": "2026-11-06 13:04",
+  "last_seen": "2026-11-06 20:03",
   "status": "BERTHED"
  },
  "3046790": {
@@ -974,7 +974,7 @@
    "KR-25",
    "KS-30"
   ],
-  "last_seen": "2026-11-06 13:04",
+  "last_seen": "2026-11-06 20:03",
   "status": "BERTHED"
  },
  "3046799": {
@@ -1055,7 +1055,7 @@
    "DG-55",
    "RKR-8"
   ],
-  "last_seen": "2026-11-06 13:04",
+  "last_seen": "2026-11-06 20:03",
   "status": "BERTHED"
  },
  "3046803": {
@@ -1066,7 +1066,7 @@
   "berths_seen": [
    "JM-29"
   ],
-  "last_seen": "2026-11-06 13:04",
+  "last_seen": "2026-11-06 20:03",
   "status": "BERTHED"
  },
  "3046796": {
@@ -1078,7 +1078,7 @@
    "RD-1",
    "RD-2"
   ],
-  "last_seen": "2026-11-06 13:04",
+  "last_seen": "2026-11-06 20:03",
   "status": "BERTHED"
  },
  "3046792": {
@@ -1090,7 +1090,7 @@
    "KS-32",
    "ZO-01"
   ],
-  "last_seen": "2026-11-06 13:04",
+  "last_seen": "2026-11-06 20:03",
   "status": "BERTHED"
  },
  "3046811": {
@@ -1101,7 +1101,7 @@
   "berths_seen": [
    "DG-19"
   ],
-  "last_seen": "2026-11-06 13:04",
+  "last_seen": "2026-11-06 20:03",
   "status": "BERTHED"
  },
  "3046789": {
@@ -1114,7 +1114,7 @@
    "KS-34",
    "ZO-01"
   ],
-  "last_seen": "2026-11-06 13:04",
+  "last_seen": "2026-11-06 20:03",
   "status": "BERTHED"
  },
  "3046810": {
@@ -1125,7 +1125,53 @@
   "berths_seen": [
    "KR-21"
   ],
-  "last_seen": "2026-11-06 13:04",
+  "last_seen": "2026-11-06 20:03",
+  "status": "BERTHED"
+ },
+ "3046788": {
+  "name": "CMA CGM MERMAID",
+  "imo": "9961283",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "ZO-01"
+  ],
+  "last_seen": "2026-11-06 20:03",
+  "status": "BERTHED"
+ },
+ "3046817": {
+  "name": "LOSONE TOPIC",
+  "imo": "9736066",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "MKR-1",
+   "VM-4"
+  ],
+  "last_seen": "2026-11-06 20:03",
+  "status": "BERTHED"
+ },
+ "3046809": {
+  "name": "NAVITA",
+  "imo": "8324737",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "JM-22"
+  ],
+  "last_seen": "2026-11-06 20:03",
+  "status": "BERTHED"
+ },
+ "3046820": {
+  "name": "LAUNKALNE",
+  "imo": "9504114",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "ZO-02",
+   "ZO-05"
+  ],
+  "last_seen": "2026-11-06 20:03",
   "status": "BERTHED"
  }
 }

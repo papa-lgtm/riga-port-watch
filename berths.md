@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-06 00:04
+# Berth codes seen — 2026-11-06 04:32
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -15,7 +15,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | JM-29 |  | HELGA |
 | KR-21 |  | AMBER STAR |
 | KR-25 |  | ALPHA LEGEND |
-| KRS-01 | YES | ULVIK |
 | KRS-04 | YES | SEA DAWN |
 | KS-30 |  | ALPHA LEGEND |
 | KS-32 |  | ANNABA, ENCOUNTER, SONDERBORG |

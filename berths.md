@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-07 18:52
+# Berth codes seen — 2026-11-07 22:56
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -8,16 +8,17 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | DG-19 |  | SAAREMAA |
 | DG-55 |  | CELTIC RAIDER |
 | DG-56 |  | KAISA |
-| EO-06 |  | RIX DELTA |
+| EO-06 |  | ANNABA, RIX DELTA |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | STELLAR ALAZANI |
 | EO-15 |  | RAGNA |
 | JM-22 |  | VINDOE |
 | KR-25 |  | ALPHA LEGEND |
+| KRS-03 | YES | MFM NICOLE |
 | KRS-04 | YES | SEA DAWN |
 | KS-30 |  | ALPHA LEGEND, HERAKLITOS |
-| KS-32 |  | ANNABA, ENCOUNTER, SONDERBORG |
-| KS-34 |  | ENCOUNTER, MSC ASLI II |
+| KS-32 |  | ANNABA, SONDERBORG |
+| KS-34 |  | MSC ASLI II |
 | MKR-1 | YES | JOMI, LOSONE TOPIC |
 | MKR-3 | YES | KARION |
 | MKR-4 | YES | ARENT |
@@ -38,9 +39,8 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | SD-3 |  | BALTIC GERMANY |
 | SD-4 |  | HUMBER SPRINTER |
 | VM-4 | YES | LOSONE TOPIC |
-| ZO-01 |  | ANNABA, ENCOUNTER, RAGNA |
-| ZO-02 |  | LAUNKALNE |
-| ZO-05 |  | LAUNKALNE, LONGEON |
+| ZO-01 |  | ANNABA, RAGNA |
+| ZO-05 |  | LONGEON |
 | ZO-07 |  | HAVELLAND |
 | ZO-12 |  | BALTIC TRANSPORT |
 | ZO-17 |  | ATLANTIS AUGUSTA |

@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-07 12:23
+# Berth codes seen — 2026-11-07 18:52
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -12,8 +12,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | STELLAR ALAZANI |
 | EO-15 |  | RAGNA |
-| JM-22 |  | NAVITA, VINDOE |
-| KR-21 |  | AMBER STAR |
+| JM-22 |  | VINDOE |
 | KR-25 |  | ALPHA LEGEND |
 | KRS-04 | YES | SEA DAWN |
 | KS-30 |  | ALPHA LEGEND, HERAKLITOS |
@@ -36,7 +35,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-7 | YES | ASTRA |
 | RKR-8 | YES | CELTIC RAIDER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
-| SD-3 |  | BALTIC GERMANY, KETTER |
+| SD-3 |  | BALTIC GERMANY |
 | SD-4 |  | HUMBER SPRINTER |
 | VM-4 | YES | LOSONE TOPIC |
 | ZO-01 |  | ANNABA, ENCOUNTER, RAGNA |

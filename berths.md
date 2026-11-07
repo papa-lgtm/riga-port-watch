@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-07 04:54
+# Berth codes seen — 2026-11-07 12:23
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -7,13 +7,12 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | DG-01 |  | KARITA |
 | DG-19 |  | SAAREMAA |
 | DG-55 |  | CELTIC RAIDER |
-| DG-56 |  | KOLLAND |
+| DG-56 |  | KAISA |
 | EO-06 |  | RIX DELTA |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | STELLAR ALAZANI |
 | EO-15 |  | RAGNA |
 | JM-22 |  | NAVITA, VINDOE |
-| JM-29 |  | HELGA |
 | KR-21 |  | AMBER STAR |
 | KR-25 |  | ALPHA LEGEND |
 | KRS-04 | YES | SEA DAWN |
@@ -23,7 +22,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | MKR-1 | YES | JOMI, LOSONE TOPIC |
 | MKR-3 | YES | KARION |
 | MKR-4 | YES | ARENT |
-| MKR-5 | YES | ASTRA |
+| MKR-5 | YES | ASTRA, RIX DELTA |
 | MS-2 |  | HERAKLITOS |
 | PD-419 | YES | ASTRA, RIX DELTA |
 | PD-791 | YES | BALTIC ERICA, FEGULUS, HEBO-P101 |
@@ -40,8 +39,9 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | SD-3 |  | BALTIC GERMANY, KETTER |
 | SD-4 |  | HUMBER SPRINTER |
 | VM-4 | YES | LOSONE TOPIC |
-| ZO-01 |  | ANNABA, CMA CGM MERMAID, ENCOUNTER, RAGNA |
+| ZO-01 |  | ANNABA, ENCOUNTER, RAGNA |
 | ZO-02 |  | LAUNKALNE |
 | ZO-05 |  | LAUNKALNE, LONGEON |
 | ZO-07 |  | HAVELLAND |
+| ZO-12 |  | BALTIC TRANSPORT |
 | ZO-17 |  | ATLANTIS AUGUSTA |

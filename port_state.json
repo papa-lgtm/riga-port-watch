@@ -22,7 +22,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-08 09:27",
+  "last_seen": "2026-11-08 17:19",
   "status": "BERTHED"
  },
  "3034270": {
@@ -34,7 +34,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-11-08 09:27",
+  "last_seen": "2026-11-08 17:19",
   "status": "BERTHED"
  },
  "3032756": {
@@ -50,7 +50,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-11-08 09:27",
+  "last_seen": "2026-11-08 17:19",
   "status": "BERTHED"
  },
  "3046473": {
@@ -112,7 +112,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-11-08 09:27",
+  "last_seen": "2026-11-08 17:19",
   "status": "BERTHED"
  },
  "3046659": {
@@ -126,7 +126,7 @@
    "MKR-7",
    "PD-419"
   ],
-  "last_seen": "2026-11-08 09:27",
+  "last_seen": "2026-11-08 17:19",
   "status": "BERTHED"
  },
  "3046675": {
@@ -161,7 +161,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-08 09:27",
+  "last_seen": "2026-11-08 17:19",
   "status": "BERTHED"
  },
  "3046702": {
@@ -219,7 +219,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-08 09:27",
+  "last_seen": "2026-11-08 17:19",
   "status": "BERTHED"
  },
  "3046714": {
@@ -850,7 +850,7 @@
    "PD-K4",
    "RKR-6"
   ],
-  "last_seen": "2026-11-08 09:27",
+  "last_seen": "2026-11-08 17:19",
   "status": "BERTHED"
  },
  "3046790": {
@@ -975,7 +975,7 @@
    "KR-25",
    "KS-30"
   ],
-  "last_seen": "2026-11-08 09:27",
+  "last_seen": "2026-11-08 17:19",
   "status": "BERTHED"
  },
  "3046799": {
@@ -1080,7 +1080,7 @@
    "RD-1",
    "RD-2"
   ],
-  "last_seen": "2026-11-08 09:27",
+  "last_seen": "2026-11-08 17:19",
   "status": "BERTHED"
  },
  "3046792": {
@@ -1093,7 +1093,7 @@
    "KS-32",
    "ZO-01"
   ],
-  "last_seen": "2026-11-08 09:27",
+  "last_seen": "2026-11-08 17:19",
   "status": "BERTHED"
  },
  "3046811": {
@@ -1104,7 +1104,7 @@
   "berths_seen": [
    "DG-19"
   ],
-  "last_seen": "2026-11-08 09:27",
+  "last_seen": "2026-11-08 17:19",
   "status": "BERTHED"
  },
  "3046789": {
@@ -1151,7 +1151,7 @@
    "MKR-1",
    "VM-4"
   ],
-  "last_seen": "2026-11-08 09:27",
+  "last_seen": "2026-11-08 17:19",
   "status": "BERTHED"
  },
  "3046809": {
@@ -1207,7 +1207,7 @@
   "berths_seen": [
    "PM-16"
   ],
-  "last_seen": "2026-11-08 09:27",
+  "last_seen": "2026-11-08 17:19",
   "status": "BERTHED"
  },
  "3046829": {
@@ -1218,7 +1218,7 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-11-08 09:27",
+  "last_seen": "2026-11-08 17:19",
   "status": "BERTHED"
  },
  "3046819": {
@@ -1229,7 +1229,7 @@
   "berths_seen": [
    "KS-34"
   ],
-  "last_seen": "2026-11-08 09:27",
+  "last_seen": "2026-11-08 17:19",
   "status": "BERTHED"
  },
  "3046824": {
@@ -1240,7 +1240,7 @@
   "berths_seen": [
    "ZO-05"
   ],
-  "last_seen": "2026-11-08 09:27",
+  "last_seen": "2026-11-08 17:19",
   "status": "BERTHED"
  },
  "3046828": {
@@ -1251,7 +1251,7 @@
   "berths_seen": [
    "DG-01"
   ],
-  "last_seen": "2026-11-08 09:27",
+  "last_seen": "2026-11-08 17:19",
   "status": "BERTHED"
  },
  "3046827": {
@@ -1262,18 +1262,19 @@
   "berths_seen": [
    "SD-3"
   ],
-  "last_seen": "2026-11-08 09:27",
+  "last_seen": "2026-11-08 17:19",
   "status": "BERTHED"
  },
  "3046812": {
   "name": "HUMBER SPRINTER",
   "imo": "9467172",
-  "flagged_repair": false,
+  "flagged_repair": true,
   "flagged_long_stay": false,
   "berths_seen": [
+   "RKR-8",
    "SD-4"
   ],
-  "last_seen": "2026-11-08 09:27",
+  "last_seen": "2026-11-08 17:19",
   "status": "BERTHED"
  },
  "3046822": {
@@ -1284,7 +1285,30 @@
   "berths_seen": [
    "MKR-3"
   ],
-  "last_seen": "2026-11-08 09:27",
+  "last_seen": "2026-11-08 17:19",
+  "status": "BERTHED"
+ },
+ "3046823": {
+  "name": "VINDOE",
+  "imo": "9376775",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "JM-22"
+  ],
+  "last_seen": "2026-11-08 17:19",
+  "status": "BERTHED"
+ },
+ "3046830": {
+  "name": "RAGNA",
+  "imo": "9173329",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "EO-15",
+   "ZO-01"
+  ],
+  "last_seen": "2026-11-08 17:19",
   "status": "BERTHED"
  }
 }

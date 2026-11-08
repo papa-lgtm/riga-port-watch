@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-08 09:27
+# Berth codes seen — 2026-11-08 17:19
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -28,10 +28,13 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-K4 | YES | ASTRA, SELVAAGSUND |
 | PD-MTW | YES | ARENT |
 | PM-16 |  | LADY MENNA |
+| PM-17 |  | REVALA |
 | RD-2 |  | KAISA |
+| RD-3 |  | HUMBER RUNNER |
 | RKR-4 | YES | ASTRA, POSEIDON I |
 | RKR-6 | YES | BALTIC ERICA, FEGULUS, HEBO-P101, SELVAAGSUND |
 | RKR-7 | YES | ASTRA |
+| RKR-8 | YES | HUMBER SPRINTER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-3 |  | BALTIC GERMANY |
 | SD-4 |  | HUMBER SPRINTER |
@@ -40,3 +43,4 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | ZO-05 |  | LONGEON |
 | ZO-12 |  | BALTIC TRANSPORT |
 | ZO-17 |  | ATLANTIS AUGUSTA |
+| ZO-18 |  | TERN LAND |

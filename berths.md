@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-08 17:19
+# Berth codes seen — 2026-11-08 22:32
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -20,14 +20,13 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KS-34 |  | MSC ASLI II |
 | MKR-1 | YES | JOMI, LOSONE TOPIC |
 | MKR-3 | YES | KARION |
-| MKR-4 | YES | ARENT |
+| MKR-4 | YES | ARENT, BERING |
 | MKR-5 | YES | ASTRA, RIX DELTA |
-| MS-2 |  | HERAKLITOS |
+| MS-2 |  | DENIZ M, HERAKLITOS |
 | PD-419 | YES | ASTRA, RIX DELTA |
 | PD-791 | YES | BALTIC ERICA, FEGULUS, HEBO-P101 |
 | PD-K4 | YES | ASTRA, SELVAAGSUND |
 | PD-MTW | YES | ARENT |
-| PM-16 |  | LADY MENNA |
 | PM-17 |  | REVALA |
 | RD-2 |  | KAISA |
 | RD-3 |  | HUMBER RUNNER |
@@ -40,7 +39,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | SD-4 |  | HUMBER SPRINTER |
 | VM-4 | YES | LOSONE TOPIC |
 | ZO-01 |  | ANNABA, RAGNA |
-| ZO-05 |  | LONGEON |
 | ZO-12 |  | BALTIC TRANSPORT |
 | ZO-17 |  | ATLANTIS AUGUSTA |
 | ZO-18 |  | TERN LAND |

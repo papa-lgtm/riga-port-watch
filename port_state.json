@@ -22,7 +22,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-09 02:58",
+  "last_seen": "2026-11-09 10:03",
   "status": "BERTHED"
  },
  "3034270": {
@@ -34,7 +34,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-11-09 02:58",
+  "last_seen": "2026-11-09 10:03",
   "status": "BERTHED"
  },
  "3032756": {
@@ -50,7 +50,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-11-09 02:58",
+  "last_seen": "2026-11-09 10:03",
   "status": "BERTHED"
  },
  "3046473": {
@@ -112,7 +112,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-11-09 02:58",
+  "last_seen": "2026-11-09 10:03",
   "status": "BERTHED"
  },
  "3046659": {
@@ -126,7 +126,7 @@
    "MKR-7",
    "PD-419"
   ],
-  "last_seen": "2026-11-09 02:58",
+  "last_seen": "2026-11-09 10:03",
   "status": "BERTHED"
  },
  "3046675": {
@@ -161,7 +161,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-09 02:58",
+  "last_seen": "2026-11-09 10:03",
   "status": "BERTHED"
  },
  "3046702": {
@@ -219,7 +219,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-09 02:58",
+  "last_seen": "2026-11-09 10:03",
   "status": "BERTHED"
  },
  "3046714": {
@@ -281,17 +281,6 @@
    "SD-4"
   ],
   "last_seen": "2026-10-27 02:32",
-  "status": "BERTHED"
- },
- "3046740": {
-  "name": "MSC YOSHEEN",
-  "imo": "9322011",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KS-34"
-  ],
-  "last_seen": "2026-10-26 09:18",
   "status": "BERTHED"
  },
  "3046721": {
@@ -850,7 +839,7 @@
    "PD-K4",
    "RKR-6"
   ],
-  "last_seen": "2026-11-09 02:58",
+  "last_seen": "2026-11-09 10:03",
   "status": "BERTHED"
  },
  "3046790": {
@@ -975,7 +964,7 @@
    "KR-25",
    "KS-30"
   ],
-  "last_seen": "2026-11-09 02:58",
+  "last_seen": "2026-11-09 10:03",
   "status": "BERTHED"
  },
  "3046799": {
@@ -1080,7 +1069,7 @@
    "RD-1",
    "RD-2"
   ],
-  "last_seen": "2026-11-09 02:58",
+  "last_seen": "2026-11-09 10:03",
   "status": "BERTHED"
  },
  "3046792": {
@@ -1093,7 +1082,7 @@
    "KS-32",
    "ZO-01"
   ],
-  "last_seen": "2026-11-09 02:58",
+  "last_seen": "2026-11-09 10:03",
   "status": "BERTHED"
  },
  "3046811": {
@@ -1104,7 +1093,7 @@
   "berths_seen": [
    "DG-19"
   ],
-  "last_seen": "2026-11-09 02:58",
+  "last_seen": "2026-11-09 10:03",
   "status": "BERTHED"
  },
  "3046789": {
@@ -1151,7 +1140,7 @@
    "MKR-1",
    "VM-4"
   ],
-  "last_seen": "2026-11-09 02:58",
+  "last_seen": "2026-11-09 10:03",
   "status": "BERTHED"
  },
  "3046809": {
@@ -1218,7 +1207,7 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-11-09 02:58",
+  "last_seen": "2026-11-09 10:03",
   "status": "BERTHED"
  },
  "3046819": {
@@ -1251,7 +1240,7 @@
   "berths_seen": [
    "DG-01"
   ],
-  "last_seen": "2026-11-09 02:58",
+  "last_seen": "2026-11-09 10:03",
   "status": "BERTHED"
  },
  "3046827": {
@@ -1262,7 +1251,7 @@
   "berths_seen": [
    "SD-3"
   ],
-  "last_seen": "2026-11-09 02:58",
+  "last_seen": "2026-11-09 10:03",
   "status": "BERTHED"
  },
  "3046812": {
@@ -1271,10 +1260,11 @@
   "flagged_repair": true,
   "flagged_long_stay": false,
   "berths_seen": [
+   "KRS-01",
    "RKR-8",
    "SD-4"
   ],
-  "last_seen": "2026-11-09 02:58",
+  "last_seen": "2026-11-09 10:03",
   "status": "BERTHED"
  },
  "3046822": {
@@ -1285,7 +1275,7 @@
   "berths_seen": [
    "MKR-3"
   ],
-  "last_seen": "2026-11-09 02:58",
+  "last_seen": "2026-11-09 10:03",
   "status": "BERTHED"
  },
  "3046823": {
@@ -1319,7 +1309,7 @@
   "berths_seen": [
    "ZO-18"
   ],
-  "last_seen": "2026-11-09 02:58",
+  "last_seen": "2026-11-09 10:03",
   "status": "BERTHED"
  },
  "3046833": {
@@ -1330,7 +1320,40 @@
   "berths_seen": [
    "KRS-03"
   ],
-  "last_seen": "2026-11-09 02:58",
+  "last_seen": "2026-11-09 10:03",
+  "status": "BERTHED"
+ },
+ "3046840": {
+  "name": "BERING",
+  "imo": "9213595",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "MKR-4"
+  ],
+  "last_seen": "2026-11-09 10:03",
+  "status": "BERTHED"
+ },
+ "3046802": {
+  "name": "SONDERBORG",
+  "imo": "9454242",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KS-32"
+  ],
+  "last_seen": "2026-11-09 10:03",
+  "status": "BERTHED"
+ },
+ "3046832": {
+  "name": "BALTIC TRANSPORT",
+  "imo": "9864760",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "ZO-12"
+  ],
+  "last_seen": "2026-11-09 10:03",
   "status": "BERTHED"
  }
 }

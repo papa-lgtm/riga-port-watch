@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-09 02:58
+# Berth codes seen — 2026-11-09 10:03
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -10,13 +10,13 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-06 |  | ANNABA, RIX DELTA |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | STELLAR ALAZANI |
-| JM-22 |  | VINDOE |
+| EO-15 |  | X-PRESS AGILITY |
 | KR-25 |  | ALPHA LEGEND |
+| KRS-01 | YES | HUMBER SPRINTER |
 | KRS-03 | YES | MFM NICOLE |
 | KRS-04 | YES | SEA DAWN |
 | KS-30 |  | ALPHA LEGEND, HERAKLITOS |
-| KS-32 |  | ANNABA, SONDERBORG |
-| KS-34 |  | MSC ASLI II |
+| KS-32 |  | ANNABA, ELBTEAM, SONDERBORG, X-PRESS AGILITY |
 | MKR-1 | YES | JOMI, LOSONE TOPIC |
 | MKR-3 | YES | KARION |
 | MKR-4 | YES | ARENT, BERING |
@@ -27,6 +27,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-K4 | YES | ASTRA, SELVAAGSUND |
 | PD-MTW | YES | ARENT |
 | PM-17 |  | REVALA |
+| PM-19 |  | POLAR ROCK |
 | RD-2 |  | KAISA |
 | RD-3 |  | HUMBER RUNNER |
 | RKR-4 | YES | ASTRA, POSEIDON I |
@@ -37,7 +38,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | SD-3 |  | BALTIC GERMANY |
 | SD-4 |  | HUMBER SPRINTER |
 | VM-4 | YES | LOSONE TOPIC |
-| ZO-01 |  | ANNABA |
+| ZO-01 |  | ANNABA, CMA CGM RUNDALE, ELBTEAM |
 | ZO-12 |  | BALTIC TRANSPORT |
 | ZO-17 |  | ATLANTIS AUGUSTA |
 | ZO-18 |  | TERN LAND |

@@ -22,7 +22,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-09 10:03",
+  "last_seen": "2026-11-09 20:53",
   "status": "BERTHED"
  },
  "3034270": {
@@ -34,7 +34,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-11-09 10:03",
+  "last_seen": "2026-11-09 20:53",
   "status": "BERTHED"
  },
  "3032756": {
@@ -50,7 +50,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-11-09 10:03",
+  "last_seen": "2026-11-09 20:53",
   "status": "BERTHED"
  },
  "3046473": {
@@ -112,7 +112,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-11-09 10:03",
+  "last_seen": "2026-11-09 20:53",
   "status": "BERTHED"
  },
  "3046659": {
@@ -126,7 +126,7 @@
    "MKR-7",
    "PD-419"
   ],
-  "last_seen": "2026-11-09 10:03",
+  "last_seen": "2026-11-09 20:53",
   "status": "BERTHED"
  },
  "3046675": {
@@ -161,7 +161,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-09 10:03",
+  "last_seen": "2026-11-09 20:53",
   "status": "BERTHED"
  },
  "3046702": {
@@ -219,7 +219,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-09 10:03",
+  "last_seen": "2026-11-09 20:53",
   "status": "BERTHED"
  },
  "3046714": {
@@ -283,17 +283,6 @@
   "last_seen": "2026-10-27 02:32",
   "status": "BERTHED"
  },
- "3046721": {
-  "name": "RIX SAPPHIRE",
-  "imo": "9195729",
-  "flagged_repair": true,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KRS-07"
-  ],
-  "last_seen": "2026-10-26 16:21",
-  "status": "BERTHED"
- },
  "3046730": {
   "name": "KATI",
   "imo": "9173214",
@@ -317,41 +306,6 @@
    "MKR-2"
   ],
   "last_seen": "2026-10-27 15:19",
-  "status": "BERTHED"
- },
- "3046732": {
-  "name": "AAI PRELUDE",
-  "imo": "9952361",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "ZO-12"
-  ],
-  "last_seen": "2026-10-26 16:21",
-  "status": "BERTHED"
- },
- "3046729": {
-  "name": "DELTA 1",
-  "imo": "",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "ZO-02"
-  ],
-  "last_seen": "2026-10-26 16:21",
-  "status": "BERTHED"
- },
- "3046706": {
-  "name": "KESSU",
-  "imo": "9519808",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "DG-56",
-   "JM-22",
-   "JM-23"
-  ],
-  "last_seen": "2026-10-26 16:21",
   "status": "BERTHED"
  },
  "3046667": {
@@ -839,7 +793,7 @@
    "PD-K4",
    "RKR-6"
   ],
-  "last_seen": "2026-11-09 10:03",
+  "last_seen": "2026-11-09 20:53",
   "status": "BERTHED"
  },
  "3046790": {
@@ -964,7 +918,7 @@
    "KR-25",
    "KS-30"
   ],
-  "last_seen": "2026-11-09 10:03",
+  "last_seen": "2026-11-09 20:53",
   "status": "BERTHED"
  },
  "3046799": {
@@ -1069,7 +1023,7 @@
    "RD-1",
    "RD-2"
   ],
-  "last_seen": "2026-11-09 10:03",
+  "last_seen": "2026-11-09 20:53",
   "status": "BERTHED"
  },
  "3046792": {
@@ -1082,7 +1036,7 @@
    "KS-32",
    "ZO-01"
   ],
-  "last_seen": "2026-11-09 10:03",
+  "last_seen": "2026-11-09 20:53",
   "status": "BERTHED"
  },
  "3046811": {
@@ -1093,7 +1047,7 @@
   "berths_seen": [
    "DG-19"
   ],
-  "last_seen": "2026-11-09 10:03",
+  "last_seen": "2026-11-09 20:53",
   "status": "BERTHED"
  },
  "3046789": {
@@ -1140,7 +1094,7 @@
    "MKR-1",
    "VM-4"
   ],
-  "last_seen": "2026-11-09 10:03",
+  "last_seen": "2026-11-09 20:53",
   "status": "BERTHED"
  },
  "3046809": {
@@ -1207,7 +1161,7 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-11-09 10:03",
+  "last_seen": "2026-11-09 20:53",
   "status": "BERTHED"
  },
  "3046819": {
@@ -1246,12 +1200,13 @@
  "3046827": {
   "name": "BALTIC GERMANY",
   "imo": "1112329",
-  "flagged_repair": false,
+  "flagged_repair": true,
   "flagged_long_stay": false,
   "berths_seen": [
+   "RKR-7",
    "SD-3"
   ],
-  "last_seen": "2026-11-09 10:03",
+  "last_seen": "2026-11-09 20:53",
   "status": "BERTHED"
  },
  "3046812": {
@@ -1264,7 +1219,7 @@
    "RKR-8",
    "SD-4"
   ],
-  "last_seen": "2026-11-09 10:03",
+  "last_seen": "2026-11-09 20:53",
   "status": "BERTHED"
  },
  "3046822": {
@@ -1320,7 +1275,7 @@
   "berths_seen": [
    "KRS-03"
   ],
-  "last_seen": "2026-11-09 10:03",
+  "last_seen": "2026-11-09 20:53",
   "status": "BERTHED"
  },
  "3046840": {
@@ -1329,9 +1284,10 @@
   "flagged_repair": true,
   "flagged_long_stay": false,
   "berths_seen": [
-   "MKR-4"
+   "MKR-4",
+   "PD-419"
   ],
-  "last_seen": "2026-11-09 10:03",
+  "last_seen": "2026-11-09 20:53",
   "status": "BERTHED"
  },
  "3046802": {
@@ -1353,7 +1309,7 @@
   "berths_seen": [
    "ZO-12"
   ],
-  "last_seen": "2026-11-09 10:03",
+  "last_seen": "2026-11-09 20:53",
   "status": "BERTHED"
  }
 }

@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-08 22:32
+# Berth codes seen — 2026-11-09 02:58
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -10,7 +10,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-06 |  | ANNABA, RIX DELTA |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | STELLAR ALAZANI |
-| EO-15 |  | RAGNA |
 | JM-22 |  | VINDOE |
 | KR-25 |  | ALPHA LEGEND |
 | KRS-03 | YES | MFM NICOLE |
@@ -38,7 +37,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | SD-3 |  | BALTIC GERMANY |
 | SD-4 |  | HUMBER SPRINTER |
 | VM-4 | YES | LOSONE TOPIC |
-| ZO-01 |  | ANNABA, RAGNA |
+| ZO-01 |  | ANNABA |
 | ZO-12 |  | BALTIC TRANSPORT |
 | ZO-17 |  | ATLANTIS AUGUSTA |
 | ZO-18 |  | TERN LAND |

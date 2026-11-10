@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-10 19:55
+# Berth codes seen — 2026-11-11 01:28
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -7,8 +7,8 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | DG-19 |  | SAAREMAA |
 | EO-06 |  | ANNABA, RIX DELTA |
 | EO-12 |  | HEBO-P101 |
-| EO-14 |  | STELLAR ALAZANI |
-| EO-15 |  | RAGNA, X-PRESS AGILITY |
+| EO-14 |  | ARGOS M, STELLAR ALAZANI |
+| EO-15 |  | ELBSTROM, RAGNA, X-PRESS AGILITY |
 | JM-23 |  | FRANCISCA |
 | KR-25 |  | ALPHA LEGEND, NORSE OMISHIMA |
 | KRS-03 | YES | MFM NICOLE |
@@ -34,5 +34,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | SD-3 |  | BALTIC GERMANY |
 | SD-4 |  | FRANCISCA |
 | VM-4 | YES | LOSONE TOPIC |
-| ZO-01 |  | ANNABA, CMA CGM RUNDALE, ELBMOON, ELBTEAM, JUDITH, SINAR BUKITTINGGI |
+| ZO-01 |  | ANNABA, CMA CGM RUNDALE, ELBTEAM, JUDITH, SINAR BUKITTINGGI |
+| ZO-02 |  | ELBTEAM |
+| ZO-07 |  | LADY MONIQUE |
 | ZO-17 |  | ATLANTIS AUGUSTA |

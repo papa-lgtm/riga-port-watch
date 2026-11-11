@@ -1,20 +1,22 @@
-# Berth codes seen — 2026-11-11 08:39
+# Berth codes seen — 2026-11-11 17:21
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
 | Berth | Treated as repair | Vessels seen there |
 |---|---|---|
 | DG-19 |  | SAAREMAA |
-| EO-06 |  | ANNABA, RIX DELTA |
+| EO-06 |  | RIX DELTA |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | ARGOS M, STELLAR ALAZANI |
 | EO-15 |  | ELBSTROM, RAGNA, X-PRESS AGILITY |
 | JM-23 |  | FRANCISCA |
 | KR-25 |  | ALPHA LEGEND, NORSE OMISHIMA |
+| KRS-01 | YES | ICELAND |
+| KRS-02 | YES | WESTBORG |
 | KRS-03 | YES | MFM NICOLE |
 | KRS-04 | YES | SEA DAWN |
 | KS-30 |  | ALPHA LEGEND, HERAKLITOS |
-| KS-32 |  | ANNABA, ELBTEAM, SONDERBORG, X-PRESS AGILITY |
+| KS-32 |  | ELBTEAM, ELBWIND, SONDERBORG, X-PRESS AGILITY |
 | MKR-1 | YES | JOMI, LOSONE TOPIC |
 | MKR-2 | YES | JOMI |
 | MKR-4 | YES | ARENT, BERING |
@@ -32,7 +34,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-4 |  | FRANCISCA |
 | VM-4 | YES | LOSONE TOPIC |
-| ZO-01 |  | ANNABA, CMA CGM RUNDALE, ELBTEAM, JUDITH, SINAR BUKITTINGGI |
+| ZO-01 |  | CMA CGM RUNDALE, ELBTEAM, JUDITH, SINAR BUKITTINGGI, SVENDBORG |
 | ZO-02 |  | ELBTEAM |
 | ZO-07 |  | LADY MONIQUE |
 | ZO-17 |  | ATLANTIS AUGUSTA |

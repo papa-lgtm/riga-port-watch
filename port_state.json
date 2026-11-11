@@ -22,7 +22,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-11 08:39",
+  "last_seen": "2026-11-11 17:21",
   "status": "BERTHED"
  },
  "3034270": {
@@ -34,7 +34,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-11-11 08:39",
+  "last_seen": "2026-11-11 17:21",
   "status": "BERTHED"
  },
  "3032756": {
@@ -50,7 +50,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-11-11 08:39",
+  "last_seen": "2026-11-11 17:21",
   "status": "BERTHED"
  },
  "3046473": {
@@ -100,7 +100,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-11-11 08:39",
+  "last_seen": "2026-11-11 17:21",
   "status": "BERTHED"
  },
  "3046659": {
@@ -114,7 +114,7 @@
    "MKR-7",
    "PD-419"
   ],
-  "last_seen": "2026-11-11 08:39",
+  "last_seen": "2026-11-11 17:21",
   "status": "BERTHED"
  },
  "3046675": {
@@ -149,7 +149,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-11 08:39",
+  "last_seen": "2026-11-11 17:21",
   "status": "BERTHED"
  },
  "3046702": {
@@ -163,18 +163,6 @@
   ],
   "last_seen": "2026-11-06 13:04",
   "status": "BERTHED"
- },
- "3046743": {
-  "name": "LONGVIND",
-  "imo": "9547336",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "DG-56",
-   "ZO-07"
-  ],
-  "last_seen": "2026-10-28 15:07",
-  "status": "MOVING"
  },
  "3046722": {
   "name": "HS HAN",
@@ -196,20 +184,8 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-11 08:39",
+  "last_seen": "2026-11-11 17:21",
   "status": "BERTHED"
- },
- "3046735": {
-  "name": "MARJATTA",
-  "imo": "9345374",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "RD-1",
-   "SD-4"
-  ],
-  "last_seen": "2026-10-28 15:07",
-  "status": "MOVING"
  },
  "3046734": {
   "name": "BRAVE HEART",
@@ -245,17 +221,6 @@
    "ZO-07"
   ],
   "last_seen": "2026-11-01 16:19",
-  "status": "BERTHED"
- },
- "3046751": {
-  "name": "OSTERBOTTEN",
-  "imo": "9247120",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "ZO-07"
-  ],
-  "last_seen": "2026-10-28 15:07",
   "status": "BERTHED"
  },
  "3046748": {
@@ -618,7 +583,7 @@
    "PD-K4",
    "RKR-6"
   ],
-  "last_seen": "2026-11-11 08:39",
+  "last_seen": "2026-11-11 17:21",
   "status": "BERTHED"
  },
  "3046790": {
@@ -743,7 +708,7 @@
    "KR-25",
    "KS-30"
   ],
-  "last_seen": "2026-11-11 08:39",
+  "last_seen": "2026-11-11 17:21",
   "status": "BERTHED"
  },
  "3046799": {
@@ -872,7 +837,7 @@
   "berths_seen": [
    "DG-19"
   ],
-  "last_seen": "2026-11-11 08:39",
+  "last_seen": "2026-11-11 17:21",
   "status": "BERTHED"
  },
  "3046789": {
@@ -919,7 +884,7 @@
    "MKR-1",
    "VM-4"
   ],
-  "last_seen": "2026-11-11 08:39",
+  "last_seen": "2026-11-11 17:21",
   "status": "BERTHED"
  },
  "3046809": {
@@ -986,7 +951,7 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-11-11 08:39",
+  "last_seen": "2026-11-11 17:21",
   "status": "BERTHED"
  },
  "3046819": {
@@ -1100,7 +1065,7 @@
   "berths_seen": [
    "KRS-03"
   ],
-  "last_seen": "2026-11-11 08:39",
+  "last_seen": "2026-11-11 17:21",
   "status": "BERTHED"
  },
  "3046840": {
@@ -1112,7 +1077,7 @@
    "MKR-4",
    "PD-419"
   ],
-  "last_seen": "2026-11-11 08:39",
+  "last_seen": "2026-11-11 17:21",
   "status": "BERTHED"
  },
  "3046802": {
@@ -1179,7 +1144,7 @@
    "MKR-1",
    "MKR-2"
   ],
-  "last_seen": "2026-11-11 08:39",
+  "last_seen": "2026-11-11 17:21",
   "status": "BERTHED"
  },
  "3046845": {
@@ -1191,7 +1156,7 @@
    "JM-23",
    "SD-4"
   ],
-  "last_seen": "2026-11-11 08:39",
+  "last_seen": "2026-11-11 17:21",
   "status": "BERTHED"
  },
  "3046834": {
@@ -1202,7 +1167,7 @@
   "berths_seen": [
    "MS-2"
   ],
-  "last_seen": "2026-11-11 08:39",
+  "last_seen": "2026-11-11 17:21",
   "status": "BERTHED"
  },
  "3046821": {
@@ -1213,7 +1178,7 @@
   "berths_seen": [
    "KRS-04"
   ],
-  "last_seen": "2026-11-11 08:39",
+  "last_seen": "2026-11-11 17:21",
   "status": "BERTHED"
  },
  "3046837": {
@@ -1224,7 +1189,30 @@
   "berths_seen": [
    "RD-3"
   ],
-  "last_seen": "2026-11-11 08:39",
+  "last_seen": "2026-11-11 17:21",
+  "status": "MOVING"
+ },
+ "3046839": {
+  "name": "JUDITH",
+  "imo": "9359260",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "ZO-01"
+  ],
+  "last_seen": "2026-11-11 17:21",
+  "status": "BERTHED"
+ },
+ "3046831": {
+  "name": "HERAKLITOS",
+  "imo": "9422794",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KS-30",
+   "MS-2"
+  ],
+  "last_seen": "2026-11-11 17:21",
   "status": "BERTHED"
  }
 }

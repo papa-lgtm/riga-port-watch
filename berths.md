@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-11 01:28
+# Berth codes seen — 2026-11-11 08:39
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -25,13 +25,11 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-791 | YES | BALTIC ERICA, FEGULUS, HEBO-P101 |
 | PD-K4 | YES | ASTRA, SELVAAGSUND |
 | PD-MTW | YES | ARENT |
-| PM-17 |  | REVALA |
 | RD-3 |  | HUMBER RUNNER |
 | RKR-4 | YES | ASTRA, POSEIDON I |
 | RKR-6 | YES | BALTIC ERICA, FEGULUS, HEBO-P101, SELVAAGSUND |
-| RKR-7 | YES | ASTRA, BALSARE 2, BALTIC GERMANY |
+| RKR-7 | YES | ASTRA, BALSARE 2 |
 | RKR-9 | YES | ASTRA, POSEIDON I |
-| SD-3 |  | BALTIC GERMANY |
 | SD-4 |  | FRANCISCA |
 | VM-4 | YES | LOSONE TOPIC |
 | ZO-01 |  | ANNABA, CMA CGM RUNDALE, ELBTEAM, JUDITH, SINAR BUKITTINGGI |

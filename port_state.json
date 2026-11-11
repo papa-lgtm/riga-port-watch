@@ -22,7 +22,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-11 17:21",
+  "last_seen": "2026-11-12 00:45",
   "status": "BERTHED"
  },
  "3034270": {
@@ -34,7 +34,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-11-11 17:21",
+  "last_seen": "2026-11-12 00:45",
   "status": "BERTHED"
  },
  "3032756": {
@@ -50,7 +50,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-11-11 17:21",
+  "last_seen": "2026-11-12 00:45",
   "status": "BERTHED"
  },
  "3046473": {
@@ -100,7 +100,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-11-11 17:21",
+  "last_seen": "2026-11-12 00:45",
   "status": "BERTHED"
  },
  "3046659": {
@@ -114,7 +114,7 @@
    "MKR-7",
    "PD-419"
   ],
-  "last_seen": "2026-11-11 17:21",
+  "last_seen": "2026-11-12 00:45",
   "status": "BERTHED"
  },
  "3046675": {
@@ -149,7 +149,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-11 17:21",
+  "last_seen": "2026-11-12 00:45",
   "status": "BERTHED"
  },
  "3046702": {
@@ -164,17 +164,6 @@
   "last_seen": "2026-11-06 13:04",
   "status": "BERTHED"
  },
- "3046722": {
-  "name": "HS HAN",
-  "imo": "9611589",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KS-30"
-  ],
-  "last_seen": "2026-10-28 20:54",
-  "status": "MOVING"
- },
  "3046742": {
   "name": "FEGULUS",
   "imo": "9055709",
@@ -184,7 +173,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-11 17:21",
+  "last_seen": "2026-11-12 00:45",
   "status": "BERTHED"
  },
  "3046734": {
@@ -583,7 +572,7 @@
    "PD-K4",
    "RKR-6"
   ],
-  "last_seen": "2026-11-11 17:21",
+  "last_seen": "2026-11-12 00:45",
   "status": "BERTHED"
  },
  "3046790": {
@@ -708,7 +697,7 @@
    "KR-25",
    "KS-30"
   ],
-  "last_seen": "2026-11-11 17:21",
+  "last_seen": "2026-11-12 00:45",
   "status": "BERTHED"
  },
  "3046799": {
@@ -837,7 +826,7 @@
   "berths_seen": [
    "DG-19"
   ],
-  "last_seen": "2026-11-11 17:21",
+  "last_seen": "2026-11-12 00:45",
   "status": "BERTHED"
  },
  "3046789": {
@@ -884,7 +873,7 @@
    "MKR-1",
    "VM-4"
   ],
-  "last_seen": "2026-11-11 17:21",
+  "last_seen": "2026-11-12 00:45",
   "status": "BERTHED"
  },
  "3046809": {
@@ -1065,7 +1054,7 @@
   "berths_seen": [
    "KRS-03"
   ],
-  "last_seen": "2026-11-11 17:21",
+  "last_seen": "2026-11-12 00:45",
   "status": "BERTHED"
  },
  "3046840": {
@@ -1077,7 +1066,7 @@
    "MKR-4",
    "PD-419"
   ],
-  "last_seen": "2026-11-11 17:21",
+  "last_seen": "2026-11-12 00:45",
   "status": "BERTHED"
  },
  "3046802": {
@@ -1144,7 +1133,7 @@
    "MKR-1",
    "MKR-2"
   ],
-  "last_seen": "2026-11-11 17:21",
+  "last_seen": "2026-11-12 00:45",
   "status": "BERTHED"
  },
  "3046845": {
@@ -1156,7 +1145,7 @@
    "JM-23",
    "SD-4"
   ],
-  "last_seen": "2026-11-11 17:21",
+  "last_seen": "2026-11-12 00:45",
   "status": "BERTHED"
  },
  "3046834": {
@@ -1167,7 +1156,7 @@
   "berths_seen": [
    "MS-2"
   ],
-  "last_seen": "2026-11-11 17:21",
+  "last_seen": "2026-11-12 00:45",
   "status": "BERTHED"
  },
  "3046821": {
@@ -1178,19 +1167,20 @@
   "berths_seen": [
    "KRS-04"
   ],
-  "last_seen": "2026-11-11 17:21",
+  "last_seen": "2026-11-12 00:45",
   "status": "BERTHED"
  },
  "3046837": {
   "name": "HUMBER RUNNER",
   "imo": "9467184",
-  "flagged_repair": false,
+  "flagged_repair": true,
   "flagged_long_stay": false,
   "berths_seen": [
-   "RD-3"
+   "RD-3",
+   "RKR-8"
   ],
-  "last_seen": "2026-11-11 17:21",
-  "status": "MOVING"
+  "last_seen": "2026-11-12 00:45",
+  "status": "BERTHED"
  },
  "3046839": {
   "name": "JUDITH",
@@ -1200,8 +1190,8 @@
   "berths_seen": [
    "ZO-01"
   ],
-  "last_seen": "2026-11-11 17:21",
-  "status": "BERTHED"
+  "last_seen": "2026-11-12 00:45",
+  "status": "MOVING"
  },
  "3046831": {
   "name": "HERAKLITOS",
@@ -1212,7 +1202,29 @@
    "KS-30",
    "MS-2"
   ],
-  "last_seen": "2026-11-11 17:21",
+  "last_seen": "2026-11-12 00:45",
+  "status": "BERTHED"
+ },
+ "3046847": {
+  "name": "BALSARE 2",
+  "imo": "9964015",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "RKR-7"
+  ],
+  "last_seen": "2026-11-12 00:45",
+  "status": "BERTHED"
+ },
+ "3046854": {
+  "name": "ELBSTROM",
+  "imo": "9369007",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "EO-15"
+  ],
+  "last_seen": "2026-11-12 00:45",
   "status": "BERTHED"
  }
 }

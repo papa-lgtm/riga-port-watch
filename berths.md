@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-11 17:21
+# Berth codes seen — 2026-11-12 00:45
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -7,7 +7,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | DG-19 |  | SAAREMAA |
 | EO-06 |  | RIX DELTA |
 | EO-12 |  | HEBO-P101 |
-| EO-14 |  | ARGOS M, STELLAR ALAZANI |
+| EO-14 |  | ARGOS M |
 | EO-15 |  | ELBSTROM, RAGNA, X-PRESS AGILITY |
 | JM-23 |  | FRANCISCA |
 | KR-25 |  | ALPHA LEGEND, NORSE OMISHIMA |
@@ -31,6 +31,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-4 | YES | ASTRA, POSEIDON I |
 | RKR-6 | YES | BALTIC ERICA, FEGULUS, HEBO-P101, SELVAAGSUND |
 | RKR-7 | YES | ASTRA, BALSARE 2 |
+| RKR-8 | YES | HUMBER RUNNER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-4 |  | FRANCISCA |
 | VM-4 | YES | LOSONE TOPIC |

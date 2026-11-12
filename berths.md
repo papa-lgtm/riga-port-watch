@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-12 00:45
+# Berth codes seen — 2026-11-12 05:52
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -35,7 +35,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-4 |  | FRANCISCA |
 | VM-4 | YES | LOSONE TOPIC |
-| ZO-01 |  | CMA CGM RUNDALE, ELBTEAM, JUDITH, SINAR BUKITTINGGI, SVENDBORG |
+| ZO-01 |  | CMA CGM RUNDALE, ELBTEAM, SINAR BUKITTINGGI, SVENDBORG |
 | ZO-02 |  | ELBTEAM |
 | ZO-07 |  | LADY MONIQUE |
 | ZO-17 |  | ATLANTIS AUGUSTA |

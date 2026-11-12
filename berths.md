@@ -1,24 +1,26 @@
-# Berth codes seen — 2026-11-12 05:52
+# Berth codes seen — 2026-11-12 14:52
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
 | Berth | Treated as repair | Vessels seen there |
 |---|---|---|
+| DG-01 |  | KAIE |
 | DG-19 |  | SAAREMAA |
 | EO-06 |  | RIX DELTA |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | ARGOS M |
-| EO-15 |  | ELBSTROM, RAGNA, X-PRESS AGILITY |
+| EO-15 |  | RAGNA, X-PRESS AGILITY |
+| JM-22 |  | HIIUMAA |
 | JM-23 |  | FRANCISCA |
 | KR-25 |  | ALPHA LEGEND, NORSE OMISHIMA |
 | KRS-01 | YES | ICELAND |
-| KRS-02 | YES | WESTBORG |
+| KRS-02 | YES | LADY ANNE-LYNN, WESTBORG |
 | KRS-03 | YES | MFM NICOLE |
 | KRS-04 | YES | SEA DAWN |
 | KS-30 |  | ALPHA LEGEND, HERAKLITOS |
 | KS-32 |  | ELBTEAM, ELBWIND, SONDERBORG, X-PRESS AGILITY |
 | MKR-1 | YES | JOMI, LOSONE TOPIC |
-| MKR-2 | YES | JOMI |
+| MKR-2 | YES | JOMI, LADY ANNE-LYNN |
 | MKR-4 | YES | ARENT, BERING |
 | MKR-5 | YES | ASTRA, RIX DELTA |
 | MS-10 |  | LONGEARTH |
@@ -33,6 +35,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-7 | YES | ASTRA, BALSARE 2 |
 | RKR-8 | YES | HUMBER RUNNER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
+| SD-3 |  | HUMBER RUNNER |
 | SD-4 |  | FRANCISCA |
 | VM-4 | YES | LOSONE TOPIC |
 | ZO-01 |  | CMA CGM RUNDALE, ELBTEAM, SINAR BUKITTINGGI, SVENDBORG |

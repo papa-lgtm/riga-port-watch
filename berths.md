@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-12 14:52
+# Berth codes seen — 2026-11-12 22:53
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -6,12 +6,14 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 |---|---|---|
 | DG-01 |  | KAIE |
 | DG-19 |  | SAAREMAA |
+| DG-56 |  | VASTERBOTTEN |
 | EO-06 |  | RIX DELTA |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | ARGOS M |
-| EO-15 |  | RAGNA, X-PRESS AGILITY |
-| JM-22 |  | HIIUMAA |
-| JM-23 |  | FRANCISCA |
+| EO-15 |  | X-PRESS AGILITY |
+| JM-15 |  | NORDSTRAUM |
+| JM-22 |  | HIIUMAA, VASTERBOTTEN |
+| JM-23 |  | FRANCISCA, SAPPHIRE |
 | KR-25 |  | ALPHA LEGEND, NORSE OMISHIMA |
 | KRS-01 | YES | ICELAND |
 | KRS-02 | YES | LADY ANNE-LYNN, WESTBORG |
@@ -19,6 +21,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-04 | YES | SEA DAWN |
 | KS-30 |  | ALPHA LEGEND, HERAKLITOS |
 | KS-32 |  | ELBTEAM, ELBWIND, SONDERBORG, X-PRESS AGILITY |
+| KS-34 |  | MSC MASHA 3 |
 | MKR-1 | YES | JOMI, LOSONE TOPIC |
 | MKR-2 | YES | JOMI, LADY ANNE-LYNN |
 | MKR-4 | YES | ARENT, BERING |
@@ -29,16 +32,20 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-791 | YES | BALTIC ERICA, FEGULUS, HEBO-P101 |
 | PD-K4 | YES | ASTRA, SELVAAGSUND |
 | PD-MTW | YES | ARENT |
+| PM-16 |  | HALLAND |
 | RD-3 |  | HUMBER RUNNER |
 | RKR-4 | YES | ASTRA, POSEIDON I |
 | RKR-6 | YES | BALTIC ERICA, FEGULUS, HEBO-P101, SELVAAGSUND |
-| RKR-7 | YES | ASTRA, BALSARE 2 |
+| RKR-7 | YES | ASTRA, BALSARE 2, KAMILLA |
 | RKR-8 | YES | HUMBER RUNNER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-3 |  | HUMBER RUNNER |
-| SD-4 |  | FRANCISCA |
+| SD-4 |  | FRANCISCA, SAPPHIRE |
 | VM-4 | YES | LOSONE TOPIC |
 | ZO-01 |  | CMA CGM RUNDALE, ELBTEAM, SINAR BUKITTINGGI, SVENDBORG |
-| ZO-02 |  | ELBTEAM |
+| ZO-02 |  | CMA CGM RUNDALE, ELBTEAM, EQUINOX AGNANDOUSSA |
+| ZO-03 |  | SAAREMAA |
+| ZO-05 |  | HELME |
 | ZO-07 |  | LADY MONIQUE |
+| ZO-12 |  | STROOMBANK |
 | ZO-17 |  | ATLANTIS AUGUSTA |

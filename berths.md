@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-13 19:49
+# Berth codes seen — 2026-11-14 01:39
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -7,7 +7,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | DG-01 |  | KAIE |
 | DG-19 |  | SAAREMAA |
 | DG-55 |  | LARISSA B |
-| DG-56 |  | VASTERBOTTEN |
+| DG-56 |  | LONGVIKING, VASTERBOTTEN |
 | EO-06 |  | RIX DELTA |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | ARGOS M, HAV SNAPPER |
@@ -18,8 +18,8 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | JM-23 |  | SAPPHIRE, SCOT ISLES |
 | KR-21 |  | LADY HESTIA |
 | KR-25 |  | ALPHA LEGEND, NORSE OMISHIMA |
-| KRS-01 | YES | KEIT |
-| KRS-02 | YES | LADY ANNE-LYNN, SCOT ISLES, WESTBORG |
+| KRS-01 | YES | HUMBER RUNNER, KEIT |
+| KRS-02 | YES | LADY ANNE-LYNN, SCOT ISLES |
 | KRS-03 | YES | MFM NICOLE |
 | KRS-04 | YES | SEA DAWN |
 | KRS-05 | YES | ALPHA LEGEND |

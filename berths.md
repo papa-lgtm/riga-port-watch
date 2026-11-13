@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-12 22:53
+# Berth codes seen — 2026-11-13 03:54
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -6,6 +6,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 |---|---|---|
 | DG-01 |  | KAIE |
 | DG-19 |  | SAAREMAA |
+| DG-55 |  | LARISSA B |
 | DG-56 |  | VASTERBOTTEN |
 | EO-06 |  | RIX DELTA |
 | EO-12 |  | HEBO-P101 |
@@ -15,7 +16,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | JM-22 |  | HIIUMAA, VASTERBOTTEN |
 | JM-23 |  | FRANCISCA, SAPPHIRE |
 | KR-25 |  | ALPHA LEGEND, NORSE OMISHIMA |
-| KRS-01 | YES | ICELAND |
 | KRS-02 | YES | LADY ANNE-LYNN, WESTBORG |
 | KRS-03 | YES | MFM NICOLE |
 | KRS-04 | YES | SEA DAWN |
@@ -23,7 +23,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KS-32 |  | ELBTEAM, ELBWIND, SONDERBORG, X-PRESS AGILITY |
 | KS-34 |  | MSC MASHA 3 |
 | MKR-1 | YES | JOMI, LOSONE TOPIC |
-| MKR-2 | YES | JOMI, LADY ANNE-LYNN |
+| MKR-2 | YES | JOMI, LADY ANNE-LYNN, LARISSA B |
 | MKR-4 | YES | ARENT, BERING |
 | MKR-5 | YES | ASTRA, RIX DELTA |
 | MS-10 |  | LONGEARTH |
@@ -42,7 +42,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | SD-3 |  | HUMBER RUNNER |
 | SD-4 |  | FRANCISCA, SAPPHIRE |
 | VM-4 | YES | LOSONE TOPIC |
-| ZO-01 |  | CMA CGM RUNDALE, ELBTEAM, SINAR BUKITTINGGI, SVENDBORG |
+| ZO-01 |  | CMA CGM RUNDALE, ELBTEAM, SVENDBORG |
 | ZO-02 |  | CMA CGM RUNDALE, ELBTEAM, EQUINOX AGNANDOUSSA |
 | ZO-03 |  | SAAREMAA |
 | ZO-05 |  | HELME |

@@ -1,30 +1,28 @@
-# Berth codes seen — 2026-11-14 08:38
+# Berth codes seen — 2026-11-14 16:14
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
 | Berth | Treated as repair | Vessels seen there |
 |---|---|---|
 | DG-01 |  | KAIE |
-| DG-19 |  | SAAREMAA |
 | DG-55 |  | LARISSA B |
-| DG-56 |  | LONGVIKING, VASTERBOTTEN |
+| DG-56 |  | KERSTI, LONGVIKING, VASTERBOTTEN |
 | EO-06 |  | RIX DELTA |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | ARGOS M, HAV SNAPPER |
-| EO-15 |  | X-PRESS AGILITY |
 | JM-15 |  | NORDSTRAUM |
 | JM-15A |  | ORAMALIA |
 | JM-22 |  | VASTERBOTTEN |
 | JM-23 |  | SAPPHIRE, SCOT ISLES |
 | KR-21 |  | LADY HESTIA |
 | KR-25 |  | ALPHA LEGEND, NORSE OMISHIMA |
-| KRS-01 | YES | HUMBER RUNNER, KEIT |
+| KRS-01 | YES | ARKLOW VALLEY, HUMBER RUNNER, KEIT |
 | KRS-02 | YES | LADY ANNE-LYNN, SCOT ISLES |
 | KRS-03 | YES | MFM NICOLE |
 | KRS-04 | YES | SEA DAWN |
 | KRS-05 | YES | ALPHA LEGEND |
 | KS-30 |  | ALPHA LEGEND, HERAKLITOS |
-| KS-32 |  | DP WORLD LIMASSOL, ELBTEAM, SONDERBORG, X-PRESS AGILITY |
+| KS-32 |  | DP WORLD LIMASSOL, SONDERBORG |
 | KS-34 |  | MSC MASHA 3 |
 | MKR-1 | YES | LARISSA B |
 | MKR-2 | YES | HUMBER RUNNER, LADY ANNE-LYNN, LARISSA B, TOLLUND |
@@ -45,11 +43,11 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | SD-3 |  | HUMBER RUNNER |
 | SD-4 |  | SAPPHIRE |
 | VM-4 | YES | RIX VOYAGER, TOLLUND |
-| ZO-01 |  | ELBTEAM, SVENDBORG |
-| ZO-02 |  | ELBTEAM, EQUINOX AGNANDOUSSA |
-| ZO-03 |  | SAAREMAA |
+| ZO-01 |  | SVENDBORG |
+| ZO-02 |  | EQUINOX AGNANDOUSSA |
 | ZO-05 |  | HELME |
 | ZO-07 |  | OSTERBOTTEN |
 | ZO-10 |  | AMADEUS |
 | ZO-12 |  | STROOMBANK |
 | ZO-17 |  | ATLANTIS AUGUSTA |
+| ZO-18 |  | SONGA AURORA |

@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-14 21:15
+# Berth codes seen — 2026-11-15 01:07
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -12,11 +12,11 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | JM-15 |  | NORDSTRAUM |
 | JM-15A |  | ORAMALIA |
 | JM-22 |  | VASTERBOTTEN |
-| JM-23 |  | SAPPHIRE, SCOT ISLES |
+| JM-23 |  | SCOT ISLES |
 | KR-21 |  | LADY HESTIA |
 | KR-25 |  | NORSE OMISHIMA |
 | KRS-01 | YES | ARKLOW VALLEY, KEIT |
-| KRS-02 | YES | LADY ANNE-LYNN, SCOT ISLES |
+| KRS-02 | YES | LADY ANNE-LYNN, SCOT ISLES, SPANACO LOYALTY, SPANACO SIMPLICITY |
 | KRS-03 | YES | MFM NICOLE |
 | KRS-04 | YES | SEA DAWN |
 | KS-30 |  | HERAKLITOS |
@@ -37,7 +37,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-6 | YES | BALTIC ERICA, FEGULUS, HEBO-P101, SELVAAGSUND |
 | RKR-7 | YES | ASTRA, KAMILLA |
 | RKR-9 | YES | ASTRA, POSEIDON I |
-| SD-4 |  | SAPPHIRE |
 | VM-4 | YES | RIX VOYAGER, TOLLUND |
 | ZO-01 |  | SVENDBORG |
 | ZO-02 |  | EQUINOX AGNANDOUSSA |

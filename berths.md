@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-14 01:39
+# Berth codes seen — 2026-11-14 08:38
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -14,7 +14,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-15 |  | X-PRESS AGILITY |
 | JM-15 |  | NORDSTRAUM |
 | JM-15A |  | ORAMALIA |
-| JM-22 |  | HIIUMAA, VASTERBOTTEN |
+| JM-22 |  | VASTERBOTTEN |
 | JM-23 |  | SAPPHIRE, SCOT ISLES |
 | KR-21 |  | LADY HESTIA |
 | KR-25 |  | ALPHA LEGEND, NORSE OMISHIMA |
@@ -27,7 +27,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KS-32 |  | DP WORLD LIMASSOL, ELBTEAM, SONDERBORG, X-PRESS AGILITY |
 | KS-34 |  | MSC MASHA 3 |
 | MKR-1 | YES | LARISSA B |
-| MKR-2 | YES | HUMBER RUNNER, LADY ANNE-LYNN, LARISSA B |
+| MKR-2 | YES | HUMBER RUNNER, LADY ANNE-LYNN, LARISSA B, TOLLUND |
 | MKR-4 | YES | ARENT, BERING |
 | MKR-5 | YES | ASTRA, RIX DELTA |
 | MS-2 |  | DENIZ M, HERAKLITOS |
@@ -44,9 +44,9 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-3 |  | HUMBER RUNNER |
 | SD-4 |  | SAPPHIRE |
-| VM-4 | YES | RIX VOYAGER |
-| ZO-01 |  | CMA CGM RUNDALE, ELBTEAM, SVENDBORG |
-| ZO-02 |  | CMA CGM RUNDALE, ELBTEAM, EQUINOX AGNANDOUSSA |
+| VM-4 | YES | RIX VOYAGER, TOLLUND |
+| ZO-01 |  | ELBTEAM, SVENDBORG |
+| ZO-02 |  | ELBTEAM, EQUINOX AGNANDOUSSA |
 | ZO-03 |  | SAAREMAA |
 | ZO-05 |  | HELME |
 | ZO-07 |  | OSTERBOTTEN |

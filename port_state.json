@@ -1,17 +1,4 @@
 {
- "3046416": {
-  "name": "VICTORIABORG",
-  "imo": "9234276",
-  "flagged_repair": true,
-  "flagged_long_stay": true,
-  "berths_seen": [
-   "PD-MTW",
-   "RKR-5",
-   "RKR-6"
-  ],
-  "last_seen": "2026-10-31 04:28",
-  "status": "BERTHED"
- },
  "3044986": {
   "name": "HEBO-P101",
   "imo": "",
@@ -22,7 +9,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-14 01:39",
+  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
  "3034270": {
@@ -34,7 +21,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-11-14 01:39",
+  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
  "3032756": {
@@ -50,7 +37,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-11-14 01:39",
+  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
  "3046473": {
@@ -88,7 +75,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-11-14 01:39",
+  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
  "3046659": {
@@ -102,7 +89,7 @@
    "MKR-7",
    "PD-419"
   ],
-  "last_seen": "2026-11-14 01:39",
+  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
  "3046685": {
@@ -114,7 +101,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-14 01:39",
+  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
  "3046702": {
@@ -138,7 +125,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-14 01:39",
+  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
  "3046754": {
@@ -425,7 +412,7 @@
    "PD-K4",
    "RKR-6"
   ],
-  "last_seen": "2026-11-14 01:39",
+  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
  "3046790": {
@@ -551,7 +538,7 @@
    "KRS-05",
    "KS-30"
   ],
-  "last_seen": "2026-11-14 01:39",
+  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
  "3046799": {
@@ -681,7 +668,7 @@
    "DG-19",
    "ZO-03"
   ],
-  "last_seen": "2026-11-14 01:39",
+  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
  "3046789": {
@@ -909,7 +896,7 @@
   "berths_seen": [
    "KRS-03"
   ],
-  "last_seen": "2026-11-14 01:39",
+  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
  "3046840": {
@@ -921,7 +908,7 @@
    "MKR-4",
    "PD-419"
   ],
-  "last_seen": "2026-11-14 01:39",
+  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
  "3046802": {
@@ -1011,7 +998,7 @@
   "berths_seen": [
    "MS-2"
   ],
-  "last_seen": "2026-11-14 01:39",
+  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
  "3046821": {
@@ -1022,7 +1009,7 @@
   "berths_seen": [
    "KRS-04"
   ],
-  "last_seen": "2026-11-14 01:39",
+  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
  "3046837": {
@@ -1037,7 +1024,7 @@
    "RKR-8",
    "SD-3"
   ],
-  "last_seen": "2026-11-14 01:39",
+  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
  "3046839": {
@@ -1060,7 +1047,7 @@
    "KS-30",
    "MS-2"
   ],
-  "last_seen": "2026-11-14 01:39",
+  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
  "3046847": {
@@ -1148,7 +1135,7 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-11-14 01:39",
+  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
  "3046846": {
@@ -1181,7 +1168,7 @@
   "berths_seen": [
    "DG-01"
   ],
-  "last_seen": "2026-11-14 01:39",
+  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
  "3046860": {
@@ -1204,8 +1191,8 @@
    "JM-23",
    "SD-4"
   ],
-  "last_seen": "2026-11-14 01:39",
-  "status": "BERTHED"
+  "last_seen": "2026-11-14 08:38",
+  "status": "MOVING"
  },
  "3046842": {
   "name": "CMA CGM RUNDALE",
@@ -1229,7 +1216,7 @@
    "ZO-01",
    "ZO-02"
   ],
-  "last_seen": "2026-11-14 01:39",
+  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
  "3046852": {
@@ -1240,7 +1227,7 @@
   "berths_seen": [
    "KR-25"
   ],
-  "last_seen": "2026-11-14 01:39",
+  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
  "3046843": {
@@ -1252,7 +1239,7 @@
    "EO-15",
    "KS-32"
   ],
-  "last_seen": "2026-11-14 01:39",
+  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
  "3046873": {
@@ -1265,7 +1252,7 @@
    "MKR-1",
    "MKR-2"
   ],
-  "last_seen": "2026-11-14 01:39",
+  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
  "3046871": {
@@ -1276,7 +1263,7 @@
   "berths_seen": [
    "RKR-7"
   ],
-  "last_seen": "2026-11-14 01:39",
+  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
  "3046869": {
@@ -1287,7 +1274,29 @@
   "berths_seen": [
    "PM-16"
   ],
-  "last_seen": "2026-11-14 01:39",
+  "last_seen": "2026-11-14 08:38",
+  "status": "BERTHED"
+ },
+ "3046879": {
+  "name": "AMADEUS",
+  "imo": "9232498",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "ZO-10"
+  ],
+  "last_seen": "2026-11-14 08:38",
+  "status": "BERTHED"
+ },
+ "3046870": {
+  "name": "NORDSTRAUM",
+  "imo": "9523548",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "JM-15"
+  ],
+  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  }
 }

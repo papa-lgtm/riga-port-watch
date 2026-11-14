@@ -1,10 +1,9 @@
-# Berth codes seen — 2026-11-14 16:14
+# Berth codes seen — 2026-11-14 21:15
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
 | Berth | Treated as repair | Vessels seen there |
 |---|---|---|
-| DG-01 |  | KAIE |
 | DG-55 |  | LARISSA B |
 | DG-56 |  | KERSTI, LONGVIKING, VASTERBOTTEN |
 | EO-06 |  | RIX DELTA |
@@ -15,17 +14,16 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | JM-22 |  | VASTERBOTTEN |
 | JM-23 |  | SAPPHIRE, SCOT ISLES |
 | KR-21 |  | LADY HESTIA |
-| KR-25 |  | ALPHA LEGEND, NORSE OMISHIMA |
-| KRS-01 | YES | ARKLOW VALLEY, HUMBER RUNNER, KEIT |
+| KR-25 |  | NORSE OMISHIMA |
+| KRS-01 | YES | ARKLOW VALLEY, KEIT |
 | KRS-02 | YES | LADY ANNE-LYNN, SCOT ISLES |
 | KRS-03 | YES | MFM NICOLE |
 | KRS-04 | YES | SEA DAWN |
-| KRS-05 | YES | ALPHA LEGEND |
-| KS-30 |  | ALPHA LEGEND, HERAKLITOS |
+| KS-30 |  | HERAKLITOS |
 | KS-32 |  | DP WORLD LIMASSOL, SONDERBORG |
-| KS-34 |  | MSC MASHA 3 |
+| KS-34 |  | MSC MANDY III, MSC MASHA 3 |
 | MKR-1 | YES | LARISSA B |
-| MKR-2 | YES | HUMBER RUNNER, LADY ANNE-LYNN, LARISSA B, TOLLUND |
+| MKR-2 | YES | LADY ANNE-LYNN, LARISSA B, TOLLUND |
 | MKR-4 | YES | ARENT, BERING |
 | MKR-5 | YES | ASTRA, RIX DELTA |
 | MS-2 |  | DENIZ M, HERAKLITOS |
@@ -34,13 +32,11 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-K4 | YES | ASTRA, SELVAAGSUND |
 | PD-MTW | YES | ARENT |
 | PM-16 |  | HALLAND |
-| RD-3 |  | HUMBER RUNNER, RIX SAIL |
+| RD-3 |  | RIX SAIL |
 | RKR-4 | YES | ASTRA, POSEIDON I |
 | RKR-6 | YES | BALTIC ERICA, FEGULUS, HEBO-P101, SELVAAGSUND |
 | RKR-7 | YES | ASTRA, KAMILLA |
-| RKR-8 | YES | HUMBER RUNNER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
-| SD-3 |  | HUMBER RUNNER |
 | SD-4 |  | SAPPHIRE |
 | VM-4 | YES | RIX VOYAGER, TOLLUND |
 | ZO-01 |  | SVENDBORG |

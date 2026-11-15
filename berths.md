@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-15 01:07
+# Berth codes seen — 2026-11-15 04:46
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -9,7 +9,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-06 |  | RIX DELTA |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | ARGOS M, HAV SNAPPER |
-| JM-15 |  | NORDSTRAUM |
 | JM-15A |  | ORAMALIA |
 | JM-22 |  | VASTERBOTTEN |
 | JM-23 |  | SCOT ISLES |
@@ -22,7 +21,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KS-30 |  | HERAKLITOS |
 | KS-32 |  | DP WORLD LIMASSOL, SONDERBORG |
 | KS-34 |  | MSC MANDY III, MSC MASHA 3 |
-| MKR-1 | YES | LARISSA B |
+| MKR-1 | YES | LADY ANNE-LYNN, LARISSA B |
 | MKR-2 | YES | LADY ANNE-LYNN, LARISSA B, TOLLUND |
 | MKR-4 | YES | ARENT, BERING |
 | MKR-5 | YES | ASTRA, RIX DELTA |
@@ -35,14 +34,13 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RD-3 |  | RIX SAIL |
 | RKR-4 | YES | ASTRA, POSEIDON I |
 | RKR-6 | YES | BALTIC ERICA, FEGULUS, HEBO-P101, SELVAAGSUND |
-| RKR-7 | YES | ASTRA, KAMILLA |
+| RKR-7 | YES | ASTRA |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | VM-4 | YES | RIX VOYAGER, TOLLUND |
 | ZO-01 |  | SVENDBORG |
 | ZO-02 |  | EQUINOX AGNANDOUSSA |
 | ZO-05 |  | HELME |
 | ZO-07 |  | OSTERBOTTEN |
-| ZO-10 |  | AMADEUS |
 | ZO-12 |  | STROOMBANK |
 | ZO-17 |  | ATLANTIS AUGUSTA |
 | ZO-18 |  | SONGA AURORA |

@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-15 13:08
+# Berth codes seen — 2026-11-15 19:48
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -19,7 +19,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-03 | YES | MFM NICOLE |
 | KRS-04 | YES | SEA DAWN |
 | KS-30 |  | HERAKLITOS |
-| KS-32 |  | DP WORLD LIMASSOL, SONDERBORG |
+| KS-32 |  | AILA, DP WORLD LIMASSOL, SONDERBORG |
 | KS-34 |  | MSC MANDY III, MSC MASHA 3 |
 | MKR-1 | YES | LADY ANNE-LYNN, LARISSA B |
 | MKR-2 | YES | LADY ANNE-LYNN, LARISSA B, TOLLUND |
@@ -36,9 +36,8 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-7 | YES | ASTRA |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | VM-4 | YES | RIX VOYAGER, TOLLUND |
-| ZO-01 |  | SVENDBORG |
+| ZO-01 |  | AILA, CMA CGM VISBY, SVENDBORG |
 | ZO-02 |  | EQUINOX AGNANDOUSSA |
 | ZO-05 |  | HELME |
-| ZO-12 |  | STROOMBANK |
 | ZO-17 |  | ATLANTIS AUGUSTA |
 | ZO-18 |  | SONGA AURORA |

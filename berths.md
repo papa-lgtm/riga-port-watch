@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-15 04:46
+# Berth codes seen — 2026-11-15 13:08
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -11,7 +11,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-14 |  | ARGOS M, HAV SNAPPER |
 | JM-15A |  | ORAMALIA |
 | JM-22 |  | VASTERBOTTEN |
-| JM-23 |  | SCOT ISLES |
+| JM-23 |  | BALTICMAR, SCOT ISLES |
 | KR-21 |  | LADY HESTIA |
 | KR-25 |  | NORSE OMISHIMA |
 | KRS-01 | YES | ARKLOW VALLEY, KEIT |
@@ -30,7 +30,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-791 | YES | BALTIC ERICA, FEGULUS, HEBO-P101 |
 | PD-K4 | YES | ASTRA, SELVAAGSUND |
 | PD-MTW | YES | ARENT |
-| PM-16 |  | HALLAND |
 | RD-3 |  | RIX SAIL |
 | RKR-4 | YES | ASTRA, POSEIDON I |
 | RKR-6 | YES | BALTIC ERICA, FEGULUS, HEBO-P101, SELVAAGSUND |
@@ -40,7 +39,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | ZO-01 |  | SVENDBORG |
 | ZO-02 |  | EQUINOX AGNANDOUSSA |
 | ZO-05 |  | HELME |
-| ZO-07 |  | OSTERBOTTEN |
 | ZO-12 |  | STROOMBANK |
 | ZO-17 |  | ATLANTIS AUGUSTA |
 | ZO-18 |  | SONGA AURORA |

@@ -1,18 +1,15 @@
-# Berth codes seen — 2026-11-15 19:48
+# Berth codes seen — 2026-11-16 00:55
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
 | Berth | Treated as repair | Vessels seen there |
 |---|---|---|
-| DG-55 |  | LARISSA B |
-| DG-56 |  | KERSTI, LONGVIKING, VASTERBOTTEN |
+| DG-56 |  | KERSTI, LONGVIKING |
 | EO-06 |  | RIX DELTA |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | ARGOS M, HAV SNAPPER |
 | JM-15A |  | ORAMALIA |
-| JM-22 |  | VASTERBOTTEN |
 | JM-23 |  | BALTICMAR, SCOT ISLES |
-| KR-21 |  | LADY HESTIA |
 | KR-25 |  | NORSE OMISHIMA |
 | KRS-01 | YES | ARKLOW VALLEY, KEIT |
 | KRS-02 | YES | LADY ANNE-LYNN, SCOT ISLES, SPANACO LOYALTY, SPANACO SIMPLICITY |
@@ -21,8 +18,8 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KS-30 |  | HERAKLITOS |
 | KS-32 |  | AILA, DP WORLD LIMASSOL, SONDERBORG |
 | KS-34 |  | MSC MANDY III, MSC MASHA 3 |
-| MKR-1 | YES | LADY ANNE-LYNN, LARISSA B |
-| MKR-2 | YES | LADY ANNE-LYNN, LARISSA B, TOLLUND |
+| MKR-1 | YES | LADY ANNE-LYNN |
+| MKR-2 | YES | LADY ANNE-LYNN, TOLLUND |
 | MKR-4 | YES | ARENT, BERING |
 | MKR-5 | YES | ASTRA, RIX DELTA |
 | MS-2 |  | DENIZ M, HERAKLITOS |
@@ -38,6 +35,5 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | VM-4 | YES | RIX VOYAGER, TOLLUND |
 | ZO-01 |  | AILA, CMA CGM VISBY, SVENDBORG |
 | ZO-02 |  | EQUINOX AGNANDOUSSA |
-| ZO-05 |  | HELME |
 | ZO-17 |  | ATLANTIS AUGUSTA |
 | ZO-18 |  | SONGA AURORA |

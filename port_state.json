@@ -9,7 +9,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-16 13:38",
+  "last_seen": "2026-11-17 00:15",
   "status": "BERTHED"
  },
  "3034270": {
@@ -21,7 +21,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-11-16 13:38",
+  "last_seen": "2026-11-17 00:15",
   "status": "BERTHED"
  },
  "3032756": {
@@ -37,7 +37,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-11-16 13:38",
+  "last_seen": "2026-11-17 00:15",
   "status": "BERTHED"
  },
  "3046473": {
@@ -52,20 +52,6 @@
   "last_seen": "2026-11-04 20:02",
   "status": "BERTHED"
  },
- "3046557": {
-  "name": "FEMBRIA",
-  "imo": "9350771",
-  "flagged_repair": true,
-  "flagged_long_stay": true,
-  "berths_seen": [
-   "DG-19",
-   "DG-20",
-   "PD-75",
-   "PM-16"
-  ],
-  "last_seen": "2026-11-02 19:10",
-  "status": "BERTHED"
- },
  "3046630": {
   "name": "ARENT",
   "imo": "9591387",
@@ -75,7 +61,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-11-16 13:38",
+  "last_seen": "2026-11-17 00:15",
   "status": "BERTHED"
  },
  "3046659": {
@@ -89,7 +75,7 @@
    "MKR-7",
    "PD-419"
   ],
-  "last_seen": "2026-11-16 13:38",
+  "last_seen": "2026-11-17 00:15",
   "status": "BERTHED"
  },
  "3046685": {
@@ -101,7 +87,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-16 13:38",
+  "last_seen": "2026-11-17 00:15",
   "status": "BERTHED"
  },
  "3046702": {
@@ -125,20 +111,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-16 13:38",
-  "status": "BERTHED"
- },
- "3046773": {
-  "name": "FRANCISCA",
-  "imo": "9148166",
-  "flagged_repair": true,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KRS-04",
-   "MS-11",
-   "MS-13"
-  ],
-  "last_seen": "2026-11-02 19:10",
+  "last_seen": "2026-11-17 00:15",
   "status": "BERTHED"
  },
  "3046771": {
@@ -173,17 +146,6 @@
    "KRS-01"
   ],
   "last_seen": "2026-11-03 08:56",
-  "status": "BERTHED"
- },
- "3046784": {
-  "name": "FULDATAL",
-  "imo": "9962988",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "MS-10"
-  ],
-  "last_seen": "2026-11-02 19:10",
   "status": "BERTHED"
  },
  "3046780": {
@@ -230,17 +192,6 @@
   "last_seen": "2026-11-03 17:16",
   "status": "BERTHED"
  },
- "3046758": {
-  "name": "SONDERBORG",
-  "imo": "9454242",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KS-32"
-  ],
-  "last_seen": "2026-11-02 19:10",
-  "status": "BERTHED"
- },
  "3046787": {
   "name": "TARZAN",
   "imo": "9128336",
@@ -262,7 +213,7 @@
    "PD-K4",
    "RKR-6"
   ],
-  "last_seen": "2026-11-16 13:38",
+  "last_seen": "2026-11-17 00:15",
   "status": "BERTHED"
  },
  "3046790": {
@@ -746,7 +697,7 @@
   "berths_seen": [
    "KRS-03"
   ],
-  "last_seen": "2026-11-16 13:38",
+  "last_seen": "2026-11-17 00:15",
   "status": "BERTHED"
  },
  "3046840": {
@@ -758,7 +709,7 @@
    "MKR-4",
    "PD-419"
   ],
-  "last_seen": "2026-11-16 13:38",
+  "last_seen": "2026-11-17 00:15",
   "status": "BERTHED"
  },
  "3046802": {
@@ -897,7 +848,7 @@
    "KS-30",
    "MS-2"
   ],
-  "last_seen": "2026-11-16 13:38",
+  "last_seen": "2026-11-17 00:15",
   "status": "BERTHED"
  },
  "3046847": {
@@ -985,7 +936,7 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-11-16 13:38",
+  "last_seen": "2026-11-17 00:15",
   "status": "BERTHED"
  },
  "3046846": {
@@ -1077,7 +1028,7 @@
   "berths_seen": [
    "KR-25"
   ],
-  "last_seen": "2026-11-16 13:38",
+  "last_seen": "2026-11-17 00:15",
   "status": "BERTHED"
  },
  "3046843": {
@@ -1227,8 +1178,8 @@
    "MKR-2",
    "VM-4"
   ],
-  "last_seen": "2026-11-16 13:38",
-  "status": "BERTHED"
+  "last_seen": "2026-11-17 00:15",
+  "status": "MOVING"
  },
  "3046882": {
   "name": "SCOT ISLES",
@@ -1236,10 +1187,11 @@
   "flagged_repair": true,
   "flagged_long_stay": false,
   "berths_seen": [
+   "JM-22",
    "JM-23",
    "KRS-02"
   ],
-  "last_seen": "2026-11-16 13:38",
+  "last_seen": "2026-11-17 00:15",
   "status": "BERTHED"
  },
  "3046865": {
@@ -1250,7 +1202,7 @@
   "berths_seen": [
    "KS-34"
   ],
-  "last_seen": "2026-11-16 13:38",
+  "last_seen": "2026-11-17 00:15",
   "status": "BERTHED"
  },
  "3046849": {
@@ -1261,7 +1213,7 @@
   "berths_seen": [
    "KS-32"
   ],
-  "last_seen": "2026-11-16 13:38",
+  "last_seen": "2026-11-17 00:15",
   "status": "BERTHED"
  },
  "3046872": {
@@ -1272,7 +1224,7 @@
   "berths_seen": [
    "ZO-02"
   ],
-  "last_seen": "2026-11-16 13:38",
+  "last_seen": "2026-11-17 00:15",
   "status": "BERTHED"
  },
  "3046886": {
@@ -1294,7 +1246,7 @@
   "berths_seen": [
    "JM-15A"
   ],
-  "last_seen": "2026-11-16 13:38",
+  "last_seen": "2026-11-17 00:15",
   "status": "BERTHED"
  },
  "3046889": {
@@ -1305,7 +1257,7 @@
   "berths_seen": [
    "KRS-02"
   ],
-  "last_seen": "2026-11-16 13:38",
+  "last_seen": "2026-11-17 00:15",
   "status": "BERTHED"
  },
  "3046874": {
@@ -1361,7 +1313,18 @@
    "KRS-01",
    "MKR-1"
   ],
-  "last_seen": "2026-11-16 13:38",
+  "last_seen": "2026-11-17 00:15",
+  "status": "BERTHED"
+ },
+ "3046883": {
+  "name": "LONGVIKING",
+  "imo": "9547324",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "DG-56"
+  ],
+  "last_seen": "2026-11-17 00:15",
   "status": "BERTHED"
  }
 }

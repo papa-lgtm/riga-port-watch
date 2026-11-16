@@ -1,22 +1,21 @@
-# Berth codes seen — 2026-11-16 13:38
+# Berth codes seen — 2026-11-17 00:15
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
 | Berth | Treated as repair | Vessels seen there |
 |---|---|---|
-| DG-56 |  | KERSTI, LONGVIKING |
+| DG-56 |  | LONGVIKING |
 | EO-06 |  | RIX DELTA |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | ARGOS M, HAV SNAPPER |
 | EO-15 |  | X-PRESS GODAVARI |
 | JM-15A |  | ORAMALIA |
-| JM-22 |  | LONGEON |
+| JM-22 |  | LONGEON, SCOT ISLES |
 | JM-23 |  | BALTICMAR, SCOT ISLES |
 | KR-25 |  | NORSE OMISHIMA |
 | KRS-01 | YES | HAVBRIS, KEIT |
 | KRS-02 | YES | SCOT ISLES, SPANACO LOYALTY, SPANACO SIMPLICITY |
 | KRS-03 | YES | MFM NICOLE |
-| KRS-04 | YES | SEA DAWN |
 | KS-30 |  | HERAKLITOS |
 | KS-32 |  | AILA, DP WORLD LIMASSOL, SONDERBORG |
 | KS-34 |  | MIA SUMMER II, MSC MANDY III, MSC MASHA 3 |
@@ -29,13 +28,12 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-791 | YES | BALTIC ERICA, FEGULUS, HEBO-P101 |
 | PD-K4 | YES | ASTRA, SELVAAGSUND |
 | PD-MTW | YES | ARENT |
-| RD-3 |  | RIX SAIL |
 | RKR-4 | YES | ASTRA, POSEIDON I |
 | RKR-6 | YES | BALTIC ERICA, FEGULUS, HEBO-P101, SELVAAGSUND |
 | RKR-7 | YES | ASTRA |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | VM-4 | YES | TOLLUND |
-| ZO-01 |  | AILA, CMA CGM VISBY, SVENDBORG |
+| ZO-01 |  | AILA, CMA CGM VISBY, ELBOCEAN |
 | ZO-02 |  | EQUINOX AGNANDOUSSA |
 | ZO-17 |  | ATLANTIS AUGUSTA |
 | ZO-18 |  | SONGA AURORA |

@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-17 00:15
+# Berth codes seen — 2026-11-17 06:36
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -17,10 +17,9 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-02 | YES | SCOT ISLES, SPANACO LOYALTY, SPANACO SIMPLICITY |
 | KRS-03 | YES | MFM NICOLE |
 | KS-30 |  | HERAKLITOS |
-| KS-32 |  | AILA, DP WORLD LIMASSOL, SONDERBORG |
-| KS-34 |  | MIA SUMMER II, MSC MANDY III, MSC MASHA 3 |
+| KS-32 |  | AILA, SONDERBORG |
+| KS-34 |  | MIA SUMMER II, MSC MANDY III |
 | MKR-1 | YES | KEIT |
-| MKR-2 | YES | TOLLUND |
 | MKR-4 | YES | ARENT, BERING |
 | MKR-5 | YES | ASTRA, RIX DELTA |
 | MS-2 |  | HERAKLITOS |
@@ -32,7 +31,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-6 | YES | BALTIC ERICA, FEGULUS, HEBO-P101, SELVAAGSUND |
 | RKR-7 | YES | ASTRA |
 | RKR-9 | YES | ASTRA, POSEIDON I |
-| VM-4 | YES | TOLLUND |
 | ZO-01 |  | AILA, CMA CGM VISBY, ELBOCEAN |
 | ZO-02 |  | EQUINOX AGNANDOUSSA |
 | ZO-17 |  | ATLANTIS AUGUSTA |

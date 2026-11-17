@@ -9,7 +9,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-17 06:36",
+  "last_seen": "2026-11-17 16:35",
   "status": "BERTHED"
  },
  "3034270": {
@@ -21,7 +21,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-11-17 06:36",
+  "last_seen": "2026-11-17 16:35",
   "status": "BERTHED"
  },
  "3032756": {
@@ -37,7 +37,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-11-17 06:36",
+  "last_seen": "2026-11-17 16:35",
   "status": "BERTHED"
  },
  "3046473": {
@@ -61,7 +61,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-11-17 06:36",
+  "last_seen": "2026-11-17 16:35",
   "status": "BERTHED"
  },
  "3046659": {
@@ -75,7 +75,7 @@
    "MKR-7",
    "PD-419"
   ],
-  "last_seen": "2026-11-17 06:36",
+  "last_seen": "2026-11-17 16:35",
   "status": "BERTHED"
  },
  "3046685": {
@@ -87,7 +87,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-17 06:36",
+  "last_seen": "2026-11-17 16:35",
   "status": "BERTHED"
  },
  "3046702": {
@@ -111,7 +111,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-17 06:36",
+  "last_seen": "2026-11-17 16:35",
   "status": "BERTHED"
  },
  "3046771": {
@@ -125,39 +125,6 @@
   ],
   "last_seen": "2026-11-05 08:57",
   "status": "MOVING"
- },
- "3046777": {
-  "name": "ECO AVALON",
-  "imo": "9701267",
-  "flagged_repair": true,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "VM-4"
-  ],
-  "last_seen": "2026-11-03 08:56",
-  "status": "BERTHED"
- },
- "3046786": {
-  "name": "LONGEON",
-  "imo": "9988102",
-  "flagged_repair": true,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KRS-01"
-  ],
-  "last_seen": "2026-11-03 08:56",
-  "status": "BERTHED"
- },
- "3046778": {
-  "name": "OCEAN CARRIER",
-  "imo": "9349435",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "ZO-02"
-  ],
-  "last_seen": "2026-11-03 08:56",
-  "status": "BERTHED"
  },
  "3046785": {
   "name": "MSC SHANNON III",
@@ -191,7 +158,7 @@
    "PD-K4",
    "RKR-6"
   ],
-  "last_seen": "2026-11-17 06:36",
+  "last_seen": "2026-11-17 16:35",
   "status": "BERTHED"
  },
  "3046790": {
@@ -675,7 +642,7 @@
   "berths_seen": [
    "KRS-03"
   ],
-  "last_seen": "2026-11-17 06:36",
+  "last_seen": "2026-11-17 16:35",
   "status": "BERTHED"
  },
  "3046840": {
@@ -687,7 +654,7 @@
    "MKR-4",
    "PD-419"
   ],
-  "last_seen": "2026-11-17 06:36",
+  "last_seen": "2026-11-17 16:35",
   "status": "BERTHED"
  },
  "3046802": {
@@ -826,7 +793,7 @@
    "KS-30",
    "MS-2"
   ],
-  "last_seen": "2026-11-17 06:36",
+  "last_seen": "2026-11-17 16:35",
   "status": "BERTHED"
  },
  "3046847": {
@@ -914,7 +881,7 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-11-17 06:36",
+  "last_seen": "2026-11-17 16:35",
   "status": "BERTHED"
  },
  "3046846": {
@@ -1006,7 +973,7 @@
   "berths_seen": [
    "KR-25"
   ],
-  "last_seen": "2026-11-17 06:36",
+  "last_seen": "2026-11-17 16:35",
   "status": "BERTHED"
  },
  "3046843": {
@@ -1167,9 +1134,10 @@
   "berths_seen": [
    "JM-22",
    "JM-23",
+   "KRS-01",
    "KRS-02"
   ],
-  "last_seen": "2026-11-17 06:36",
+  "last_seen": "2026-11-17 16:35",
   "status": "BERTHED"
  },
  "3046865": {
@@ -1202,7 +1170,7 @@
   "berths_seen": [
    "ZO-02"
   ],
-  "last_seen": "2026-11-17 06:36",
+  "last_seen": "2026-11-17 16:35",
   "status": "BERTHED"
  },
  "3046886": {
@@ -1224,7 +1192,7 @@
   "berths_seen": [
    "JM-15A"
   ],
-  "last_seen": "2026-11-17 06:36",
+  "last_seen": "2026-11-17 16:35",
   "status": "BERTHED"
  },
  "3046889": {
@@ -1235,7 +1203,7 @@
   "berths_seen": [
    "KRS-02"
   ],
-  "last_seen": "2026-11-17 06:36",
+  "last_seen": "2026-11-17 16:35",
   "status": "BERTHED"
  },
  "3046874": {
@@ -1291,7 +1259,7 @@
    "KRS-01",
    "MKR-1"
   ],
-  "last_seen": "2026-11-17 06:36",
+  "last_seen": "2026-11-17 16:35",
   "status": "BERTHED"
  },
  "3046883": {
@@ -1302,7 +1270,7 @@
   "berths_seen": [
    "DG-56"
   ],
-  "last_seen": "2026-11-17 06:36",
+  "last_seen": "2026-11-17 16:35",
   "status": "BERTHED"
  },
  "3046891": {
@@ -1313,7 +1281,7 @@
   "berths_seen": [
    "JM-23"
   ],
-  "last_seen": "2026-11-17 06:36",
+  "last_seen": "2026-11-17 16:35",
   "status": "BERTHED"
  },
  "3046850": {
@@ -1324,7 +1292,7 @@
   "berths_seen": [
    "KS-32"
   ],
-  "last_seen": "2026-11-17 06:36",
+  "last_seen": "2026-11-17 16:35",
   "status": "BERTHED"
  },
  "3046888": {
@@ -1335,7 +1303,40 @@
   "berths_seen": [
    "KS-34"
   ],
-  "last_seen": "2026-11-17 06:36",
+  "last_seen": "2026-11-17 16:35",
+  "status": "BERTHED"
+ },
+ "3046899": {
+  "name": "LNS SKALVIS/M53",
+  "imo": "",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "MK-3"
+  ],
+  "last_seen": "2026-11-17 16:35",
+  "status": "BERTHED"
+ },
+ "3046859": {
+  "name": "ELBOCEAN",
+  "imo": "9387425",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "ZO-01"
+  ],
+  "last_seen": "2026-11-17 16:35",
+  "status": "BERTHED"
+ },
+ "3046885": {
+  "name": "SONGA AURORA",
+  "imo": "9373632",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "ZO-18"
+  ],
+  "last_seen": "2026-11-17 16:35",
   "status": "BERTHED"
  }
 }

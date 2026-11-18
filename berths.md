@@ -1,20 +1,20 @@
-# Berth codes seen — 2026-11-18 16:11
+# Berth codes seen — 2026-11-19 00:03
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
 | Berth | Treated as repair | Vessels seen there |
 |---|---|---|
+| DG-56 |  | TORNEDALEN |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | ARGOS M |
 | EO-15 |  | MIRROR, RAGNA, X-PRESS GODAVARI |
-| JM-15A |  | ORAMALIA |
-| JM-22 |  | LONGEON |
-| KRS-01 | YES | HAVBRIS, KEIT, KRISTEL, SPANACO SIMPLICITY, WOLFGANG K. |
+| KRS-01 | YES | KEIT, KRISTEL, SPANACO SIMPLICITY, WOLFGANG K. |
 | KRS-02 | YES | HAVBRIS, SPANACO SIMPLICITY |
 | KRS-03 | YES | MFM NICOLE |
 | KS-30 |  | HERAKLITOS |
 | KS-32 |  | AILA, HERCULES J, SONDERBORG |
 | KS-34 |  | MIA SUMMER II |
+| LP-27 |  | RHOGAS |
 | MK-3 |  | LNS SKALVIS/M53 |
 | MKR-1 | YES | KEIT |
 | MKR-4 | YES | ARENT, BERING |
@@ -25,7 +25,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-791 | YES | FEGULUS, HEBO-P101 |
 | PD-K4 | YES | ASTRA, SELVAAGSUND |
 | PD-MTW | YES | ARENT |
-| PM-16 |  | SILVA |
+| PM-16 |  | LADY MONIQUE, SILVA |
 | RKR-4 | YES | ASTRA, POSEIDON I |
 | RKR-6 | YES | FEGULUS, HEBO-P101, SELVAAGSUND |
 | RKR-7 | YES | ASTRA, KESSU |

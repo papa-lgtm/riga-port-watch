@@ -1,26 +1,25 @@
-# Berth codes seen — 2026-11-18 00:57
+# Berth codes seen — 2026-11-18 16:11
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
 | Berth | Treated as repair | Vessels seen there |
 |---|---|---|
-| DG-56 |  | LONGVIKING |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | ARGOS M |
-| EO-15 |  | HAV SNAPPER, MIRROR, RAGNA, X-PRESS GODAVARI |
+| EO-15 |  | MIRROR, RAGNA, X-PRESS GODAVARI |
 | JM-15A |  | ORAMALIA |
 | JM-22 |  | LONGEON |
-| KR-25 |  | NORSE OMISHIMA |
 | KRS-01 | YES | HAVBRIS, KEIT, KRISTEL, SPANACO SIMPLICITY, WOLFGANG K. |
-| KRS-02 | YES | SPANACO LOYALTY, SPANACO SIMPLICITY |
+| KRS-02 | YES | HAVBRIS, SPANACO SIMPLICITY |
 | KRS-03 | YES | MFM NICOLE |
 | KS-30 |  | HERAKLITOS |
-| KS-32 |  | AILA, HERCULES J |
-| KS-34 |  | MSC MANDY III, MSC MIA SUMMER II |
+| KS-32 |  | AILA, HERCULES J, SONDERBORG |
+| KS-34 |  | MIA SUMMER II |
 | MK-3 |  | LNS SKALVIS/M53 |
 | MKR-1 | YES | KEIT |
 | MKR-4 | YES | ARENT, BERING |
 | MKR-5 | YES | ASTRA |
+| MS-10 |  | PONEM |
 | MS-2 |  | HERAKLITOS |
 | PD-419 | YES | ASTRA, BERING |
 | PD-791 | YES | FEGULUS, HEBO-P101 |
@@ -34,4 +33,4 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | ZO-01 |  | AILA, CMA CGM VISBY, HERCULES J |
 | ZO-02 |  | EQUINOX AGNANDOUSSA |
 | ZO-17 |  | ATLANTIS AUGUSTA |
-| ZO-18 |  | ATLANTIC WIND, SONGA AURORA |
+| ZO-18 |  | ATLANTIC WIND |

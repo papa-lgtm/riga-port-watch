@@ -9,7 +9,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-19 05:37",
+  "last_seen": "2026-11-19 15:24",
   "status": "BERTHED"
  },
  "3034270": {
@@ -21,7 +21,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-11-19 05:37",
+  "last_seen": "2026-11-19 15:24",
   "status": "BERTHED"
  },
  "3032756": {
@@ -37,7 +37,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-11-19 05:37",
+  "last_seen": "2026-11-19 15:24",
   "status": "BERTHED"
  },
  "3046630": {
@@ -49,7 +49,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-11-19 05:37",
+  "last_seen": "2026-11-19 15:24",
   "status": "BERTHED"
  },
  "3046659": {
@@ -99,20 +99,8 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-19 05:37",
+  "last_seen": "2026-11-19 15:24",
   "status": "BERTHED"
- },
- "3046771": {
-  "name": "KATARIINA",
-  "imo": "9467213",
-  "flagged_repair": true,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "MKR-3",
-   "PM-17"
-  ],
-  "last_seen": "2026-11-05 08:57",
-  "status": "MOVING"
  },
  "3046779": {
   "name": "SELVAAGSUND",
@@ -123,7 +111,7 @@
    "PD-K4",
    "RKR-6"
   ],
-  "last_seen": "2026-11-19 05:37",
+  "last_seen": "2026-11-19 15:24",
   "status": "BERTHED"
  },
  "3046794": {
@@ -173,17 +161,6 @@
   ],
   "last_seen": "2026-11-05 17:34",
   "status": "MOVING"
- },
- "3046807": {
-  "name": "RAGNA",
-  "imo": "9173329",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "EO-15"
-  ],
-  "last_seen": "2026-11-05 08:57",
-  "status": "BERTHED"
  },
  "3046806": {
   "name": "BALTIC EXPRESS",
@@ -501,12 +478,13 @@
   "name": "BERING",
   "imo": "9213595",
   "flagged_repair": true,
-  "flagged_long_stay": false,
+  "flagged_long_stay": true,
   "berths_seen": [
    "MKR-4",
+   "MKR-5",
    "PD-419"
   ],
-  "last_seen": "2026-11-19 05:37",
+  "last_seen": "2026-11-19 15:24",
   "status": "BERTHED"
  },
  "3046802": {
@@ -645,7 +623,7 @@
    "KS-30",
    "MS-2"
   ],
-  "last_seen": "2026-11-19 05:37",
+  "last_seen": "2026-11-19 15:24",
   "status": "BERTHED"
  },
  "3046847": {
@@ -733,7 +711,7 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-11-19 05:37",
+  "last_seen": "2026-11-19 15:24",
   "status": "BERTHED"
  },
  "3046846": {
@@ -1022,7 +1000,7 @@
   "berths_seen": [
    "ZO-02"
   ],
-  "last_seen": "2026-11-19 05:37",
+  "last_seen": "2026-11-19 15:24",
   "status": "BERTHED"
  },
  "3046886": {
@@ -1111,7 +1089,7 @@
    "KRS-01",
    "MKR-1"
   ],
-  "last_seen": "2026-11-19 05:37",
+  "last_seen": "2026-11-19 15:24",
   "status": "BERTHED"
  },
  "3046883": {
@@ -1244,8 +1222,8 @@
   "berths_seen": [
    "KS-34"
   ],
-  "last_seen": "2026-11-19 05:37",
-  "status": "BERTHED"
+  "last_seen": "2026-11-19 15:24",
+  "status": "MOVING"
  },
  "3046898": {
   "name": "HAVBRIS",
@@ -1253,9 +1231,10 @@
   "flagged_repair": true,
   "flagged_long_stay": false,
   "berths_seen": [
+   "DG-20",
    "KRS-02"
   ],
-  "last_seen": "2026-11-19 05:37",
+  "last_seen": "2026-11-19 15:24",
   "status": "BERTHED"
  },
  "3046901": {
@@ -1266,7 +1245,7 @@
   "berths_seen": [
    "PM-16"
   ],
-  "last_seen": "2026-11-19 05:37",
+  "last_seen": "2026-11-19 15:24",
   "status": "BERTHED"
  },
  "3046894": {
@@ -1278,7 +1257,7 @@
    "KS-32",
    "ZO-01"
   ],
-  "last_seen": "2026-11-19 05:37",
+  "last_seen": "2026-11-19 15:24",
   "status": "BERTHED"
  },
  "3046904": {
@@ -1301,6 +1280,51 @@
    "ZO-17"
   ],
   "last_seen": "2026-11-19 05:37",
+  "status": "BERTHED"
+ },
+ "3046900": {
+  "name": "KESSU",
+  "imo": "9519808",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "RKR-7"
+  ],
+  "last_seen": "2026-11-19 15:24",
+  "status": "BERTHED"
+ },
+ "3046903": {
+  "name": "RAGNA",
+  "imo": "9173329",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "EO-15"
+  ],
+  "last_seen": "2026-11-19 15:24",
+  "status": "BERTHED"
+ },
+ "3046907": {
+  "name": "PONEM",
+  "imo": "9167332",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "MS-10"
+  ],
+  "last_seen": "2026-11-19 15:24",
+  "status": "BERTHED"
+ },
+ "3046906": {
+  "name": "KRISTEL",
+  "imo": "9191747",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KRS-01",
+   "KRS-02"
+  ],
+  "last_seen": "2026-11-19 15:24",
   "status": "BERTHED"
  }
 }

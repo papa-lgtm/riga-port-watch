@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-20 00:14
+# Berth codes seen — 2026-11-20 05:31
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -6,7 +6,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 |---|---|---|
 | DG-20 |  | HAVBRIS |
 | DG-55 |  | BALTIC MADONNA |
-| DG-56 |  | TORNEDALEN |
+| DG-56 |  | LONGERA, TORNEDALEN |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | ARGOS M |
 | EO-15 |  | X-PRESS GODAVARI |
@@ -20,7 +20,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | MKR-1 | YES | KEIT |
 | MKR-4 | YES | ARENT, BERING |
 | MKR-5 | YES | ASTRA, BERING |
-| MS-10 |  | PONEM |
+| MS-10 |  | CAROLIN G |
 | PD-419 | YES | ASTRA, BERING |
 | PD-791 | YES | FEGULUS, HEBO-P101 |
 | PD-K4 | YES | ASTRA |
@@ -35,5 +35,4 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | SD-3 |  | RIX TANGO |
 | VM-4 | YES | SCOT NAVIGATOR |
 | ZO-01 |  | AILA, CMA CGM VISBY, ESPERANCE |
-| ZO-02 |  | EQUINOX AGNANDOUSSA |
 | ZO-04 |  | BEATA |

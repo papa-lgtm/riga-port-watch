@@ -1,12 +1,12 @@
-# Berth codes seen — 2026-11-20 05:31
+# Berth codes seen — 2026-11-20 15:05
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
 | Berth | Treated as repair | Vessels seen there |
 |---|---|---|
 | DG-20 |  | HAVBRIS |
-| DG-55 |  | BALTIC MADONNA |
-| DG-56 |  | LONGERA, TORNEDALEN |
+| DG-55 |  | ANTONIA B, LIDAN |
+| DG-56 |  | LONGERA, TORNEDALEN, VARMLAND |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | ARGOS M |
 | EO-15 |  | X-PRESS GODAVARI |
@@ -25,14 +25,15 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-791 | YES | FEGULUS, HEBO-P101 |
 | PD-K4 | YES | ASTRA |
 | PD-MTW | YES | ARENT |
-| PM-16 |  | LADY MONIQUE |
+| PM-16 |  | BEATA, LADY MONIQUE |
 | PM-19 |  | BEATA |
 | RD-3 |  | KATJA, KLARIKA |
 | RKR-4 | YES | ASTRA, POSEIDON I |
 | RKR-6 | YES | FEGULUS, HEBO-P101 |
-| RKR-7 | YES | ASTRA, KESSU |
+| RKR-7 | YES | ASTRA, KESSU, LONGPEARL |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-3 |  | RIX TANGO |
-| VM-4 | YES | SCOT NAVIGATOR |
+| VM-4 | YES | KRISTEL, SCOT NAVIGATOR |
 | ZO-01 |  | AILA, CMA CGM VISBY, ESPERANCE |
 | ZO-04 |  | BEATA |
+| ZO-12 |  | MERAIO |

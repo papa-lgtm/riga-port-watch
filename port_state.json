@@ -9,7 +9,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-20 05:31",
+  "last_seen": "2026-11-20 15:05",
   "status": "BERTHED"
  },
  "3034270": {
@@ -21,7 +21,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-11-20 05:31",
+  "last_seen": "2026-11-20 15:05",
   "status": "BERTHED"
  },
  "3032756": {
@@ -37,7 +37,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-11-20 05:31",
+  "last_seen": "2026-11-20 15:05",
   "status": "BERTHED"
  },
  "3046630": {
@@ -49,7 +49,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-11-20 05:31",
+  "last_seen": "2026-11-20 15:05",
   "status": "BERTHED"
  },
  "3046659": {
@@ -78,18 +78,6 @@
   "last_seen": "2026-11-17 16:35",
   "status": "BERTHED"
  },
- "3046702": {
-  "name": "KURLAND",
-  "imo": "9226803",
-  "flagged_repair": false,
-  "flagged_long_stay": true,
-  "berths_seen": [
-   "DG-20",
-   "JM-22"
-  ],
-  "last_seen": "2026-11-06 13:04",
-  "status": "BERTHED"
- },
  "3046742": {
   "name": "FEGULUS",
   "imo": "9055709",
@@ -99,7 +87,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-20 05:31",
+  "last_seen": "2026-11-20 15:05",
   "status": "BERTHED"
  },
  "3046779": {
@@ -426,7 +414,7 @@
    "MKR-5",
    "PD-419"
   ],
-  "last_seen": "2026-11-20 05:31",
+  "last_seen": "2026-11-20 15:05",
   "status": "BERTHED"
  },
  "3046802": {
@@ -653,7 +641,7 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-11-20 05:31",
+  "last_seen": "2026-11-20 15:05",
   "status": "BERTHED"
  },
  "3046846": {
@@ -1031,7 +1019,7 @@
    "KRS-01",
    "MKR-1"
   ],
-  "last_seen": "2026-11-20 05:31",
+  "last_seen": "2026-11-20 15:05",
   "status": "BERTHED"
  },
  "3046883": {
@@ -1176,7 +1164,7 @@
    "DG-20",
    "KRS-02"
   ],
-  "last_seen": "2026-11-20 05:31",
+  "last_seen": "2026-11-20 15:05",
   "status": "BERTHED"
  },
  "3046901": {
@@ -1232,7 +1220,7 @@
   "berths_seen": [
    "RKR-7"
   ],
-  "last_seen": "2026-11-20 05:31",
+  "last_seen": "2026-11-20 15:05",
   "status": "BERTHED"
  },
  "3046903": {
@@ -1264,9 +1252,10 @@
   "flagged_long_stay": false,
   "berths_seen": [
    "KRS-01",
-   "KRS-02"
+   "KRS-02",
+   "VM-4"
   ],
-  "last_seen": "2026-11-20 05:31",
+  "last_seen": "2026-11-20 15:05",
   "status": "BERTHED"
  },
  "3046912": {
@@ -1277,7 +1266,7 @@
   "berths_seen": [
    "PM-16"
   ],
-  "last_seen": "2026-11-20 05:31",
+  "last_seen": "2026-11-20 15:05",
   "status": "BERTHED"
  },
  "3046911": {
@@ -1288,7 +1277,18 @@
   "berths_seen": [
    "DG-56"
   ],
-  "last_seen": "2026-11-20 05:31",
+  "last_seen": "2026-11-20 15:05",
+  "status": "BERTHED"
+ },
+ "3046913": {
+  "name": "LNS JOTVINGIS N42",
+  "imo": "",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "MK-3"
+  ],
+  "last_seen": "2026-11-20 15:05",
   "status": "BERTHED"
  }
 }

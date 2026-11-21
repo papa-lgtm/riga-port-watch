@@ -9,7 +9,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-20 23:14",
+  "last_seen": "2026-11-21 04:30",
   "status": "BERTHED"
  },
  "3034270": {
@@ -21,7 +21,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-11-20 23:14",
+  "last_seen": "2026-11-21 04:30",
   "status": "BERTHED"
  },
  "3032756": {
@@ -37,7 +37,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-11-20 23:14",
+  "last_seen": "2026-11-21 04:30",
   "status": "BERTHED"
  },
  "3046630": {
@@ -49,7 +49,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-11-20 23:14",
+  "last_seen": "2026-11-21 04:30",
   "status": "BERTHED"
  },
  "3046659": {
@@ -87,7 +87,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-20 23:14",
+  "last_seen": "2026-11-21 04:30",
   "status": "BERTHED"
  },
  "3046779": {
@@ -414,7 +414,7 @@
    "MKR-5",
    "PD-419"
   ],
-  "last_seen": "2026-11-20 23:14",
+  "last_seen": "2026-11-21 04:30",
   "status": "BERTHED"
  },
  "3046802": {
@@ -641,7 +641,7 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-11-20 23:14",
+  "last_seen": "2026-11-21 04:30",
   "status": "BERTHED"
  },
  "3046846": {
@@ -1164,7 +1164,7 @@
    "DG-20",
    "KRS-02"
   ],
-  "last_seen": "2026-11-20 23:14",
+  "last_seen": "2026-11-21 04:30",
   "status": "BERTHED"
  },
  "3046901": {
@@ -1257,7 +1257,7 @@
    "RKR-8",
    "VM-4"
   ],
-  "last_seen": "2026-11-20 23:14",
+  "last_seen": "2026-11-21 04:30",
   "status": "BERTHED"
  },
  "3046912": {
@@ -1268,8 +1268,8 @@
   "berths_seen": [
    "PM-16"
   ],
-  "last_seen": "2026-11-20 23:14",
-  "status": "BERTHED"
+  "last_seen": "2026-11-21 04:30",
+  "status": "MOVING"
  },
  "3046911": {
   "name": "TORNEDALEN",
@@ -1290,7 +1290,7 @@
   "berths_seen": [
    "MK-3"
   ],
-  "last_seen": "2026-11-20 23:14",
+  "last_seen": "2026-11-21 04:30",
   "status": "BERTHED"
  },
  "3046910": {
@@ -1301,7 +1301,7 @@
   "berths_seen": [
    "LP-27"
   ],
-  "last_seen": "2026-11-20 23:14",
+  "last_seen": "2026-11-21 04:30",
   "status": "BERTHED"
  },
  "3046926": {
@@ -1312,7 +1312,7 @@
   "berths_seen": [
    "DG-56"
   ],
-  "last_seen": "2026-11-20 23:14",
+  "last_seen": "2026-11-21 04:30",
   "status": "BERTHED"
  },
  "3046924": {
@@ -1324,7 +1324,7 @@
    "JM-23",
    "VM-4"
   ],
-  "last_seen": "2026-11-20 23:14",
+  "last_seen": "2026-11-21 04:30",
   "status": "BERTHED"
  },
  "3046928": {
@@ -1335,7 +1335,7 @@
   "berths_seen": [
    "MS-10"
   ],
-  "last_seen": "2026-11-20 23:14",
+  "last_seen": "2026-11-21 04:30",
   "status": "BERTHED"
  },
  "3046918": {
@@ -1346,7 +1346,19 @@
   "berths_seen": [
    "RD-3"
   ],
-  "last_seen": "2026-11-20 23:14",
+  "last_seen": "2026-11-21 04:30",
+  "status": "BERTHED"
+ },
+ "3046892": {
+  "name": "CMA CGM VISBY",
+  "imo": "9961324",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "ZO-01",
+   "ZO-02"
+  ],
+  "last_seen": "2026-11-21 04:30",
   "status": "BERTHED"
  }
 }

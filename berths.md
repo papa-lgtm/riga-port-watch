@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-20 23:14
+# Berth codes seen — 2026-11-21 04:30
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -12,13 +12,12 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-15 |  | X-PRESS GODAVARI |
 | JM-23 |  | SCOT NAVIGATOR |
 | KR-25 |  | SOLE |
-| KRS-01 | YES | KEIT, KRISTEL, WOLFGANG K. |
+| KRS-01 | YES | KRISTEL, WOLFGANG K. |
 | KRS-02 | YES | HAVBRIS, KRISTEL |
 | KS-32 |  | AILA, SONDERBORG |
 | KS-34 |  | MSC ASLI II |
 | LP-27 |  | RHOGAS |
 | MK-3 |  | LNS JOTVINGIS N42 |
-| MKR-1 | YES | KEIT |
 | MKR-4 | YES | ARENT, BERING |
 | MKR-5 | YES | ASTRA, BERING |
 | MS-10 |  | CAROLIN G |
@@ -31,7 +30,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RD-3 |  | KATJA, KLARIKA, KRISTEL |
 | RKR-4 | YES | ASTRA, POSEIDON I |
 | RKR-6 | YES | FEGULUS, HEBO-P101 |
-| RKR-7 | YES | ASTRA, KESSU, LONGPEARL |
+| RKR-7 | YES | ASTRA, LONGPEARL |
 | RKR-8 | YES | KRISTEL |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-3 |  | RIX TANGO |

@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-21 13:19
+# Berth codes seen — 2026-11-21 21:24
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -6,7 +6,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 |---|---|---|
 | DG-20 |  | HAVBRIS |
 | DG-55 |  | ANTONIA B, LIDAN |
-| DG-56 |  | LONGERA, VARMLAND |
+| DG-56 |  | LONGERA |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | ARGOS M |
 | EO-15 |  | X-PRESS GODAVARI |
@@ -29,7 +29,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PM-16 |  | BEATA |
 | PM-17 |  | PRIMA KING |
 | PM-19 |  | BEATA |
-| RD-3 |  | KATJA, KLARIKA, KRISTEL, LONGVIND |
+| RD-3 |  | KATJA, KRISTEL, LONGVIND |
 | RKR-4 | YES | ASTRA, POSEIDON I |
 | RKR-6 | YES | FEGULUS, HEBO-P101 |
 | RKR-7 | YES | ASTRA, LONGPEARL |
@@ -37,7 +37,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-3 |  | RIX TANGO |
 | VM-4 | YES | KAISA, KRISTEL, SCOT NAVIGATOR |
-| ZO-01 |  | AILA, CMA CGM VISBY, ESPERANCE |
-| ZO-02 |  | CMA CGM VISBY |
+| ZO-01 |  | AILA, ESPERANCE |
 | ZO-04 |  | BEATA |
 | ZO-12 |  | MERAIO |

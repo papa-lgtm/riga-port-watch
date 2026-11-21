@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-21 04:30
+# Berth codes seen — 2026-11-21 13:19
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -15,19 +15,21 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KRS-01 | YES | KRISTEL, WOLFGANG K. |
 | KRS-02 | YES | HAVBRIS, KRISTEL |
 | KS-32 |  | AILA, SONDERBORG |
-| KS-34 |  | MSC ASLI II |
+| KS-34 |  | JUDITH, MSC ASLI II |
 | LP-27 |  | RHOGAS |
 | MK-3 |  | LNS JOTVINGIS N42 |
+| MKR-1 | YES | ARMIA KRAJOWA |
+| MKR-3 | YES | TARZAN |
 | MKR-4 | YES | ARENT, BERING |
 | MKR-5 | YES | ASTRA, BERING |
-| MS-10 |  | CAROLIN G |
 | PD-419 | YES | ASTRA, BERING |
 | PD-791 | YES | FEGULUS, HEBO-P101 |
 | PD-K4 | YES | ASTRA |
 | PD-MTW | YES | ARENT |
-| PM-16 |  | BEATA, LADY MONIQUE |
+| PM-16 |  | BEATA |
+| PM-17 |  | PRIMA KING |
 | PM-19 |  | BEATA |
-| RD-3 |  | KATJA, KLARIKA, KRISTEL |
+| RD-3 |  | KATJA, KLARIKA, KRISTEL, LONGVIND |
 | RKR-4 | YES | ASTRA, POSEIDON I |
 | RKR-6 | YES | FEGULUS, HEBO-P101 |
 | RKR-7 | YES | ASTRA, LONGPEARL |

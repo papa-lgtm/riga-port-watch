@@ -9,7 +9,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-21 04:30",
+  "last_seen": "2026-11-21 13:19",
   "status": "BERTHED"
  },
  "3034270": {
@@ -21,7 +21,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-11-21 04:30",
+  "last_seen": "2026-11-21 13:19",
   "status": "BERTHED"
  },
  "3032756": {
@@ -37,7 +37,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-11-21 04:30",
+  "last_seen": "2026-11-21 13:19",
   "status": "BERTHED"
  },
  "3046630": {
@@ -49,7 +49,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-11-21 04:30",
+  "last_seen": "2026-11-21 13:19",
   "status": "BERTHED"
  },
  "3046659": {
@@ -87,7 +87,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-21 04:30",
+  "last_seen": "2026-11-21 13:19",
   "status": "BERTHED"
  },
  "3046779": {
@@ -125,17 +125,6 @@
    "RKR-8"
   ],
   "last_seen": "2026-11-07 22:56",
-  "status": "BERTHED"
- },
- "3046803": {
-  "name": "HELGA",
-  "imo": "8402577",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "JM-29"
-  ],
-  "last_seen": "2026-11-07 04:54",
   "status": "BERTHED"
  },
  "3046796": {
@@ -189,28 +178,6 @@
   "last_seen": "2026-11-07 18:52",
   "status": "BERTHED"
  },
- "3046810": {
-  "name": "AMBER STAR",
-  "imo": "9534286",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KR-21"
-  ],
-  "last_seen": "2026-11-07 12:23",
-  "status": "BERTHED"
- },
- "3046788": {
-  "name": "CMA CGM MERMAID",
-  "imo": "9961283",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "ZO-01"
-  ],
-  "last_seen": "2026-11-07 04:54",
-  "status": "BERTHED"
- },
  "3046817": {
   "name": "LOSONE TOPIC",
   "imo": "9736066",
@@ -221,17 +188,6 @@
    "VM-4"
   ],
   "last_seen": "2026-11-13 11:40",
-  "status": "BERTHED"
- },
- "3046809": {
-  "name": "NAVITA",
-  "imo": "8324737",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "JM-22"
-  ],
-  "last_seen": "2026-11-07 12:23",
   "status": "BERTHED"
  },
  "3046820": {
@@ -256,17 +212,6 @@
   ],
   "last_seen": "2026-11-08 02:44",
   "status": "MOVING"
- },
- "3046816": {
-  "name": "KETTER",
-  "imo": "9195860",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "SD-3"
-  ],
-  "last_seen": "2026-11-07 12:23",
-  "status": "BERTHED"
  },
  "3046826": {
   "name": "LADY MENNA",
@@ -414,7 +359,7 @@
    "MKR-5",
    "PD-419"
   ],
-  "last_seen": "2026-11-21 04:30",
+  "last_seen": "2026-11-21 13:19",
   "status": "BERTHED"
  },
  "3046802": {
@@ -641,7 +586,7 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-11-21 04:30",
+  "last_seen": "2026-11-21 13:19",
   "status": "BERTHED"
  },
  "3046846": {
@@ -1164,7 +1109,7 @@
    "DG-20",
    "KRS-02"
   ],
-  "last_seen": "2026-11-21 04:30",
+  "last_seen": "2026-11-21 13:19",
   "status": "BERTHED"
  },
  "3046901": {
@@ -1257,7 +1202,7 @@
    "RKR-8",
    "VM-4"
   ],
-  "last_seen": "2026-11-21 04:30",
+  "last_seen": "2026-11-21 13:19",
   "status": "BERTHED"
  },
  "3046912": {
@@ -1290,7 +1235,7 @@
   "berths_seen": [
    "MK-3"
   ],
-  "last_seen": "2026-11-21 04:30",
+  "last_seen": "2026-11-21 13:19",
   "status": "BERTHED"
  },
  "3046910": {
@@ -1301,7 +1246,7 @@
   "berths_seen": [
    "LP-27"
   ],
-  "last_seen": "2026-11-21 04:30",
+  "last_seen": "2026-11-21 13:19",
   "status": "BERTHED"
  },
  "3046926": {
@@ -1312,7 +1257,7 @@
   "berths_seen": [
    "DG-56"
   ],
-  "last_seen": "2026-11-21 04:30",
+  "last_seen": "2026-11-21 13:19",
   "status": "BERTHED"
  },
  "3046924": {
@@ -1324,7 +1269,7 @@
    "JM-23",
    "VM-4"
   ],
-  "last_seen": "2026-11-21 04:30",
+  "last_seen": "2026-11-21 13:19",
   "status": "BERTHED"
  },
  "3046928": {
@@ -1346,7 +1291,7 @@
   "berths_seen": [
    "RD-3"
   ],
-  "last_seen": "2026-11-21 04:30",
+  "last_seen": "2026-11-21 13:19",
   "status": "BERTHED"
  },
  "3046892": {
@@ -1358,7 +1303,31 @@
    "ZO-01",
    "ZO-02"
   ],
-  "last_seen": "2026-11-21 04:30",
+  "last_seen": "2026-11-21 13:19",
+  "status": "BERTHED"
+ },
+ "3046931": {
+  "name": "LIDAN",
+  "imo": "9924730",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "DG-55"
+  ],
+  "last_seen": "2026-11-21 13:19",
+  "status": "BERTHED"
+ },
+ "3046919": {
+  "name": "BEATA",
+  "imo": "9053828",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "PM-16",
+   "PM-19",
+   "ZO-04"
+  ],
+  "last_seen": "2026-11-21 13:19",
   "status": "BERTHED"
  }
 }

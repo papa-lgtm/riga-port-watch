@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-22 02:23
+# Berth codes seen — 2026-11-22 10:05
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -10,33 +10,31 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | ARGOS M |
 | EO-15 |  | X-PRESS GODAVARI |
-| JM-23 |  | SCOT NAVIGATOR |
 | KR-25 |  | SOLE |
-| KRS-01 | YES | KRISTEL, WOLFGANG K. |
-| KRS-02 | YES | HAVBRIS, KRISTEL |
-| KS-32 |  | AILA, SONDERBORG |
+| KRS-01 | YES | WOLFGANG K. |
+| KRS-02 | YES | HAVBRIS, WOLFGANG K. |
+| KS-32 |  | AILA, ENCOUNTER, SONDERBORG |
 | KS-34 |  | JUDITH, MSC ASLI II |
-| LP-27 |  | RHOGAS |
 | MK-3 |  | LNS JOTVINGIS N42 |
 | MKR-1 | YES | ARMIA KRAJOWA |
 | MKR-3 | YES | TARZAN |
 | MKR-4 | YES | ARENT, BERING |
 | MKR-5 | YES | ASTRA, BERING |
 | PD-419 | YES | ASTRA, BERING |
+| PD-75 | YES | HAVBRIS |
 | PD-791 | YES | FEGULUS, HEBO-P101 |
 | PD-K4 | YES | ASTRA |
 | PD-MTW | YES | ARENT |
 | PM-16 |  | BEATA |
 | PM-17 |  | PRIMA KING |
 | PM-19 |  | BEATA |
-| RD-3 |  | KATJA, KRISTEL, LONGVIND |
+| RD-3 |  | KATJA, LONGVIND |
 | RKR-4 | YES | ASTRA, POSEIDON I |
 | RKR-6 | YES | FEGULUS, HEBO-P101 |
 | RKR-7 | YES | ASTRA, LONGPEARL |
-| RKR-8 | YES | KRISTEL |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-3 |  | RIX TANGO |
-| VM-4 | YES | KAISA, KRISTEL, SCOT NAVIGATOR |
-| ZO-01 |  | AILA, ESPERANCE |
+| VM-4 | YES | KAISA |
+| ZO-01 |  | AILA, ENCOUNTER, ESPERANCE |
 | ZO-04 |  | BEATA |
 | ZO-12 |  | MERAIO |

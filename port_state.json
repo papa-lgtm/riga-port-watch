@@ -9,7 +9,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-22 18:21",
+  "last_seen": "2026-11-23 00:30",
   "status": "BERTHED"
  },
  "3034270": {
@@ -21,7 +21,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-11-22 18:21",
+  "last_seen": "2026-11-23 00:30",
   "status": "BERTHED"
  },
  "3032756": {
@@ -37,7 +37,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-11-22 18:21",
+  "last_seen": "2026-11-23 00:30",
   "status": "BERTHED"
  },
  "3046630": {
@@ -49,7 +49,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-11-22 18:21",
+  "last_seen": "2026-11-23 00:30",
   "status": "BERTHED"
  },
  "3046659": {
@@ -87,7 +87,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-22 18:21",
+  "last_seen": "2026-11-23 00:30",
   "status": "BERTHED"
  },
  "3046779": {
@@ -245,18 +245,6 @@
   "last_seen": "2026-11-09 02:58",
   "status": "BERTHED"
  },
- "3046830": {
-  "name": "RAGNA",
-  "imo": "9173329",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "EO-15",
-   "ZO-01"
-  ],
-  "last_seen": "2026-11-08 22:32",
-  "status": "BERTHED"
- },
  "3046835": {
   "name": "TERN LAND",
   "imo": "9988994",
@@ -289,7 +277,7 @@
    "MKR-5",
    "PD-419"
   ],
-  "last_seen": "2026-11-22 18:21",
+  "last_seen": "2026-11-23 00:30",
   "status": "BERTHED"
  },
  "3046802": {
@@ -516,7 +504,7 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-11-22 18:21",
+  "last_seen": "2026-11-23 00:30",
   "status": "BERTHED"
  },
  "3046846": {
@@ -1040,7 +1028,7 @@
    "KRS-02",
    "PD-75"
   ],
-  "last_seen": "2026-11-22 18:21",
+  "last_seen": "2026-11-23 00:30",
   "status": "BERTHED"
  },
  "3046901": {
@@ -1166,7 +1154,7 @@
   "berths_seen": [
    "MK-3"
   ],
-  "last_seen": "2026-11-22 18:21",
+  "last_seen": "2026-11-23 00:30",
   "status": "BERTHED"
  },
  "3046910": {
@@ -1269,7 +1257,7 @@
   "berths_seen": [
    "RKR-7"
   ],
-  "last_seen": "2026-11-22 18:21",
+  "last_seen": "2026-11-23 00:30",
   "status": "BERTHED"
  },
  "3046927": {
@@ -1280,7 +1268,7 @@
   "berths_seen": [
    "DG-56"
   ],
-  "last_seen": "2026-11-22 18:21",
+  "last_seen": "2026-11-23 00:30",
   "status": "BERTHED"
  },
  "3046934": {
@@ -1291,7 +1279,7 @@
   "berths_seen": [
    "VM-4"
   ],
-  "last_seen": "2026-11-22 18:21",
+  "last_seen": "2026-11-23 00:30",
   "status": "BERTHED"
  },
  "3046905": {
@@ -1303,7 +1291,7 @@
    "KRS-01",
    "KRS-02"
   ],
-  "last_seen": "2026-11-22 18:21",
+  "last_seen": "2026-11-23 00:30",
   "status": "BERTHED"
  },
  "3046922": {
@@ -1314,7 +1302,7 @@
   "berths_seen": [
    "KS-34"
   ],
-  "last_seen": "2026-11-22 18:21",
+  "last_seen": "2026-11-23 00:30",
   "status": "BERTHED"
  },
  "3046935": {
@@ -1325,8 +1313,8 @@
   "berths_seen": [
    "RD-3"
   ],
-  "last_seen": "2026-11-22 18:21",
-  "status": "BERTHED"
+  "last_seen": "2026-11-23 00:30",
+  "status": "MOVING"
  },
  "3046930": {
   "name": "MERAIO",
@@ -1336,7 +1324,7 @@
   "berths_seen": [
    "ZO-12"
   ],
-  "last_seen": "2026-11-22 18:21",
+  "last_seen": "2026-11-23 00:30",
   "status": "BERTHED"
  },
  "3046893": {
@@ -1348,7 +1336,7 @@
    "KS-32",
    "ZO-01"
   ],
-  "last_seen": "2026-11-22 18:21",
+  "last_seen": "2026-11-23 00:30",
   "status": "BERTHED"
  },
  "3046921": {
@@ -1359,7 +1347,18 @@
   "berths_seen": [
    "KR-25"
   ],
-  "last_seen": "2026-11-22 18:21",
+  "last_seen": "2026-11-23 00:30",
+  "status": "BERTHED"
+ },
+ "3046895": {
+  "name": "X-PRESS GODAVARI",
+  "imo": "9353735",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "EO-15"
+  ],
+  "last_seen": "2026-11-23 00:30",
   "status": "BERTHED"
  }
 }

@@ -9,7 +9,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-22 10:05",
+  "last_seen": "2026-11-22 18:21",
   "status": "BERTHED"
  },
  "3034270": {
@@ -21,7 +21,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-11-22 10:05",
+  "last_seen": "2026-11-22 18:21",
   "status": "BERTHED"
  },
  "3032756": {
@@ -37,7 +37,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-11-22 10:05",
+  "last_seen": "2026-11-22 18:21",
   "status": "BERTHED"
  },
  "3046630": {
@@ -49,7 +49,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-11-22 10:05",
+  "last_seen": "2026-11-22 18:21",
   "status": "BERTHED"
  },
  "3046659": {
@@ -87,7 +87,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-22 10:05",
+  "last_seen": "2026-11-22 18:21",
   "status": "BERTHED"
  },
  "3046779": {
@@ -165,17 +165,6 @@
   "last_seen": "2026-11-13 11:40",
   "status": "BERTHED"
  },
- "3046826": {
-  "name": "LADY MENNA",
-  "imo": "9904340",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "PM-16"
-  ],
-  "last_seen": "2026-11-08 17:19",
-  "status": "BERTHED"
- },
  "3046829": {
   "name": "STELLAR ALAZANI",
   "imo": "9708265",
@@ -196,17 +185,6 @@
    "KS-34"
   ],
   "last_seen": "2026-11-09 02:58",
-  "status": "BERTHED"
- },
- "3046824": {
-  "name": "LONGEON",
-  "imo": "9988102",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "ZO-05"
-  ],
-  "last_seen": "2026-11-08 17:19",
   "status": "BERTHED"
  },
  "3046828": {
@@ -311,7 +289,7 @@
    "MKR-5",
    "PD-419"
   ],
-  "last_seen": "2026-11-22 10:05",
+  "last_seen": "2026-11-22 18:21",
   "status": "BERTHED"
  },
  "3046802": {
@@ -534,11 +512,11 @@
   "name": "ARGOS M",
   "imo": "9502788",
   "flagged_repair": false,
-  "flagged_long_stay": false,
+  "flagged_long_stay": true,
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-11-22 10:05",
+  "last_seen": "2026-11-22 18:21",
   "status": "BERTHED"
  },
  "3046846": {
@@ -1062,7 +1040,7 @@
    "KRS-02",
    "PD-75"
   ],
-  "last_seen": "2026-11-22 10:05",
+  "last_seen": "2026-11-22 18:21",
   "status": "BERTHED"
  },
  "3046901": {
@@ -1188,7 +1166,7 @@
   "berths_seen": [
    "MK-3"
   ],
-  "last_seen": "2026-11-22 10:05",
+  "last_seen": "2026-11-22 18:21",
   "status": "BERTHED"
  },
  "3046910": {
@@ -1280,7 +1258,7 @@
    "PM-19",
    "ZO-04"
   ],
-  "last_seen": "2026-11-22 10:05",
+  "last_seen": "2026-11-22 18:21",
   "status": "BERTHED"
  },
  "3046929": {
@@ -1291,7 +1269,7 @@
   "berths_seen": [
    "RKR-7"
   ],
-  "last_seen": "2026-11-22 10:05",
+  "last_seen": "2026-11-22 18:21",
   "status": "BERTHED"
  },
  "3046927": {
@@ -1302,7 +1280,7 @@
   "berths_seen": [
    "DG-56"
   ],
-  "last_seen": "2026-11-22 10:05",
+  "last_seen": "2026-11-22 18:21",
   "status": "BERTHED"
  },
  "3046934": {
@@ -1313,7 +1291,7 @@
   "berths_seen": [
    "VM-4"
   ],
-  "last_seen": "2026-11-22 10:05",
+  "last_seen": "2026-11-22 18:21",
   "status": "BERTHED"
  },
  "3046905": {
@@ -1325,7 +1303,7 @@
    "KRS-01",
    "KRS-02"
   ],
-  "last_seen": "2026-11-22 10:05",
+  "last_seen": "2026-11-22 18:21",
   "status": "BERTHED"
  },
  "3046922": {
@@ -1336,7 +1314,7 @@
   "berths_seen": [
    "KS-34"
   ],
-  "last_seen": "2026-11-22 10:05",
+  "last_seen": "2026-11-22 18:21",
   "status": "BERTHED"
  },
  "3046935": {
@@ -1347,7 +1325,41 @@
   "berths_seen": [
    "RD-3"
   ],
-  "last_seen": "2026-11-22 10:05",
+  "last_seen": "2026-11-22 18:21",
+  "status": "BERTHED"
+ },
+ "3046930": {
+  "name": "MERAIO",
+  "imo": "9502817",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "ZO-12"
+  ],
+  "last_seen": "2026-11-22 18:21",
+  "status": "BERTHED"
+ },
+ "3046893": {
+  "name": "AILA",
+  "imo": "9354337",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KS-32",
+   "ZO-01"
+  ],
+  "last_seen": "2026-11-22 18:21",
+  "status": "BERTHED"
+ },
+ "3046921": {
+  "name": "SOLE",
+  "imo": "9650145",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KR-25"
+  ],
+  "last_seen": "2026-11-22 18:21",
   "status": "BERTHED"
  }
 }

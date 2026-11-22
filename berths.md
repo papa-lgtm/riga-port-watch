@@ -1,14 +1,14 @@
-# Berth codes seen — 2026-11-22 10:05
+# Berth codes seen — 2026-11-22 18:21
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
 | Berth | Treated as repair | Vessels seen there |
 |---|---|---|
 | DG-20 |  | HAVBRIS |
-| DG-55 |  | ANTONIA B, LIDAN |
+| DG-55 |  | ANTONIA B |
 | DG-56 |  | LONGERA |
 | EO-12 |  | HEBO-P101 |
-| EO-14 |  | ARGOS M |
+| EO-14 |  | ARGOS M, ATLANTIC VISION |
 | EO-15 |  | X-PRESS GODAVARI |
 | KR-25 |  | SOLE |
 | KRS-01 | YES | WOLFGANG K. |
@@ -34,7 +34,8 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-7 | YES | ASTRA, LONGPEARL |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-3 |  | RIX TANGO |
-| VM-4 | YES | KAISA |
+| SD-4 |  | HUMBER SPRINTER |
+| VM-4 | YES | KAISA, RIX ATLANTIC |
 | ZO-01 |  | AILA, ENCOUNTER, ESPERANCE |
 | ZO-04 |  | BEATA |
 | ZO-12 |  | MERAIO |

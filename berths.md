@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-23 00:30
+# Berth codes seen — 2026-11-23 05:44
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -26,7 +26,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-K4 | YES | ASTRA |
 | PD-MTW | YES | ARENT |
 | PM-17 |  | PRIMA KING |
-| RD-3 |  | KATJA, LONGVIND |
+| RD-3 |  | KATJA |
 | RKR-4 | YES | ASTRA, POSEIDON I |
 | RKR-6 | YES | FEGULUS, HEBO-P101 |
 | RKR-7 | YES | ASTRA, LONGPEARL |

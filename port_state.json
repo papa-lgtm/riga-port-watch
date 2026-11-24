@@ -9,7 +9,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-24 15:53",
+  "last_seen": "2026-11-25 01:29",
   "status": "BERTHED"
  },
  "3034270": {
@@ -21,7 +21,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-11-24 15:53",
+  "last_seen": "2026-11-25 01:29",
   "status": "BERTHED"
  },
  "3032756": {
@@ -37,7 +37,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-11-24 15:53",
+  "last_seen": "2026-11-25 01:29",
   "status": "BERTHED"
  },
  "3046630": {
@@ -49,7 +49,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-11-24 15:53",
+  "last_seen": "2026-11-25 01:29",
   "status": "BERTHED"
  },
  "3046659": {
@@ -87,7 +87,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-24 15:53",
+  "last_seen": "2026-11-25 01:29",
   "status": "BERTHED"
  },
  "3046779": {
@@ -163,18 +163,6 @@
   "last_seen": "2026-11-11 17:21",
   "status": "BERTHED"
  },
- "3046827": {
-  "name": "BALTIC GERMANY",
-  "imo": "1112329",
-  "flagged_repair": true,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "RKR-7",
-   "SD-3"
-  ],
-  "last_seen": "2026-11-11 01:28",
-  "status": "BERTHED"
- },
  "3046833": {
   "name": "MFM NICOLE",
   "imo": "1043566",
@@ -198,28 +186,6 @@
   ],
   "last_seen": "2026-11-24 04:17",
   "status": "BERTHED"
- },
- "3046836": {
-  "name": "REVALA",
-  "imo": "1097438",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "PM-17"
-  ],
-  "last_seen": "2026-11-11 01:28",
-  "status": "MOVING"
- },
- "3046815": {
-  "name": "ELBMOON",
-  "imo": "9359258",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "ZO-01"
-  ],
-  "last_seen": "2026-11-10 19:55",
-  "status": "MOVING"
  },
  "3046813": {
   "name": "JOMI",
@@ -914,7 +880,7 @@
    "KRS-02",
    "PD-75"
   ],
-  "last_seen": "2026-11-24 15:53",
+  "last_seen": "2026-11-25 01:29",
   "status": "BERTHED"
  },
  "3046901": {
@@ -1210,7 +1176,7 @@
   "berths_seen": [
    "ZO-12"
   ],
-  "last_seen": "2026-11-24 15:53",
+  "last_seen": "2026-11-25 01:29",
   "status": "BERTHED"
  },
  "3046893": {
@@ -1233,7 +1199,7 @@
   "berths_seen": [
    "KR-25"
   ],
-  "last_seen": "2026-11-24 15:53",
+  "last_seen": "2026-11-25 01:29",
   "status": "BERTHED"
  },
  "3046895": {
@@ -1266,7 +1232,7 @@
   "berths_seen": [
    "MKR-1"
   ],
-  "last_seen": "2026-11-24 15:53",
+  "last_seen": "2026-11-25 01:29",
   "status": "BERTHED"
  },
  "3046933": {
@@ -1277,7 +1243,7 @@
   "berths_seen": [
    "KS-34"
   ],
-  "last_seen": "2026-11-24 15:53",
+  "last_seen": "2026-11-25 01:29",
   "status": "BERTHED"
  },
  "3046938": {
@@ -1310,7 +1276,7 @@
   "berths_seen": [
    "MKR-3"
   ],
-  "last_seen": "2026-11-24 15:53",
+  "last_seen": "2026-11-25 01:29",
   "status": "BERTHED"
  },
  "3046917": {
@@ -1323,7 +1289,7 @@
    "EO-10",
    "SD-3"
   ],
-  "last_seen": "2026-11-24 15:53",
+  "last_seen": "2026-11-25 01:29",
   "status": "BERTHED"
  },
  "3046909": {
@@ -1335,6 +1301,17 @@
    "ZO-01"
   ],
   "last_seen": "2026-11-24 15:53",
+  "status": "BERTHED"
+ },
+ "3046946": {
+  "name": "BALTIC GERMANY",
+  "imo": "1112329",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "RKR-7"
+  ],
+  "last_seen": "2026-11-25 01:29",
   "status": "BERTHED"
  }
 }

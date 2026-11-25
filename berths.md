@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-25 10:46
+# Berth codes seen — 2026-11-25 21:23
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -10,15 +10,16 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-10 |  | RIX TANGO |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | ATLANTIC VISION |
-| EO-15 |  | ELBSTROM, X-PRESS GODAVARI |
+| EO-15 |  | ELBSTROM, NOVA, X-PRESS GODAVARI |
 | JM-29 |  | BALTIC EXPRESS |
+| KR-21 |  | SOFIA VG |
 | KR-25 |  | SOLE |
-| KRS-01 | YES | CEMENT SUPPLIER |
+| KRS-01 | YES | CEMENT SUPPLIER, SOFIA VG |
 | KRS-02 | YES | HAVBRIS |
 | KRS-04 | YES | SALAR, TIANA |
-| KS-32 |  | ENCOUNTER, SONDERBORG |
+| KS-32 |  | BJORG, ENCOUNTER, SONDERBORG |
+| KS-34 |  | MSC ASLI II |
 | MKR-1 | YES | ARMIA KRAJOWA, BALTIC EXPRESS |
-| MKR-3 | YES | TARZAN |
 | MKR-4 | YES | ARENT |
 | MKR-5 | YES | ASTRA |
 | MS-2 |  | TIANA |
@@ -35,6 +36,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | SD-4 |  | HUMBER SPRINTER |
 | SD-5 |  | GOLDEN BANYAN |
 | VM-4 | YES | TIANA |
-| ZO-01 |  | ENCOUNTER |
+| ZO-01 |  | BJORG, ENCOUNTER |
+| ZO-02 |  | INTEGRITY MAKOTO |
 | ZO-03 |  | SONORO |
 | ZO-12 |  | MERAIO |

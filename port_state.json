@@ -9,7 +9,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-25 10:46",
+  "last_seen": "2026-11-25 21:23",
   "status": "BERTHED"
  },
  "3034270": {
@@ -21,7 +21,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-11-25 10:46",
+  "last_seen": "2026-11-25 21:23",
   "status": "BERTHED"
  },
  "3032756": {
@@ -37,7 +37,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-11-25 10:46",
+  "last_seen": "2026-11-25 21:23",
   "status": "BERTHED"
  },
  "3046630": {
@@ -49,7 +49,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-11-25 10:46",
+  "last_seen": "2026-11-25 21:23",
   "status": "BERTHED"
  },
  "3046659": {
@@ -87,7 +87,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-25 10:46",
+  "last_seen": "2026-11-25 21:23",
   "status": "BERTHED"
  },
  "3046779": {
@@ -137,17 +137,6 @@
    "VM-4"
   ],
   "last_seen": "2026-11-13 11:40",
-  "status": "BERTHED"
- },
- "3046829": {
-  "name": "STELLAR ALAZANI",
-  "imo": "9708265",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "EO-14"
-  ],
-  "last_seen": "2026-11-11 17:21",
   "status": "BERTHED"
  },
  "3046833": {
@@ -867,7 +856,7 @@
    "KRS-02",
    "PD-75"
   ],
-  "last_seen": "2026-11-25 10:46",
+  "last_seen": "2026-11-25 21:23",
   "status": "BERTHED"
  },
  "3046901": {
@@ -1163,7 +1152,7 @@
   "berths_seen": [
    "ZO-12"
   ],
-  "last_seen": "2026-11-25 10:46",
+  "last_seen": "2026-11-25 21:23",
   "status": "BERTHED"
  },
  "3046893": {
@@ -1186,7 +1175,7 @@
   "berths_seen": [
    "KR-25"
   ],
-  "last_seen": "2026-11-25 10:46",
+  "last_seen": "2026-11-25 21:23",
   "status": "BERTHED"
  },
  "3046895": {
@@ -1219,7 +1208,7 @@
   "berths_seen": [
    "MKR-1"
   ],
-  "last_seen": "2026-11-25 10:46",
+  "last_seen": "2026-11-25 21:23",
   "status": "BERTHED"
  },
  "3046933": {
@@ -1276,7 +1265,7 @@
    "EO-10",
    "SD-3"
   ],
-  "last_seen": "2026-11-25 10:46",
+  "last_seen": "2026-11-25 21:23",
   "status": "BERTHED"
  },
  "3046909": {
@@ -1298,8 +1287,8 @@
   "berths_seen": [
    "RKR-7"
   ],
-  "last_seen": "2026-11-25 10:46",
-  "status": "BERTHED"
+  "last_seen": "2026-11-25 21:23",
+  "status": "MOVING"
  },
  "3046950": {
   "name": "TIANA",
@@ -1311,7 +1300,7 @@
    "MS-2",
    "VM-4"
   ],
-  "last_seen": "2026-11-25 10:46",
+  "last_seen": "2026-11-25 21:23",
   "status": "BERTHED"
  },
  "3046951": {
@@ -1322,7 +1311,7 @@
   "berths_seen": [
    "SD-5"
   ],
-  "last_seen": "2026-11-25 10:46",
+  "last_seen": "2026-11-25 21:23",
   "status": "BERTHED"
  },
  "3046940": {
@@ -1333,7 +1322,29 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-11-25 10:46",
+  "last_seen": "2026-11-25 21:23",
+  "status": "BERTHED"
+ },
+ "3046953": {
+  "name": "ELBSTROM",
+  "imo": "9369007",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "EO-15"
+  ],
+  "last_seen": "2026-11-25 21:23",
+  "status": "BERTHED"
+ },
+ "3046932": {
+  "name": "ANTONIA B",
+  "imo": "8919221",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "DG-55"
+  ],
+  "last_seen": "2026-11-25 21:23",
   "status": "BERTHED"
  }
 }

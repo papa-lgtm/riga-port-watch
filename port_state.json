@@ -9,7 +9,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-25 01:29",
+  "last_seen": "2026-11-25 10:46",
   "status": "BERTHED"
  },
  "3034270": {
@@ -21,7 +21,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-11-25 01:29",
+  "last_seen": "2026-11-25 10:46",
   "status": "BERTHED"
  },
  "3032756": {
@@ -37,7 +37,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-11-25 01:29",
+  "last_seen": "2026-11-25 10:46",
   "status": "BERTHED"
  },
  "3046630": {
@@ -49,7 +49,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-11-25 01:29",
+  "last_seen": "2026-11-25 10:46",
   "status": "BERTHED"
  },
  "3046659": {
@@ -87,7 +87,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-25 01:29",
+  "last_seen": "2026-11-25 10:46",
   "status": "BERTHED"
  },
  "3046779": {
@@ -113,19 +113,6 @@
    "KS-30"
   ],
   "last_seen": "2026-11-14 16:14",
-  "status": "BERTHED"
- },
- "3046792": {
-  "name": "ANNABA",
-  "imo": "9306201",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "EO-06",
-   "KS-32",
-   "ZO-01"
-  ],
-  "last_seen": "2026-11-11 08:39",
   "status": "BERTHED"
  },
  "3046811": {
@@ -880,7 +867,7 @@
    "KRS-02",
    "PD-75"
   ],
-  "last_seen": "2026-11-25 01:29",
+  "last_seen": "2026-11-25 10:46",
   "status": "BERTHED"
  },
  "3046901": {
@@ -1176,7 +1163,7 @@
   "berths_seen": [
    "ZO-12"
   ],
-  "last_seen": "2026-11-25 01:29",
+  "last_seen": "2026-11-25 10:46",
   "status": "BERTHED"
  },
  "3046893": {
@@ -1199,7 +1186,7 @@
   "berths_seen": [
    "KR-25"
   ],
-  "last_seen": "2026-11-25 01:29",
+  "last_seen": "2026-11-25 10:46",
   "status": "BERTHED"
  },
  "3046895": {
@@ -1232,7 +1219,7 @@
   "berths_seen": [
    "MKR-1"
   ],
-  "last_seen": "2026-11-25 01:29",
+  "last_seen": "2026-11-25 10:46",
   "status": "BERTHED"
  },
  "3046933": {
@@ -1276,7 +1263,7 @@
   "berths_seen": [
    "MKR-3"
   ],
-  "last_seen": "2026-11-25 01:29",
+  "last_seen": "2026-11-25 10:46",
   "status": "BERTHED"
  },
  "3046917": {
@@ -1289,7 +1276,7 @@
    "EO-10",
    "SD-3"
   ],
-  "last_seen": "2026-11-25 01:29",
+  "last_seen": "2026-11-25 10:46",
   "status": "BERTHED"
  },
  "3046909": {
@@ -1311,7 +1298,42 @@
   "berths_seen": [
    "RKR-7"
   ],
-  "last_seen": "2026-11-25 01:29",
+  "last_seen": "2026-11-25 10:46",
+  "status": "BERTHED"
+ },
+ "3046950": {
+  "name": "TIANA",
+  "imo": "9317470",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KRS-04",
+   "MS-2",
+   "VM-4"
+  ],
+  "last_seen": "2026-11-25 10:46",
+  "status": "BERTHED"
+ },
+ "3046951": {
+  "name": "GOLDEN BANYAN",
+  "imo": "1055844",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "SD-5"
+  ],
+  "last_seen": "2026-11-25 10:46",
+  "status": "BERTHED"
+ },
+ "3046940": {
+  "name": "ATLANTIC VISION",
+  "imo": "9372767",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "EO-14"
+  ],
+  "last_seen": "2026-11-25 10:46",
   "status": "BERTHED"
  }
 }

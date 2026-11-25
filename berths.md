@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-25 01:29
+# Berth codes seen — 2026-11-25 10:46
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -11,12 +11,13 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | ATLANTIC VISION |
 | EO-15 |  | ELBSTROM, X-PRESS GODAVARI |
+| JM-29 |  | BALTIC EXPRESS |
 | KR-25 |  | SOLE |
+| KRS-01 | YES | CEMENT SUPPLIER |
 | KRS-02 | YES | HAVBRIS |
 | KRS-04 | YES | SALAR, TIANA |
 | KS-32 |  | ENCOUNTER, SONDERBORG |
-| KS-34 |  | MSC ASLI II |
-| MKR-1 | YES | ARMIA KRAJOWA |
+| MKR-1 | YES | ARMIA KRAJOWA, BALTIC EXPRESS |
 | MKR-3 | YES | TARZAN |
 | MKR-4 | YES | ARENT |
 | MKR-5 | YES | ASTRA |
@@ -35,4 +36,5 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | SD-5 |  | GOLDEN BANYAN |
 | VM-4 | YES | TIANA |
 | ZO-01 |  | ENCOUNTER |
+| ZO-03 |  | SONORO |
 | ZO-12 |  | MERAIO |

@@ -9,7 +9,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-26 04:53",
+  "last_seen": "2026-11-26 12:54",
   "status": "BERTHED"
  },
  "3034270": {
@@ -21,7 +21,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-11-26 04:53",
+  "last_seen": "2026-11-26 12:54",
   "status": "BERTHED"
  },
  "3032756": {
@@ -37,7 +37,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-11-26 04:53",
+  "last_seen": "2026-11-26 12:54",
   "status": "BERTHED"
  },
  "3046630": {
@@ -49,7 +49,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-11-26 04:53",
+  "last_seen": "2026-11-26 12:54",
   "status": "BERTHED"
  },
  "3046659": {
@@ -87,7 +87,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-26 04:53",
+  "last_seen": "2026-11-26 12:54",
   "status": "BERTHED"
  },
  "3046779": {
@@ -245,17 +245,6 @@
    "RKR-7"
   ],
   "last_seen": "2026-11-13 11:40",
-  "status": "BERTHED"
- },
- "3046854": {
-  "name": "ELBSTROM",
-  "imo": "9369007",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "EO-15"
-  ],
-  "last_seen": "2026-11-12 05:52",
   "status": "BERTHED"
  },
  "3046856": {
@@ -845,7 +834,7 @@
    "KRS-02",
    "PD-75"
   ],
-  "last_seen": "2026-11-26 04:53",
+  "last_seen": "2026-11-26 12:54",
   "status": "BERTHED"
  },
  "3046901": {
@@ -1164,7 +1153,7 @@
   "berths_seen": [
    "KR-25"
   ],
-  "last_seen": "2026-11-26 04:53",
+  "last_seen": "2026-11-26 12:54",
   "status": "BERTHED"
  },
  "3046895": {
@@ -1289,7 +1278,7 @@
    "MS-2",
    "VM-4"
   ],
-  "last_seen": "2026-11-26 04:53",
+  "last_seen": "2026-11-26 12:54",
   "status": "BERTHED"
  },
  "3046951": {
@@ -1311,7 +1300,7 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-11-26 04:53",
+  "last_seen": "2026-11-26 12:54",
   "status": "BERTHED"
  },
  "3046953": {
@@ -1322,7 +1311,7 @@
   "berths_seen": [
    "EO-15"
   ],
-  "last_seen": "2026-11-26 04:53",
+  "last_seen": "2026-11-26 12:54",
   "status": "BERTHED"
  },
  "3046932": {
@@ -1333,7 +1322,7 @@
   "berths_seen": [
    "DG-55"
   ],
-  "last_seen": "2026-11-26 04:53",
+  "last_seen": "2026-11-26 12:54",
   "status": "BERTHED"
  },
  "3046954": {
@@ -1344,7 +1333,7 @@
   "berths_seen": [
    "KRS-01"
   ],
-  "last_seen": "2026-11-26 04:53",
+  "last_seen": "2026-11-26 12:54",
   "status": "BERTHED"
  },
  "3046947": {
@@ -1355,7 +1344,64 @@
   "berths_seen": [
    "RKR-7"
   ],
-  "last_seen": "2026-11-26 04:53",
+  "last_seen": "2026-11-26 12:54",
+  "status": "BERTHED"
+ },
+ "3046945": {
+  "name": "SALAR",
+  "imo": "8801125",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KRS-04"
+  ],
+  "last_seen": "2026-11-26 12:54",
+  "status": "BERTHED"
+ },
+ "3046958": {
+  "name": "INTEGRITY MAKOTO",
+  "imo": "9977933",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "ZO-02"
+  ],
+  "last_seen": "2026-11-26 12:54",
+  "status": "BERTHED"
+ },
+ "3046956": {
+  "name": "BALTIC EXPRESS",
+  "imo": "9243851",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "JM-29",
+   "MKR-1"
+  ],
+  "last_seen": "2026-11-26 12:54",
+  "status": "BERTHED"
+ },
+ "3046944": {
+  "name": "BJORG",
+  "imo": "9231834",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KS-32",
+   "ZO-01"
+  ],
+  "last_seen": "2026-11-26 12:54",
+  "status": "BERTHED"
+ },
+ "3046955": {
+  "name": "SONORO",
+  "imo": "9199397",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "ZO-03"
+  ],
+  "last_seen": "2026-11-26 12:54",
   "status": "BERTHED"
  }
 }

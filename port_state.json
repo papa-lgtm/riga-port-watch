@@ -9,7 +9,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-25 21:23",
+  "last_seen": "2026-11-26 04:53",
   "status": "BERTHED"
  },
  "3034270": {
@@ -21,7 +21,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-11-25 21:23",
+  "last_seen": "2026-11-26 04:53",
   "status": "BERTHED"
  },
  "3032756": {
@@ -37,7 +37,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-11-25 21:23",
+  "last_seen": "2026-11-26 04:53",
   "status": "BERTHED"
  },
  "3046630": {
@@ -49,7 +49,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-11-25 21:23",
+  "last_seen": "2026-11-26 04:53",
   "status": "BERTHED"
  },
  "3046659": {
@@ -87,7 +87,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-25 21:23",
+  "last_seen": "2026-11-26 04:53",
   "status": "BERTHED"
  },
  "3046779": {
@@ -222,17 +222,6 @@
    "SD-3"
   ],
   "last_seen": "2026-11-14 16:14",
-  "status": "MOVING"
- },
- "3046839": {
-  "name": "JUDITH",
-  "imo": "9359260",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "ZO-01"
-  ],
-  "last_seen": "2026-11-12 00:45",
   "status": "MOVING"
  },
  "3046831": {
@@ -856,7 +845,7 @@
    "KRS-02",
    "PD-75"
   ],
-  "last_seen": "2026-11-25 21:23",
+  "last_seen": "2026-11-26 04:53",
   "status": "BERTHED"
  },
  "3046901": {
@@ -1175,7 +1164,7 @@
   "berths_seen": [
    "KR-25"
   ],
-  "last_seen": "2026-11-25 21:23",
+  "last_seen": "2026-11-26 04:53",
   "status": "BERTHED"
  },
  "3046895": {
@@ -1208,8 +1197,8 @@
   "berths_seen": [
    "MKR-1"
   ],
-  "last_seen": "2026-11-25 21:23",
-  "status": "BERTHED"
+  "last_seen": "2026-11-26 04:53",
+  "status": "MOVING"
  },
  "3046933": {
   "name": "MSC ASLI II",
@@ -1265,7 +1254,7 @@
    "EO-10",
    "SD-3"
   ],
-  "last_seen": "2026-11-25 21:23",
+  "last_seen": "2026-11-26 04:53",
   "status": "BERTHED"
  },
  "3046909": {
@@ -1300,7 +1289,7 @@
    "MS-2",
    "VM-4"
   ],
-  "last_seen": "2026-11-25 21:23",
+  "last_seen": "2026-11-26 04:53",
   "status": "BERTHED"
  },
  "3046951": {
@@ -1322,7 +1311,7 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-11-25 21:23",
+  "last_seen": "2026-11-26 04:53",
   "status": "BERTHED"
  },
  "3046953": {
@@ -1333,7 +1322,7 @@
   "berths_seen": [
    "EO-15"
   ],
-  "last_seen": "2026-11-25 21:23",
+  "last_seen": "2026-11-26 04:53",
   "status": "BERTHED"
  },
  "3046932": {
@@ -1344,7 +1333,29 @@
   "berths_seen": [
    "DG-55"
   ],
-  "last_seen": "2026-11-25 21:23",
+  "last_seen": "2026-11-26 04:53",
+  "status": "BERTHED"
+ },
+ "3046954": {
+  "name": "CEMENT SUPPLIER",
+  "imo": "7527849",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KRS-01"
+  ],
+  "last_seen": "2026-11-26 04:53",
+  "status": "BERTHED"
+ },
+ "3046947": {
+  "name": "NM COPENHAGEN",
+  "imo": "9534274",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "RKR-7"
+  ],
+  "last_seen": "2026-11-26 04:53",
   "status": "BERTHED"
  }
 }

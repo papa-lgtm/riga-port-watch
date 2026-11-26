@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-25 21:23
+# Berth codes seen — 2026-11-26 04:53
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -30,13 +30,11 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-MTW | YES | ARENT |
 | RKR-4 | YES | ASTRA, POSEIDON I |
 | RKR-6 | YES | FEGULUS, HEBO-P101 |
-| RKR-7 | YES | ASTRA, BALTIC GERMANY, NM COPENHAGEN |
+| RKR-7 | YES | ASTRA, NM COPENHAGEN |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-3 |  | RIX TANGO |
 | SD-4 |  | HUMBER SPRINTER |
-| SD-5 |  | GOLDEN BANYAN |
 | VM-4 | YES | TIANA |
 | ZO-01 |  | BJORG, ENCOUNTER |
 | ZO-02 |  | INTEGRITY MAKOTO |
 | ZO-03 |  | SONORO |
-| ZO-12 |  | MERAIO |

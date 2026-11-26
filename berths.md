@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-26 12:54
+# Berth codes seen — 2026-11-26 14:47
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -14,6 +14,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | KR-25 |  | SOLE |
 | KRS-01 | YES | CEMENT SUPPLIER, SOFIA VG |
 | KRS-02 | YES | HAVBRIS |
+| KRS-03 | YES | GUADALUPE EXPLORER |
 | KRS-04 | YES | SALAR, TIANA |
 | KS-32 |  | BJORG, ENCOUNTER, SONDERBORG |
 | KS-34 |  | MSC ASLI II |
@@ -34,6 +35,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | SD-3 |  | STELLAMAR |
 | SD-4 |  | HUMBER SPRINTER |
 | VM-4 | YES | TIANA |
-| ZO-01 |  | BJORG, ENCOUNTER |
+| ZO-01 |  | BJORG, CMA CGM MERMAID, ENCOUNTER |
 | ZO-02 |  | INTEGRITY MAKOTO |
 | ZO-03 |  | SONORO |

@@ -1,19 +1,19 @@
-# Berth codes seen — 2026-11-26 14:47
+# Berth codes seen — 2026-11-27 00:23
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
 | Berth | Treated as repair | Vessels seen there |
 |---|---|---|
 | DG-20 |  | HAVBRIS |
-| DG-55 |  | ANTONIA B |
+| DG-56 |  | GREETJE |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | ATLANTIC VISION |
-| EO-15 |  | ELBSTROM, NOVA, X-PRESS GODAVARI |
+| EO-15 |  | NOVA, X-PRESS GODAVARI |
 | JM-29 |  | BALTIC EXPRESS |
 | KR-21 |  | SOFIA VG |
 | KR-25 |  | SOLE |
 | KRS-01 | YES | CEMENT SUPPLIER, SOFIA VG |
-| KRS-02 | YES | HAVBRIS |
+| KRS-02 | YES | HAVBRIS, SOFIA VG |
 | KRS-03 | YES | GUADALUPE EXPLORER |
 | KRS-04 | YES | SALAR, TIANA |
 | KS-32 |  | BJORG, ENCOUNTER, SONDERBORG |
@@ -33,7 +33,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-7 | YES | ASTRA, NM COPENHAGEN |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-3 |  | STELLAMAR |
-| SD-4 |  | HUMBER SPRINTER |
+| SD-4 |  | HUMBER SPRINTER, MARJATTA |
 | VM-4 | YES | TIANA |
 | ZO-01 |  | BJORG, CMA CGM MERMAID, ENCOUNTER |
 | ZO-02 |  | INTEGRITY MAKOTO |

@@ -9,7 +9,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-26 14:47",
+  "last_seen": "2026-11-27 00:23",
   "status": "BERTHED"
  },
  "3034270": {
@@ -21,7 +21,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-11-26 14:47",
+  "last_seen": "2026-11-27 00:23",
   "status": "BERTHED"
  },
  "3032756": {
@@ -37,7 +37,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-11-26 14:47",
+  "last_seen": "2026-11-27 00:23",
   "status": "BERTHED"
  },
  "3046630": {
@@ -49,7 +49,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-11-26 14:47",
+  "last_seen": "2026-11-27 00:23",
   "status": "BERTHED"
  },
  "3046659": {
@@ -87,7 +87,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-26 14:47",
+  "last_seen": "2026-11-27 00:23",
   "status": "BERTHED"
  },
  "3046779": {
@@ -247,17 +247,6 @@
   "last_seen": "2026-11-13 11:40",
   "status": "BERTHED"
  },
- "3046856": {
-  "name": "ICELAND",
-  "imo": "9341782",
-  "flagged_repair": true,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KRS-01"
-  ],
-  "last_seen": "2026-11-12 22:53",
-  "status": "BERTHED"
- },
  "3046855": {
   "name": "LADY MONIQUE",
   "imo": "9904352",
@@ -291,17 +280,6 @@
   "last_seen": "2026-11-13 03:54",
   "status": "BERTHED"
  },
- "3046851": {
-  "name": "RAGNA",
-  "imo": "9173329",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "EO-15"
-  ],
-  "last_seen": "2026-11-12 14:52",
-  "status": "BERTHED"
- },
  "3046853": {
   "name": "ARGOS M",
   "imo": "9502788",
@@ -311,17 +289,6 @@
    "EO-14"
   ],
   "last_seen": "2026-11-24 15:53",
-  "status": "BERTHED"
- },
- "3046846": {
-  "name": "SINAR BUKITTINGGI",
-  "imo": "9942299",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "ZO-01"
-  ],
-  "last_seen": "2026-11-12 22:53",
   "status": "BERTHED"
  },
  "3046858": {
@@ -834,7 +801,7 @@
    "KRS-02",
    "PD-75"
   ],
-  "last_seen": "2026-11-26 14:47",
+  "last_seen": "2026-11-27 00:23",
   "status": "BERTHED"
  },
  "3046901": {
@@ -1153,7 +1120,7 @@
   "berths_seen": [
    "KR-25"
   ],
-  "last_seen": "2026-11-26 14:47",
+  "last_seen": "2026-11-27 00:23",
   "status": "BERTHED"
  },
  "3046895": {
@@ -1278,7 +1245,7 @@
    "MS-2",
    "VM-4"
   ],
-  "last_seen": "2026-11-26 14:47",
+  "last_seen": "2026-11-27 00:23",
   "status": "BERTHED"
  },
  "3046951": {
@@ -1300,7 +1267,7 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-11-26 14:47",
+  "last_seen": "2026-11-27 00:23",
   "status": "BERTHED"
  },
  "3046953": {
@@ -1333,7 +1300,7 @@
   "berths_seen": [
    "KRS-01"
   ],
-  "last_seen": "2026-11-26 14:47",
+  "last_seen": "2026-11-27 00:23",
   "status": "BERTHED"
  },
  "3046947": {
@@ -1344,7 +1311,7 @@
   "berths_seen": [
    "RKR-7"
   ],
-  "last_seen": "2026-11-26 14:47",
+  "last_seen": "2026-11-27 00:23",
   "status": "BERTHED"
  },
  "3046945": {
@@ -1355,7 +1322,7 @@
   "berths_seen": [
    "KRS-04"
   ],
-  "last_seen": "2026-11-26 14:47",
+  "last_seen": "2026-11-27 00:23",
   "status": "BERTHED"
  },
  "3046958": {
@@ -1366,7 +1333,7 @@
   "berths_seen": [
    "ZO-02"
   ],
-  "last_seen": "2026-11-26 14:47",
+  "last_seen": "2026-11-27 00:23",
   "status": "BERTHED"
  },
  "3046956": {
@@ -1378,7 +1345,7 @@
    "JM-29",
    "MKR-1"
   ],
-  "last_seen": "2026-11-26 14:47",
+  "last_seen": "2026-11-27 00:23",
   "status": "BERTHED"
  },
  "3046944": {
@@ -1390,7 +1357,7 @@
    "KS-32",
    "ZO-01"
   ],
-  "last_seen": "2026-11-26 14:47",
+  "last_seen": "2026-11-27 00:23",
   "status": "BERTHED"
  },
  "3046955": {
@@ -1401,7 +1368,18 @@
   "berths_seen": [
    "ZO-03"
   ],
-  "last_seen": "2026-11-26 14:47",
+  "last_seen": "2026-11-27 00:23",
+  "status": "BERTHED"
+ },
+ "3046957": {
+  "name": "NOVA",
+  "imo": "9250098",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "EO-15"
+  ],
+  "last_seen": "2026-11-27 00:23",
   "status": "BERTHED"
  }
 }

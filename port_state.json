@@ -9,7 +9,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-27 17:12",
+  "last_seen": "2026-11-28 01:31",
   "status": "BERTHED"
  },
  "3034270": {
@@ -21,7 +21,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-11-27 17:12",
+  "last_seen": "2026-11-28 01:31",
   "status": "BERTHED"
  },
  "3032756": {
@@ -37,7 +37,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-11-27 17:12",
+  "last_seen": "2026-11-28 01:31",
   "status": "BERTHED"
  },
  "3046630": {
@@ -49,7 +49,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-11-27 17:12",
+  "last_seen": "2026-11-28 01:31",
   "status": "BERTHED"
  },
  "3046659": {
@@ -87,7 +87,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-27 17:12",
+  "last_seen": "2026-11-28 01:31",
   "status": "BERTHED"
  },
  "3046779": {
@@ -209,17 +209,6 @@
    "EO-14"
   ],
   "last_seen": "2026-11-24 15:53",
-  "status": "BERTHED"
- },
- "3046858": {
-  "name": "WESTBORG",
-  "imo": "9196187",
-  "flagged_repair": true,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KRS-02"
-  ],
-  "last_seen": "2026-11-13 19:49",
   "status": "BERTHED"
  },
  "3046861": {
@@ -721,7 +710,7 @@
    "KRS-02",
    "PD-75"
   ],
-  "last_seen": "2026-11-27 17:12",
+  "last_seen": "2026-11-28 01:31",
   "status": "BERTHED"
  },
  "3046901": {
@@ -1040,7 +1029,7 @@
   "berths_seen": [
    "KR-25"
   ],
-  "last_seen": "2026-11-27 17:12",
+  "last_seen": "2026-11-28 01:31",
   "status": "BERTHED"
  },
  "3046895": {
@@ -1166,7 +1155,7 @@
    "MS-2",
    "VM-4"
   ],
-  "last_seen": "2026-11-27 17:12",
+  "last_seen": "2026-11-28 01:31",
   "status": "BERTHED"
  },
  "3046951": {
@@ -1188,7 +1177,7 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-11-27 17:12",
+  "last_seen": "2026-11-28 01:31",
   "status": "BERTHED"
  },
  "3046953": {
@@ -1232,7 +1221,7 @@
   "berths_seen": [
    "RKR-7"
   ],
-  "last_seen": "2026-11-27 17:12",
+  "last_seen": "2026-11-28 01:31",
   "status": "BERTHED"
  },
  "3046945": {
@@ -1254,7 +1243,7 @@
   "berths_seen": [
    "ZO-02"
   ],
-  "last_seen": "2026-11-27 17:12",
+  "last_seen": "2026-11-28 01:31",
   "status": "BERTHED"
  },
  "3046956": {
@@ -1313,18 +1302,19 @@
    "KRS-01",
    "KRS-02"
   ],
-  "last_seen": "2026-11-27 17:12",
+  "last_seen": "2026-11-28 01:31",
   "status": "BERTHED"
  },
  "3046942": {
   "name": "HUMBER SPRINTER",
   "imo": "9467172",
-  "flagged_repair": false,
+  "flagged_repair": true,
   "flagged_long_stay": false,
   "berths_seen": [
+   "RKR-8",
    "SD-4"
   ],
-  "last_seen": "2026-11-27 17:12",
+  "last_seen": "2026-11-28 01:31",
   "status": "BERTHED"
  },
  "3046962": {
@@ -1335,7 +1325,7 @@
   "berths_seen": [
    "SD-3"
   ],
-  "last_seen": "2026-11-27 17:12",
+  "last_seen": "2026-11-28 01:31",
   "status": "BERTHED"
  },
  "3046959": {
@@ -1346,7 +1336,7 @@
   "berths_seen": [
    "KS-34"
   ],
-  "last_seen": "2026-11-27 17:12",
+  "last_seen": "2026-11-28 01:31",
   "status": "BERTHED"
  }
 }

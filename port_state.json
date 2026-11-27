@@ -9,7 +9,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-27 07:06",
+  "last_seen": "2026-11-27 17:12",
   "status": "BERTHED"
  },
  "3034270": {
@@ -21,7 +21,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-11-27 07:06",
+  "last_seen": "2026-11-27 17:12",
   "status": "BERTHED"
  },
  "3032756": {
@@ -37,7 +37,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-11-27 07:06",
+  "last_seen": "2026-11-27 17:12",
   "status": "BERTHED"
  },
  "3046630": {
@@ -49,7 +49,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-11-27 07:06",
+  "last_seen": "2026-11-27 17:12",
   "status": "BERTHED"
  },
  "3046659": {
@@ -87,7 +87,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-27 07:06",
+  "last_seen": "2026-11-27 17:12",
   "status": "BERTHED"
  },
  "3046779": {
@@ -127,18 +127,6 @@
   "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
- "3046817": {
-  "name": "LOSONE TOPIC",
-  "imo": "9736066",
-  "flagged_repair": true,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "MKR-1",
-   "VM-4"
-  ],
-  "last_seen": "2026-11-13 11:40",
-  "status": "BERTHED"
- },
  "3046833": {
   "name": "MFM NICOLE",
   "imo": "1043566",
@@ -161,18 +149,6 @@
    "PD-419"
   ],
   "last_seen": "2026-11-24 04:17",
-  "status": "BERTHED"
- },
- "3046845": {
-  "name": "FRANCISCA",
-  "imo": "9148166",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "JM-23",
-   "SD-4"
-  ],
-  "last_seen": "2026-11-13 11:40",
   "status": "BERTHED"
  },
  "3046834": {
@@ -222,39 +198,6 @@
    "MS-2"
   ],
   "last_seen": "2026-11-19 15:24",
-  "status": "BERTHED"
- },
- "3046847": {
-  "name": "BALSARE 2",
-  "imo": "9964015",
-  "flagged_repair": true,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "RKR-7"
-  ],
-  "last_seen": "2026-11-13 11:40",
-  "status": "BERTHED"
- },
- "3046855": {
-  "name": "LADY MONIQUE",
-  "imo": "9904352",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "ZO-07"
-  ],
-  "last_seen": "2026-11-13 11:40",
-  "status": "BERTHED"
- },
- "3046848": {
-  "name": "LONGEARTH",
-  "imo": "9988114",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "MS-10"
-  ],
-  "last_seen": "2026-11-13 11:40",
   "status": "BERTHED"
  },
  "3046853": {
@@ -778,7 +721,7 @@
    "KRS-02",
    "PD-75"
   ],
-  "last_seen": "2026-11-27 07:06",
+  "last_seen": "2026-11-27 17:12",
   "status": "BERTHED"
  },
  "3046901": {
@@ -1097,7 +1040,7 @@
   "berths_seen": [
    "KR-25"
   ],
-  "last_seen": "2026-11-27 07:06",
+  "last_seen": "2026-11-27 17:12",
   "status": "BERTHED"
  },
  "3046895": {
@@ -1219,10 +1162,11 @@
   "flagged_long_stay": false,
   "berths_seen": [
    "KRS-04",
+   "KS-30",
    "MS-2",
    "VM-4"
   ],
-  "last_seen": "2026-11-27 07:06",
+  "last_seen": "2026-11-27 17:12",
   "status": "BERTHED"
  },
  "3046951": {
@@ -1244,7 +1188,7 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-11-27 07:06",
+  "last_seen": "2026-11-27 17:12",
   "status": "BERTHED"
  },
  "3046953": {
@@ -1288,7 +1232,7 @@
   "berths_seen": [
    "RKR-7"
   ],
-  "last_seen": "2026-11-27 07:06",
+  "last_seen": "2026-11-27 17:12",
   "status": "BERTHED"
  },
  "3046945": {
@@ -1310,7 +1254,7 @@
   "berths_seen": [
    "ZO-02"
   ],
-  "last_seen": "2026-11-27 07:06",
+  "last_seen": "2026-11-27 17:12",
   "status": "BERTHED"
  },
  "3046956": {
@@ -1322,7 +1266,7 @@
    "JM-29",
    "MKR-1"
   ],
-  "last_seen": "2026-11-27 07:06",
+  "last_seen": "2026-11-27 17:12",
   "status": "BERTHED"
  },
  "3046944": {
@@ -1369,7 +1313,7 @@
    "KRS-01",
    "KRS-02"
   ],
-  "last_seen": "2026-11-27 07:06",
+  "last_seen": "2026-11-27 17:12",
   "status": "BERTHED"
  },
  "3046942": {
@@ -1380,7 +1324,29 @@
   "berths_seen": [
    "SD-4"
   ],
-  "last_seen": "2026-11-27 07:06",
+  "last_seen": "2026-11-27 17:12",
+  "status": "BERTHED"
+ },
+ "3046962": {
+  "name": "STELLAMAR",
+  "imo": "9951836",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "SD-3"
+  ],
+  "last_seen": "2026-11-27 17:12",
+  "status": "BERTHED"
+ },
+ "3046959": {
+  "name": "MSC ASLI II",
+  "imo": "9162631",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KS-34"
+  ],
+  "last_seen": "2026-11-27 17:12",
   "status": "BERTHED"
  }
 }

@@ -1,22 +1,25 @@
-# Berth codes seen — 2026-11-27 07:06
+# Berth codes seen — 2026-11-27 17:12
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
 | Berth | Treated as repair | Vessels seen there |
 |---|---|---|
 | DG-20 |  | HAVBRIS |
-| DG-56 |  | GREETJE |
+| DG-55 |  | CELTIC PIONEER |
+| DG-56 |  | GREETJE, GRIFTBOR |
+| EO-07 |  | PARKGRACHT |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | ATLANTIC VISION |
-| EO-15 |  | ECO GHIBLI, NOVA, X-PRESS GODAVARI |
+| EO-15 |  | ECO GHIBLI, X-PRESS GODAVARI |
 | JM-29 |  | BALTIC EXPRESS |
 | KR-21 |  | SOFIA VG |
 | KR-25 |  | SOLE |
-| KRS-01 | YES | CEMENT SUPPLIER, SOFIA VG |
+| KRS-01 | YES | SOFIA VG |
 | KRS-02 | YES | HAVBRIS, SOFIA VG |
 | KRS-03 | YES | GUADALUPE EXPLORER |
-| KRS-04 | YES | SALAR, TIANA |
-| KS-32 |  | BJORG, ENCOUNTER, SONDERBORG |
+| KRS-04 | YES | TIANA |
+| KS-30 |  | TIANA |
+| KS-32 |  | ENCOUNTER, SONDERBORG |
 | KS-34 |  | MSC ASLI II |
 | MKR-1 | YES | BALTIC EXPRESS |
 | MKR-4 | YES | ARENT |
@@ -31,10 +34,11 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RKR-4 | YES | ASTRA, POSEIDON I |
 | RKR-6 | YES | FEGULUS, HEBO-P101 |
 | RKR-7 | YES | ASTRA, NM COPENHAGEN |
+| RKR-8 | YES | CELTIC PIONEER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-3 |  | STELLAMAR |
 | SD-4 |  | HUMBER SPRINTER, MARJATTA |
 | VM-4 | YES | TIANA |
-| ZO-01 |  | BJORG, CMA CGM MERMAID, ECO GHIBLI, ENCOUNTER |
+| ZO-01 |  | CMA CGM MERMAID, ECO GHIBLI, ENCOUNTER |
 | ZO-02 |  | INTEGRITY MAKOTO |
-| ZO-03 |  | SONORO |
+| ZO-03 |  | MERITA |

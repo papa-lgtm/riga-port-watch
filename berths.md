@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-27 00:23
+# Berth codes seen — 2026-11-27 07:06
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -8,7 +8,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | DG-56 |  | GREETJE |
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | ATLANTIC VISION |
-| EO-15 |  | NOVA, X-PRESS GODAVARI |
+| EO-15 |  | ECO GHIBLI, NOVA, X-PRESS GODAVARI |
 | JM-29 |  | BALTIC EXPRESS |
 | KR-21 |  | SOFIA VG |
 | KR-25 |  | SOLE |
@@ -35,6 +35,6 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | SD-3 |  | STELLAMAR |
 | SD-4 |  | HUMBER SPRINTER, MARJATTA |
 | VM-4 | YES | TIANA |
-| ZO-01 |  | BJORG, CMA CGM MERMAID, ENCOUNTER |
+| ZO-01 |  | BJORG, CMA CGM MERMAID, ECO GHIBLI, ENCOUNTER |
 | ZO-02 |  | INTEGRITY MAKOTO |
 | ZO-03 |  | SONORO |

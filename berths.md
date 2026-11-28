@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-28 09:58
+# Berth codes seen — 2026-11-28 18:56
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -11,15 +11,18 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-12 |  | HEBO-P101 |
 | EO-14 |  | ATLANTIC VISION |
 | EO-15 |  | EASTERN HAWK, ECO GHIBLI, X-PRESS GODAVARI |
+| JM-22 |  | WECO HOLLI |
 | KR-21 |  | SOFIA VG |
 | KR-25 |  | SOLE |
 | KRS-01 | YES | HUMBER SPRINTER, SOFIA VG |
 | KRS-02 | YES | HAVBRIS, SOFIA VG |
 | KRS-03 | YES | GUADALUPE EXPLORER |
 | KRS-04 | YES | TIANA |
+| KRS-06 | YES | LE COMMANDANT CHARCOT |
 | KS-30 |  | TIANA |
-| KS-32 |  | ENCOUNTER, SONDERBORG |
+| KS-32 |  | ANNABA, ENCOUNTER, SONDERBORG |
 | KS-34 |  | MSC KAYLA |
+| MKR-1 | YES | KAIRIT |
 | MKR-4 | YES | ARENT |
 | MKR-5 | YES | ASTRA |
 | MS-2 |  | TIANA |
@@ -28,7 +31,8 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | PD-791 | YES | FEGULUS, HEBO-P101 |
 | PD-K4 | YES | ASTRA |
 | PD-MTW | YES | ARENT |
-| RD-3 |  | JSP MOEN |
+| PM-17 |  | LONGPOWER, PRIMA QUEEN |
+| RD-3 |  | JSP MOEN, KETTER |
 | RKR-4 | YES | ASTRA, POSEIDON I |
 | RKR-6 | YES | FEGULUS, HEBO-P101 |
 | RKR-7 | YES | ASTRA, NM COPENHAGEN, VASTERBOTTEN |
@@ -39,5 +43,4 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | VM-4 | YES | TIANA |
 | ZO-01 |  | CMA CGM MERMAID, ECO GHIBLI, ENCOUNTER |
 | ZO-02 |  | INTEGRITY MAKOTO |
-| ZO-03 |  | MERITA |
 | ZO-12 |  | EASTERN HAWK |

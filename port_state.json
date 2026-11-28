@@ -9,7 +9,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-28 01:31",
+  "last_seen": "2026-11-28 09:58",
   "status": "BERTHED"
  },
  "3034270": {
@@ -21,7 +21,7 @@
    "RKR-4",
    "RKR-9"
   ],
-  "last_seen": "2026-11-28 01:31",
+  "last_seen": "2026-11-28 09:58",
   "status": "BERTHED"
  },
  "3032756": {
@@ -37,7 +37,7 @@
    "RKR-7",
    "RKR-9"
   ],
-  "last_seen": "2026-11-28 01:31",
+  "last_seen": "2026-11-28 09:58",
   "status": "BERTHED"
  },
  "3046630": {
@@ -49,7 +49,7 @@
    "MKR-4",
    "PD-MTW"
   ],
-  "last_seen": "2026-11-28 01:31",
+  "last_seen": "2026-11-28 09:58",
   "status": "BERTHED"
  },
  "3046659": {
@@ -87,7 +87,7 @@
    "PD-791",
    "RKR-6"
   ],
-  "last_seen": "2026-11-28 01:31",
+  "last_seen": "2026-11-28 09:58",
   "status": "BERTHED"
  },
  "3046779": {
@@ -113,18 +113,6 @@
    "KS-30"
   ],
   "last_seen": "2026-11-14 16:14",
-  "status": "BERTHED"
- },
- "3046811": {
-  "name": "SAAREMAA",
-  "imo": "9973274",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "DG-19",
-   "ZO-03"
-  ],
-  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
  "3046833": {
@@ -222,17 +210,6 @@
   "last_seen": "2026-11-14 16:14",
   "status": "BERTHED"
  },
- "3046860": {
-  "name": "HIIUMAA",
-  "imo": "9973286",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "JM-22"
-  ],
-  "last_seen": "2026-11-14 01:39",
-  "status": "BERTHED"
- },
  "3046864": {
   "name": "SAPPHIRE",
   "imo": "1091381",
@@ -245,31 +222,6 @@
   "last_seen": "2026-11-14 21:15",
   "status": "BERTHED"
  },
- "3046842": {
-  "name": "CMA CGM RUNDALE",
-  "imo": "9961300",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "ZO-01",
-   "ZO-02"
-  ],
-  "last_seen": "2026-11-14 01:39",
-  "status": "BERTHED"
- },
- "3046844": {
-  "name": "ELBTEAM",
-  "imo": "9429273",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "KS-32",
-   "ZO-01",
-   "ZO-02"
-  ],
-  "last_seen": "2026-11-14 08:38",
-  "status": "BERTHED"
- },
  "3046852": {
   "name": "NORSE OMISHIMA",
   "imo": "9990674",
@@ -279,18 +231,6 @@
    "KR-25"
   ],
   "last_seen": "2026-11-18 00:57",
-  "status": "BERTHED"
- },
- "3046843": {
-  "name": "X-PRESS AGILITY",
-  "imo": "9483671",
-  "flagged_repair": false,
-  "flagged_long_stay": false,
-  "berths_seen": [
-   "EO-15",
-   "KS-32"
-  ],
-  "last_seen": "2026-11-14 08:38",
   "status": "BERTHED"
  },
  "3046873": {
@@ -710,7 +650,7 @@
    "KRS-02",
    "PD-75"
   ],
-  "last_seen": "2026-11-28 01:31",
+  "last_seen": "2026-11-28 09:58",
   "status": "BERTHED"
  },
  "3046901": {
@@ -1029,7 +969,7 @@
   "berths_seen": [
    "KR-25"
   ],
-  "last_seen": "2026-11-28 01:31",
+  "last_seen": "2026-11-28 09:58",
   "status": "BERTHED"
  },
  "3046895": {
@@ -1155,7 +1095,7 @@
    "MS-2",
    "VM-4"
   ],
-  "last_seen": "2026-11-28 01:31",
+  "last_seen": "2026-11-28 09:58",
   "status": "BERTHED"
  },
  "3046951": {
@@ -1177,7 +1117,7 @@
   "berths_seen": [
    "EO-14"
   ],
-  "last_seen": "2026-11-28 01:31",
+  "last_seen": "2026-11-28 09:58",
   "status": "BERTHED"
  },
  "3046953": {
@@ -1221,7 +1161,7 @@
   "berths_seen": [
    "RKR-7"
   ],
-  "last_seen": "2026-11-28 01:31",
+  "last_seen": "2026-11-28 09:58",
   "status": "BERTHED"
  },
  "3046945": {
@@ -1243,7 +1183,7 @@
   "berths_seen": [
    "ZO-02"
   ],
-  "last_seen": "2026-11-28 01:31",
+  "last_seen": "2026-11-28 09:58",
   "status": "BERTHED"
  },
  "3046956": {
@@ -1302,7 +1242,7 @@
    "KRS-01",
    "KRS-02"
   ],
-  "last_seen": "2026-11-28 01:31",
+  "last_seen": "2026-11-28 09:58",
   "status": "BERTHED"
  },
  "3046942": {
@@ -1311,10 +1251,11 @@
   "flagged_repair": true,
   "flagged_long_stay": false,
   "berths_seen": [
+   "KRS-01",
    "RKR-8",
    "SD-4"
   ],
-  "last_seen": "2026-11-28 01:31",
+  "last_seen": "2026-11-28 09:58",
   "status": "BERTHED"
  },
  "3046962": {
@@ -1325,7 +1266,7 @@
   "berths_seen": [
    "SD-3"
   ],
-  "last_seen": "2026-11-28 01:31",
+  "last_seen": "2026-11-28 09:58",
   "status": "BERTHED"
  },
  "3046959": {
@@ -1337,6 +1278,39 @@
    "KS-34"
   ],
   "last_seen": "2026-11-28 01:31",
+  "status": "BERTHED"
+ },
+ "3046966": {
+  "name": "GREETJE",
+  "imo": "9969467",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "DG-56"
+  ],
+  "last_seen": "2026-11-28 09:58",
+  "status": "BERTHED"
+ },
+ "3046943": {
+  "name": "CMA CGM MERMAID",
+  "imo": "9961283",
+  "flagged_repair": false,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "ZO-01"
+  ],
+  "last_seen": "2026-11-28 09:58",
+  "status": "BERTHED"
+ },
+ "3046964": {
+  "name": "GUADALUPE EXPLORER",
+  "imo": "9926934",
+  "flagged_repair": true,
+  "flagged_long_stay": false,
+  "berths_seen": [
+   "KRS-03"
+  ],
+  "last_seen": "2026-11-28 09:58",
   "status": "BERTHED"
  }
 }

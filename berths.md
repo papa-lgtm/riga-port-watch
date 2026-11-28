@@ -1,4 +1,4 @@
-# Berth codes seen — 2026-11-28 01:31
+# Berth codes seen — 2026-11-28 09:58
 
 Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 
@@ -13,13 +13,13 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | EO-15 |  | EASTERN HAWK, ECO GHIBLI, X-PRESS GODAVARI |
 | KR-21 |  | SOFIA VG |
 | KR-25 |  | SOLE |
-| KRS-01 | YES | SOFIA VG |
+| KRS-01 | YES | HUMBER SPRINTER, SOFIA VG |
 | KRS-02 | YES | HAVBRIS, SOFIA VG |
 | KRS-03 | YES | GUADALUPE EXPLORER |
 | KRS-04 | YES | TIANA |
 | KS-30 |  | TIANA |
 | KS-32 |  | ENCOUNTER, SONDERBORG |
-| KS-34 |  | MSC ASLI II, MSC KAYLA |
+| KS-34 |  | MSC KAYLA |
 | MKR-4 | YES | ARENT |
 | MKR-5 | YES | ASTRA |
 | MS-2 |  | TIANA |
@@ -31,7 +31,7 @@ Prefixes currently treated as repair berths: PD-, RKR-, MKR-, KRS-, VM-
 | RD-3 |  | JSP MOEN |
 | RKR-4 | YES | ASTRA, POSEIDON I |
 | RKR-6 | YES | FEGULUS, HEBO-P101 |
-| RKR-7 | YES | ASTRA, NM COPENHAGEN |
+| RKR-7 | YES | ASTRA, NM COPENHAGEN, VASTERBOTTEN |
 | RKR-8 | YES | CELTIC PIONEER, HUMBER SPRINTER |
 | RKR-9 | YES | ASTRA, POSEIDON I |
 | SD-3 |  | STELLAMAR |
